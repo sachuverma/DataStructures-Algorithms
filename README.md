@@ -1,7 +1,7 @@
 <div style="text-align:center;"> 
-  <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca72.png" style="width:25%;margin:auto;">
+  <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca72.png" style="width:20%;margin:auto;">
 
-  # RESOURCES & SOLUTIONS <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Cup.png" style="width:2.5%">
+  # RESOURCES & SOLUTIONS 
 
 </div>
 
