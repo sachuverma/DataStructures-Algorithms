@@ -5,16 +5,9 @@
 
 </div>
 
-<div> 
-  <span> 
-    <h2>Top Interview Questions</h2>
-    <a href="https://leetcode.com/explore/featured/card/top-interview-questions-easy/">Easy Level Collection </a>
-    <a href="https://leetcode.com/explore/featured/card/top-interview-questions-medium/">Medium Level Collection </a>  
-    <a href="https://leetcode.com/explore/featured/card/top-interview-questions-hard/">Hard Level Collection </a>  
-  </span> 
-</div> <hr/>
+  ## [Top Interview Preparation Questions](https://github.com/sachuverma/Leetcode/tree/master/Top-Interview-Questions)
+  <br/>
 
-<br>
 <div> 
   <span> 
     <a href="https://leetcode.com/contest/">LeetCode Contest </a>🔥
