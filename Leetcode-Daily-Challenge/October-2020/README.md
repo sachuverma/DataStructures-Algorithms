@@ -1,13 +1,13 @@
 # October 2020 LeetCoding Challenge
 
 ## Question Links
-> [Number of Recent Calls](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/) - [Solution]()     
-> [Combination Sum](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3481/) - [Solution]()     
-> [K-diff Pairs in an Array](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3482/) - [Solution]()     
-> [Remove Covered Intervals](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3483/) - [Solution]()     
-> [Complement of Base 10 Integer](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3484/) - [Solution]()     
-> [Insert into a Binary Search Tree](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3485/) - [Solution]()     
-> [Rotate List](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3486/) - [Solution]()     
+> [Number of Recent Calls](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/1.%20Number%20of%20Recent%20Calls.cpp)     
+> [Combination Sum](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3481/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/2.%20Combination%20Sum.cpp)  [Java Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/2.%20Combination%20Sum.java)       
+> [K-diff Pairs in an Array](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3482/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/3.%20K-diff%20Pairs%20in%20an%20Array.cpp)     
+> [Remove Covered Intervals](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3483/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/4.%20Remove%20Covered%20Intervals.cpp)     
+> [Complement of Base 10 Integer](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3484/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/5.%20Complement%20of%20Base%2010%20Integer.cpp)     
+> [Insert into a Binary Search Tree](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3485/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/6.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp)     
+> [Rotate List](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3486/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/7.%20Rotate%20List.cpp)     
 > []() - [Solution]()     
 > []() - [Solution]()     
 > []() - [Solution]()     
