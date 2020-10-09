@@ -8,7 +8,7 @@
 > [Complement of Base 10 Integer](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3484/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/5.%20Complement%20of%20Base%2010%20Integer.cpp)     
 > [Insert into a Binary Search Tree](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3485/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/6.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp)     
 > [Rotate List](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3486/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/7.%20Rotate%20List.cpp)     
-> [Binary Search](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/8.%20Binary%20Search.cpp)  [Java Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/8.%20Binary%20Search.java)
+> [Binary Search](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/8.%20Binary%20Search.cpp)  [Java Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/8.%20Binary%20Search.java)   
 > []() - [Solution]()     
 > []() - [Solution]()     
 > []() - [Solution]()     
