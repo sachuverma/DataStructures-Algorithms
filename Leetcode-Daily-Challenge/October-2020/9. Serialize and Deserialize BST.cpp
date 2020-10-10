@@ -34,105 +34,49 @@ The input tree is guaranteed to be a binary search tree.
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
+
 class Codec
 {
 public:
-  string s, h;
-  void func(TreeNode *root)
-  {
-    if (root == NULL)
+    // Encodes a tree to a single string.
+    string serialize(TreeNode *root)
     {
-      return;
-    }
-    h = to_string(root->val);
-    s = s + h + "-";
-    func(root->left);
-    func(root->right);
-  }
-  // Encodes a tree to a single string.
-  string serialize(TreeNode *root)
-  {
-    if (root == NULL)
-    {
-      return s;
-    }
-    func(root);
+        if (root == NULL)
+            return "#";
 
-    return s;
-  }
-  void insert(TreeNode *&r, int t)
-  {
-    if (r == NULL)
-    {
-      return;
+        return to_string(root->val) + "," + serialize(root->left) + "," + serialize(root->right);
     }
-    if (r->left == NULL || r->right == NULL)
+
+    int i = 0;
+    TreeNode *des(string data)
     {
-      if (r->left == NULL && r->right == NULL)
-      {
-        if (r->val < t)
+        if (i < data.size() && data[i] == ',')
+            i++;
+        if (i >= data.size() || data[i] == '#')
         {
-          r->right = new TreeNode(t);
+            i += 2;
+            return nullptr;
         }
-        else
+        string s = "";
+        while (i < data.size() && data[i] != ',')
         {
-          r->left = new TreeNode(t);
+            s += data[i];
+            i++;
         }
-        return;
-      }
-      else
-      {
-        if (r->left == NULL && r->val > t)
-        {
-          r->left = new TreeNode(t);
-          return;
-        }
-        else if (r->right == NULL && r->val < t)
-        {
-          r->right = new TreeNode(t);
-          return;
-        }
-      }
+
+        TreeNode *node = new TreeNode(stoi(s));
+
+        node->left = des(data);
+        node->right = des(data);
+        cout << node->val << " ";
+        return node;
     }
-    if (r->val < t)
-    {
-      insert(r->right, t);
-    }
-    else
-    {
-      insert(r->left, t);
-    }
-  }
-  // Decodes your encoded data to tree.
-  TreeNode *deserialize(string data)
-  {
-    TreeNode *root;
-    if (data.size() == 0)
-    {
-      return NULL;
-    }
-    vector<int> v;
-    string m;
-    for (int i = 0; i < data.size(); i++)
+    // Decodes your encoded data to tree.
+    TreeNode *deserialize(string data)
     {
 
-      if (data[i] == '-')
-      {
-        v.push_back(stoi(m));
-        m.clear();
-      }
-      else
-      {
-        m = m + data[i];
-      }
+        return des(data.substr(0, data.size() - 2));
     }
-    root = new TreeNode(v[0]);
-    for (int i = 1; i < v.size(); i++)
-    {
-      insert(root, v[i]);
-    }
-    return root;
-  }
 };
 
 // Your Codec object will be instantiated and called as such:
