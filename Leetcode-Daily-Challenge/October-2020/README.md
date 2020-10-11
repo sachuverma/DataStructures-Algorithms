@@ -10,6 +10,7 @@
 > [Rotate List](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3486/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/7.%20Rotate%20List.cpp)     
 > [Binary Search](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/8.%20Binary%20Search.cpp)  [Java Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/8.%20Binary%20Search.java)    
 > [Serialize and Deserialize BST](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3489/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/9.%20Serialize%20and%20Deserialize%20BST.cpp)    
-> []() - [Solution]()     
+> [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3490/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/10.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)      
+> [Remove Duplicate Letters](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3491/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/11.%20Remove%20Duplicate%20Letters.cpp)    
 > []() - [Solution]()     
 > []() - [Solution]()     
