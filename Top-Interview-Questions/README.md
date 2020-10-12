@@ -3,18 +3,18 @@
 ## Easy Level Collection
 
 ### 1. Array
-  - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-  - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-  - [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-  - [Rotate Array](https://leetcode.com/problems/rotate-array/)
-  - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-  - [Single Number](https://leetcode.com/problems/single-number/)
-  - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
-  - [Plus One](https://leetcode.com/problems/plus-one/)
-  - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
-  - [Two Sum](https://leetcode.com/problems/two-sum/)
-  - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
-  - [Rotate Image](https://leetcode.com/problems/rotate-image/)
+  - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [Cpp Solution](./Remove%20Duplicates%20from%20Sorted%20Array.cpp)    
+  - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [Cpp Solution](./Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)    
+  - [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) [Cpp Solution](./Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)    
+  - [Rotate Array](https://leetcode.com/problems/rotate-array/) [Cpp Solution](./Rotate%20Array.cpp)    
+  - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) [Cpp Solution](./Contains%20Duplicate.cpp)    
+  - [Single Number](https://leetcode.com/problems/single-number/) [Cpp Solution](./Single%20Number.cpp)    
+  - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) [Cpp Solution](./Intersection%20of%20Two%20Arrays%20II.cpp)    
+  - [Plus One](https://leetcode.com/problems/plus-one/) [Cpp Solution](./Plus%20One.cpp)    
+  - [Move Zeroes](https://leetcode.com/problems/move-zeroes/) [Cpp Solution](./Move%20Zeroes.cpp)    
+  - [Two Sum](https://leetcode.com/problems/two-sum/) [Cpp Solution](./Two%20Sum.cpp)    
+  - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) [Cpp Solution](./Valid%20Sudoku.cpp)    
+  - [Rotate Image](https://leetcode.com/problems/rotate-image/) [Cpp Solution](./Rotate%20Image.cpp)    
   
 ### 2. Strings
   - [Reverse String](https://leetcode.com/problems/reverse-string/)
