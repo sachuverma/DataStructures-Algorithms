@@ -1,7 +1,7 @@
 # October 2020 LeetCoding Challenge
 
 ## Question Links
-> [Number of Recent Calls](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/01.%20Number%20of%20Recent%20Calls.cpp)     
+> [Number of Recent Calls](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/) - [Cpp Solution](./01.%20Number%20of%20Recent%20Calls.cpp)     
 > [Combination Sum](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3481/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/02.%20Combination%20Sum.cpp)  [Java Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/02.%20Combination%20Sum.java)       
 > [K-diff Pairs in an Array](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3482/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/03.%20K-diff%20Pairs%20in%20an%20Array.cpp)     
 > [Remove Covered Intervals](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3483/) - [Cpp Solution](https://github.com/sachuverma/Leetcode/blob/master/Leetcode-Daily-Challenge/October-2020/04.%20Remove%20Covered%20Intervals.cpp)     
