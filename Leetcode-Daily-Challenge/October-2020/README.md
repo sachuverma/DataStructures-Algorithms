@@ -13,6 +13,7 @@
 > [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3490/) - [Cpp Solution](./10.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)      
 > [Remove Duplicate Letters](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3491/) - [Cpp Solution](./11.%20Remove%20Duplicate%20Letters.cpp)    
 > [Buddy Strings](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3492/) - [Cpp Solution](./12.%20Buddy%20Strings.cpp)     
+> [Sort List](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/) - [Cpp Solution](./13.%20Sort%20List.cpp)     
 > []() - [Solution]()     
 > []() - [Solution]()     
 > []() - [Solution]()     
