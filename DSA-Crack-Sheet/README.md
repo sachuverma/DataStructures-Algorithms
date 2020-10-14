@@ -6,14 +6,16 @@
 
 <span style="font-family:Roboto; font-size:1.3em;">
 
-| S.No  | Topic | Question | Solution |  
-| :---: | :---: | :------: | :------: |   
-| 1. | Array | [Reverse The Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/ "view topic") | [cpp](./1.%20Reverse%20The%20Array.cpp "view my solution") |   
+| S.No  | Topic | Question | Solution | Difficulty |   
+| :---: | :---: | :------: | :------: | :--------: |   
+| 1. | Array | [Reverse The Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/ "view topic") | [cpp](./1.%20Reverse%20The%20Array.cpp "view my solution") | Easy |    
+
+
 <!-- 
-|  |  | []( "view topic") | []( "view my solution") |   
-|  |  | []( "view topic") | []( "view my solution") |   
-|  |  | []( "view topic") | []( "view my solution") |   
-|  |  | []( "view topic") | []( "view my solution") |    
+|  |  | []( "view topic") | []( "view my solution") |  |   
+|  |  | []( "view topic") | []( "view my solution") |  |   
+|  |  | []( "view topic") | []( "view my solution") |  |   
+|  |  | []( "view topic") | []( "view my solution") |  |    
 --> 
 
 
