@@ -10,7 +10,7 @@
 
 <div> 
   <span> 
-    <a href="#"> </a>🔥
+    <a href="#"> </a>
     <br>
     
   </span>
