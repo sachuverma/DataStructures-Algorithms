@@ -14,6 +14,7 @@
 > [Remove Duplicate Letters](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3491/) - [Cpp Solution](./11.%20Remove%20Duplicate%20Letters.cpp)    
 > [Buddy Strings](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3492/) - [Cpp Solution](./12.%20Buddy%20Strings.cpp)     
 > [Sort List](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/) - [Cpp Solution](./13.%20Sort%20List.cpp)     
+> [House Robber II](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3494/) - [Cpp Solution](./14.%20House%20Robber%20II.cpp)     
 > []() - [Solution]()     
 > []() - [Solution]()     
 > []() - [Solution]()     
