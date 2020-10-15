@@ -15,8 +15,17 @@
 > [Buddy Strings](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3492/) - [Cpp Solution](./12.%20Buddy%20Strings.cpp)     
 > [Sort List](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/) - [Cpp Solution](./13.%20Sort%20List.cpp)     
 > [House Robber II](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3494/) - [Cpp Solution](./14.%20House%20Robber%20II.cpp)     
+> [Rotate Array](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3496/) - [Cpp Solution](./15.%20Rotate%20Array.cpp)     
+
+
+
+
+<!-- 
+
 > []() - [Solution]()     
 > []() - [Solution]()     
 > []() - [Solution]()     
 > []() - [Solution]()     
 > []() - [Solution]()     
+
+ -->
