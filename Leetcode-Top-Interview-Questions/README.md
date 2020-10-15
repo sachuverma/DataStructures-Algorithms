@@ -17,13 +17,13 @@
   - [Rotate Image](https://leetcode.com/problems/rotate-image/) - [Cpp Solution](./Rotate%20Image.cpp)    
   
 ### 2. Strings
-  - [Reverse String](https://leetcode.com/problems/reverse-string/)
-  - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
-  - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-  - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-  - [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
-  - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
-  - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+  - [Reverse String](https://leetcode.com/problems/reverse-string/) - [Cpp Solution](./Reverse%20String.cpp)    
+  - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) - [Cpp Solution](./First%20Unique%20Character%20in%20a%20String.cpp)    
+  - [Valid Anagram](https://leetcode.com/problems/valid-anagram/) - [Cpp Solution](./Valid%20Anagram.cpp)    
+  - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [Cpp Solution](./Valid%20Palindrome.cpp)    
+  - [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) - [Cpp Solution](./.cpp)    
+  - [Implement strStr()](https://leetcode.com/problems/implement-strstr/) - [Cpp Solution](./.cpp)    
+  - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - [Cpp Solution](./.cpp)    
 
   
 ### 3. Linked List
