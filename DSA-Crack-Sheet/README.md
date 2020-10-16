@@ -17,6 +17,7 @@
 | 7. | Array | [Cyclically Rotate An Array By One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0 "view question") | [cpp](./7.%20Cyclically%20Rotate%20An%20Array%20By%20One.cpp "view my solution") | Easy |   
 | 8. | Array | [Largest Sum Contiguous Subarray / Kadane's Algorithm*](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0 "view question") | [cpp](./8.%20Largest%20Sum%20Contiguous%20Subarray.cpp "view my solution") | Medium |   
 | 9. | Array | [Minimize The Heights*](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1 "view question") | [cpp](./9.%20Minimize%20The%20Heights.cpp "view my solution") | Medium |   
+| 10. | Array | [Minimum Number Of Jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0 "view question") | [cpp](./10.%20Minimum%20Number%20Of%20Jumps.cpp "view my solution") | Medium |   
 
 
 <!-- 
