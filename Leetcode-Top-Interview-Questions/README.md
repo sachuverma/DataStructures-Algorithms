@@ -21,7 +21,7 @@
   - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) - [Cpp Solution](./First%20Unique%20Character%20in%20a%20String.cpp)    
   - [Valid Anagram](https://leetcode.com/problems/valid-anagram/) - [Cpp Solution](./Valid%20Anagram.cpp)    
   - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [Cpp Solution](./Valid%20Palindrome.cpp)    
-  - [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) - [Cpp Solution](./.cpp)    
+  - [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) - [Cpp Solution](./String%20to%20Integer%20(atoi).cpp)    
   - [Implement strStr()](https://leetcode.com/problems/implement-strstr/) - [Cpp Solution](./.cpp)    
   - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - [Cpp Solution](./.cpp)    
 
