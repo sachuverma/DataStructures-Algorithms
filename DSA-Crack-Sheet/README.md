@@ -19,8 +19,9 @@
 | 9. | Array | [Minimize The Heights*](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1 "view question") | [cpp](./9.%20Minimize%20The%20Heights.cpp "view my solution") | Medium |   
 | 10. | Array | [Minimum Number Of Jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0 "view question") | [cpp](./10.%20Minimum%20Number%20Of%20Jumps.cpp "view my solution") | Medium |   
 | 11. | Array | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/ "view question") | [cpp](./11.%20Find%20the%20Duplicate%20Number.cpp "view my solution") | Medium |   
-| 12. | Array | [Merge Without Extra Space](https://leetcode.com/problems/find-the-duplicate-number/ "view question") | [cpp](./12.%20Merge%20Without%20Extra%20Space.cpp "view my solution") | Hard |   
+| 12. | Array | [Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1 "view question") | [cpp](./12.%20Merge%20Without%20Extra%20Space.cpp "view my solution") | Hard |   
 | 13. | Array | [Kadane's Algorithm**](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0 "view question") | [cpp](./13.%20Largest%20Sum%20Contiguous%20Subarray.cpp "view my solution") | Medium |   
+| 14. | Array | [Merge Intervals](https://leetcode.com/problems/merge-intervals/ "view question") | [cpp](./14.%20Merge%20Intervals.cpp "view my solution") | Medium |   
 
 
 <!-- 
