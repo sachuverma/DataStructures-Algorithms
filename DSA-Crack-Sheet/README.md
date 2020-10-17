@@ -20,6 +20,7 @@
 | 10. | Array | [Minimum Number Of Jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0 "view question") | [cpp](./10.%20Minimum%20Number%20Of%20Jumps.cpp "view my solution") | Medium |   
 | 11. | Array | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/ "view question") | [cpp](./11.%20Find%20the%20Duplicate%20Number.cpp "view my solution") | Medium |   
 | 12. | Array | [Merge Without Extra Space](https://leetcode.com/problems/find-the-duplicate-number/ "view question") | [cpp](./12.%20Merge%20Without%20Extra%20Space.cpp "view my solution") | Hard |   
+| 13. | Array | [Kadane's Algorithm**](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0 "view question") | [cpp](./13.%20Largest%20Sum%20Contiguous%20Subarray.cpp "view my solution") | Medium |   
 
 
 <!-- 
