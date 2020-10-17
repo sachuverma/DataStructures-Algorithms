@@ -27,6 +27,9 @@
 | 17. | Array | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ "view question") | [cpp](./17.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp "view my solution") | Easy |   
 | 18. | Array | [Count Pairs With Given Sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1 "view question") | [cpp](./18.%20Count%20Pairs%20With%20Given%20Sum.cpp "view my solution") | Easy |   
 | 19. | Array | [Common Elements](https://practice.geeksforgeeks.org/problems/common-elements1132/1 "view question") | [cpp](./19.%20Common%20Elements.cpp "view my solution") | Easy |   
+| 20. | Array | [Rearrange In Alternating Positive Negative Elements](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/ "view topic") | [cpp](./20.%20Rearrange%20In%20Alternating%20Positive%20Negative%20Elements.cpp "view my solution") | Easy |   
+| 21. | Array | [Subarray with sum 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0 "view question") / [Subarray with sum k](https://leetcode.com/problems/subarray-sum-equals-k/ "view question") | [cpp](./21.%20Subarray%20with%200%20sum.cpp "view my solution") | Easy |   
+
 
 
 
