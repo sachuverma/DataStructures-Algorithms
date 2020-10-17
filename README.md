@@ -10,8 +10,8 @@
   
   ### [Leetcode Daily Challenge](./Leetcode-Daily-Challenge)
   - 2020
-   * [October](./Leetcode-Daily-Challenge/October-2020)
-   * 
+    * [October](./Leetcode-Daily-Challenge/October-2020)
+    * 
   
  </details>
 
