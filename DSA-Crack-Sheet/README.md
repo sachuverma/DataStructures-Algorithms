@@ -23,6 +23,7 @@
 | 13. | Array | [Kadane's Algorithm**](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0 "view question") | [cpp](./13.%20Largest%20Sum%20Contiguous%20Subarray.cpp "view my solution") | Medium |   
 | 14. | Array | [Merge Intervals](https://leetcode.com/problems/merge-intervals/ "view question") | [cpp](./14.%20Merge%20Intervals.cpp "view my solution") | Medium |   
 | 15. | Array | [Next Permutation](https://leetcode.com/problems/next-permutation/ "view question") | [cpp](./15.%20Next%20Permutation.cpp "view my solution") | Medium |   
+| 16. | Array | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/next-permutation/ "view question") | [cpp](./16.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp "view my solution") | Easy |   
 
 
 <!-- 
