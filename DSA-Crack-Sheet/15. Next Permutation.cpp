@@ -19,16 +19,12 @@ public:
       }
     }
 
-    cout << di << endl;
-
     for (int i = n - 1; i >= di; --i)
     {
-      // cout<<i<<" "<<di<<endl;
       if (di == -1)
         break;
       if (nums[i] > nums[di])
       {
-        cout << i << " " << di << endl;
         int temp = nums[i];
         nums[i] = nums[di];
         nums[di] = temp;
