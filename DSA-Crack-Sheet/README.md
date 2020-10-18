@@ -30,6 +30,7 @@
 | 20. | Array | [Rearrange In Alternating Positive Negative Elements](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/ "view topic") | [cpp](./20.%20Rearrange%20In%20Alternating%20Positive%20Negative%20Elements.cpp "view my solution") | Easy |   
 | 21. | Array | [Subarray with sum 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0 "view question") / [Subarray with sum k](https://leetcode.com/problems/subarray-sum-equals-k/ "view question") | [cpp](./21.%20Subarray%20with%200%20sum.cpp "view my solution") | Easy |   
 | 22. | Array | [Factorials Of Large Numbers](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0 "view question") | [cpp](./22.%20Factorials%20Of%20Large%20Numbers.cpp "view my solution") | Medium |   
+| 23. | Array | [Maximum Product Subarray](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1 "view question") | [cpp](./23.%20Maximum%20Product%20Subarray.cpp "view my solution") | Easy |   
 
 
 
