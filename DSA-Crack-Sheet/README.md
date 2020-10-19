@@ -34,6 +34,7 @@
 | 24. | Array | [Longest Consecutive Subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0 "view question") | [cpp](./24.%20Longest%20Consecutive%20Subsequence.cpp "view my solution") | Easy |   
 | 25. | Array | [Elements More Than n/k Times](https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/ "view question") | [cpp](./25.%20Elements%20More%20Than%20nk%20Times.cpp "view my solution") | Easy |   
 | 27. | Array | [Array Subset Of Another Array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0 "view question") | [cpp](./27.%20Array%20Subset%20Of%20Another%20Array.cpp "view my solution") | Easy |   
+| 28. | Array | [Triplet Sum in Array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0 "view question") | [cpp](./28.%20Triplet%20Sum%20in%20Array.cpp "view my solution") | Easy |   
 
 
 
