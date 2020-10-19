@@ -37,6 +37,7 @@
 | 28. | Array | [Triplet Sum in Array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0 "view question") | [cpp](./28.%20Triplet%20Sum%20in%20Array.cpp "view my solution") | Easy |   
 | 29. | Array | [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0 "view question") | [cpp](./29.%20Trapping%20Rain%20Water.cpp "view my solution") | Medium |   
 | 30. | Array | [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0 "view question") | [cpp](./30.%20Chocolate%20Distribution%20Problem.cpp "view my solution") | Easy |   
+| 31. | Array | [Smallest subarray with sum greater than x](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0 "view question") | [cpp](./31.%20Smallest%20subarray%20with%20sum%20greater%20than%20x.cpp "view my solution") | Easy |   
 
 
 
