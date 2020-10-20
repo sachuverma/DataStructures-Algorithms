@@ -39,6 +39,7 @@
 | 30. | Array | [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0 "view question") | [cpp](./30.%20Chocolate%20Distribution%20Problem.cpp "view my solution") | Easy |   
 | 31. | Array | [Smallest subarray with sum greater than x](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0 "view question") | [cpp](./31.%20Smallest%20subarray%20with%20sum%20greater%20than%20x.cpp "view my solution") | Easy |   
 | 32. | Array | [Three Way Partitioning](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1 "view question") | [cpp](./32.%20Three%20Way%20Partitioning.cpp "view my solution") | Easy |   
+| 33. | Array | [Minimum swaps and K together](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0 "view question") | [cpp](./32.%20Minimum%20swaps%20and%20K%20together.cpp "view my solution") | Medium |   
 
 
 
