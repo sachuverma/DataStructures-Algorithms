@@ -41,7 +41,7 @@
 | 32. | Array | [Three Way Partitioning](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1 "view question") | [cpp](./32.%20Three%20Way%20Partitioning.cpp "view my solution") | Easy |   
 | 33. | Array | [Minimum swaps and K together](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0 "view question") | [cpp](./32.%20Minimum%20swaps%20and%20K%20together.cpp "view my solution") | Medium |   
 | 35. | Array | [Find the median](https://practice.geeksforgeeks.org/problems/find-the-median0527/1 "view question") | [cpp](./35.%20Find%20the%20median.cpp "view my solution") | Easy |   
-| 36. | Array | [Median Of Two Sorted Arrays Of Different Sizes](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/ "view topic") | [cpp](./36.%20Median%20f%20Two%20Sorted%20Arrays%20Of%20Different%20Sizes.cpp "view my solution") | Easy |   
+| 36. | Array | [Median Of Two Sorted Arrays Of Different Sizes](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/ "view topic") | [cpp](./36.%20Median%20Of%20Two%20Sorted%20Arrays%20Of%20Different%20Sizes.cpp "view my solution") | Easy |   
 
 
 
