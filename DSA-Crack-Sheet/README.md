@@ -45,6 +45,7 @@
 | 36. | Array | [Median Of Two Sorted Arrays Of Different Sizes](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/ "view topic") | [cpp](./36.%20Median%20Of%20Two%20Sorted%20Arrays%20Of%20Different%20Sizes.cpp "view my solution") | Easy |   
 | 37. | Matrix | [Spirally Traversing A Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0# "view question") | [cpp](./37.%20Spirally%20Traversing%20A%20Matrix.cpp "view my solution") | Easy |   
 | 38. | Matrix | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/ "view question") | [cpp](./38.%20Search%20a%202D%20Matrix.cpp "view my solution") | Medium |   
+| 39. | Matrix | [Median in a Rowwise Sorted Matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1 "view question") | [cpp](./39.%20Median%20in%20a%20Rowwise%20Sorted%20Matrix.cpp "view my solution") | Medium |   
 
 
 
