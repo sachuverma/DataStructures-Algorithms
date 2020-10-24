@@ -43,6 +43,8 @@
 | 34. | Array | [Palindromic Array](https://practice.geeksforgeeks.org/problems/palindromic-array/0# "view question") | [cpp](./34.%20Palindromic%20Array.cpp "view my solution") | Medium |   
 | 35. | Array | [Find the median](https://practice.geeksforgeeks.org/problems/find-the-median0527/1 "view question") | [cpp](./35.%20Find%20the%20median.cpp "view my solution") | Easy |   
 | 36. | Array | [Median Of Two Sorted Arrays Of Different Sizes](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/ "view topic") | [cpp](./36.%20Median%20Of%20Two%20Sorted%20Arrays%20Of%20Different%20Sizes.cpp "view my solution") | Easy |   
+    
+| 37. | Matrix | [Spirally Traversing A Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0# "view question") | [cpp](./37.%20Spirally%20Traversing%20A%20Matrix.cpp "view my solution") | Easy |   
 
 
 
