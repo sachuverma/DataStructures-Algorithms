@@ -25,6 +25,7 @@
 | 21. | [Asteroid Collision](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3502/) | [cpp](./21.%20Asteroid%20Collision.cpp) |     
 | 22. | [Minimum Depth of Binary Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3504/) | [cpp](./22.%20Minimum%20Depth%20of%20Binary%20Tree.cpp) |     
 | 23. | [132 Pattern](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3505/) | [cpp](./23.%20132%20Pattern.cpp) |     
+| 24. | [Bag of Tokens](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3506/) | [cpp](./24.%20Bag%20of%20Tokens.cpp) |     
 
 
 
