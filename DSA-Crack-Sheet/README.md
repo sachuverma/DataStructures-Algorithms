@@ -51,6 +51,7 @@
 | 42. | Matrix | []( "view question") | [cpp](./42.%20.cpp "view my solution") | Medium |   
 | 43. | Matrix | [Find a Specific Pair in Matrix](https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/ "view topic") | [cpp](./43.%20Find%20a%20Specific%20Pair%20in%20Matrix.cpp "view my solution") | Medium |   
 | 44. | Matrix | [Rotate a matrix by 90 degree in clockwise direction without using any extra space](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/ "view topic") | [cpp](./44.%20Rotate%20a%20matrix%20by%2090%20degree%20in%20clockwise%20direction%20without%20using%20any%20extra%20space.cpp "view my solution") | Easy |   
+| 45. | Matrix | [Kth element in Matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1# "view topic") | [cpp](./45.%20Kth%20element%20in%20Matrix.cpp "view my solution") | Medium |   
 
 
 
