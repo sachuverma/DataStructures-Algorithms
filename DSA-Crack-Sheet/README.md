@@ -58,6 +58,7 @@
 | 47. | Strings | [Reverse String](https://leetcode.com/problems/reverse-string/ "view question") | [cpp](./47.%20Reverse%20String.cpp "view my solution") | Easy |   
 | 48. | Strings | [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1 "view question") | [cpp](./48.%20Palindrome%20String.cpp "view my solution") | Easy |   
 | 49. | Strings | [Print all the duplicates in the input string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/ "view question") | [cpp](./49.%20Print%20all%20the%20duplicates%20in%20the%20input%20string.cpp "view my solution") | Easy |   
+| 51. | Strings | [Check If Strings Are Rotations Of Each Other](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/ "view topic") | [cpp](./51.%20Check%20If%20Strings%20Are%20Rotations%20Of%20Each%20Other.cpp "view my solution") | Easy |   
 
 
 
