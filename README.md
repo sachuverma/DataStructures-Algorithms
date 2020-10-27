@@ -8,11 +8,15 @@
  <details>
   <summary>Daily Challenges</summary>   
   
-  ### [Leetcode Daily Challenge](./Leetcode-Daily-Challenge)
-  - 2020
-    * [October](./Leetcode-Daily-Challenge/October-2020)
-    * 
-  
+  <a href="./Leetcode-Daily-Challenge">Leetcode Daily Challenge</a>
+  <ul>
+    <li>2020
+      <ul>
+       <li><a href="./Leetcode-Daily-Challenge/October-2020">October</a></li>
+       <li><a href="./Leetcode-Daily-Challenge/November-2020">November</a></li>
+      </ul>
+    </li>
+  </ul>
  </details>
 
 
