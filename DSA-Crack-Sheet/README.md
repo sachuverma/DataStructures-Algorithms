@@ -43,6 +43,7 @@
 | 34. | Array | [Palindromic Array](https://practice.geeksforgeeks.org/problems/palindromic-array/0# "view question") | [cpp](./34.%20Palindromic%20Array.cpp "view my solution") | Medium |   
 | 35. | Array | [Find the median](https://practice.geeksforgeeks.org/problems/find-the-median0527/1 "view question") | [cpp](./35.%20Find%20the%20median.cpp "view my solution") | Easy |   
 | 36. | Array | [Median Of Two Sorted Arrays Of Different Sizes](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/ "view topic") | [cpp](./36.%20Median%20Of%20Two%20Sorted%20Arrays%20Of%20Different%20Sizes.cpp "view my solution") | Easy |   
+| | | | | |
 | 37. | Matrix | [Spirally Traversing A Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0# "view question") | [cpp](./37.%20Spirally%20Traversing%20A%20Matrix.cpp "view my solution") | Easy |   
 | 38. | Matrix | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/ "view question") | [cpp](./38.%20Search%20a%202D%20Matrix.cpp "view my solution") | Medium |   
 | 39. | Matrix | [Median in a Rowwise Sorted Matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1 "view question") | [cpp](./39.%20Median%20in%20a%20Rowwise%20Sorted%20Matrix.cpp "view my solution") | Medium |   
@@ -53,6 +54,7 @@
 | 44. | Matrix | [Rotate a matrix by 90 degree in clockwise direction without using any extra space](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/ "view topic") | [cpp](./44.%20Rotate%20a%20matrix%20by%2090%20degree%20in%20clockwise%20direction%20without%20using%20any%20extra%20space.cpp "view my solution") | Easy |   
 | 45. | Matrix | [Kth element in Matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1# "view question") | [cpp](./45.%20Kth%20element%20in%20Matrix.cpp "view my solution") | Medium |   
 | 46. | Matrix | [Common elements in all rows of a given matrix](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/ "view topic") | [cpp](./46.%20Common%20elements%20in%20all%20rows%20of%20a%20given%20matrix.cpp "view my solution") | Medium |   
+| | | | | |
 | 47. | Strings | [Reverse String](https://leetcode.com/problems/reverse-string/ "view question") | [cpp](./47.%20Reverse%20String.cpp "view my solution") | Easy |   
 | 48. | Strings | [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1 "view question") | [cpp](./48.%20Palindrome%20String.cpp "view my solution") | Easy |   
 | 49. | Strings | [Print all the duplicates in the input string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/ "view question") | [cpp](./49.%20Print%20all%20the%20duplicates%20in%20the%20input%20string.cpp "view my solution") | Easy |   
