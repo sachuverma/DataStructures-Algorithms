@@ -48,6 +48,8 @@
 | 39. | Matrix | [Median in a Rowwise Sorted Matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1 "view question") | [cpp](./39.%20Median%20in%20a%20Rowwise%20Sorted%20Matrix.cpp "view my solution") | Medium |   
 | 40. | Matrix | [Row with max 1s](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1 "view question") | [cpp](./40.%20Row%20with%20max%201s.cpp "view my solution") | Medium |   
 | 41. | Matrix | [Sorted Matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix/0# "view question") | [cpp](./41.%20Sorted%20Matrix.cpp "view my solution") | Medium |   
+| 42. | Matrix | []( "view question") | [cpp](./42.%20.cpp "view my solution") | Medium |   
+| 43. | Matrix | [Find a Specific Pair in Matrix]( "view question") | [cpp](./43.%20Find%20a%20Specific%20Pair%20in%20Matrix.cpp "view my solution") | Medium |   
 
 
 
