@@ -55,6 +55,7 @@
 | 46. | Matrix | [Common elements in all rows of a given matrix](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/ "view topic") | [cpp](./46.%20Common%20elements%20in%20all%20rows%20of%20a%20given%20matrix.cpp "view my solution") | Medium |   
 | 47. | Strings | [Reverse String](https://leetcode.com/problems/reverse-string/ "view question") | [cpp](./47.%20Reverse%20String.cpp "view my solution") | Easy |   
 | 48. | Strings | [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1 "view question") | [cpp](./48.%20Palindrome%20String.cpp "view my solution") | Easy |   
+| 49. | Strings | [Print all the duplicates in the input string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/ "view question") | [cpp](./49.%20Print%20all%20the%20duplicates%20in%20the%20input%20string.cpp "view my solution") | Easy |   
 
 
 
