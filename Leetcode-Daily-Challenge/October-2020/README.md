@@ -28,6 +28,7 @@
 | 24. | [Bag of Tokens](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3506/) | [cpp](./24.%20Bag%20of%20Tokens.cpp) |     
 | 25. | [Stone Game IV](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3507/) | [cpp](./25.%20Stone%20Game%20IV.cpp) |     
 | 26. | [Champagne Tower](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3508/) | [cpp](./26.%20Champagne%20Tower.cpp) |     
+| 27. | [Linked List Cycle II](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3509/) | [cpp](./27.%20Linked%20List%20Cycle II.cpp) |     
 
 
 
