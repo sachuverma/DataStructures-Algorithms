@@ -54,6 +54,7 @@
 | 45. | Matrix | [Kth element in Matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1# "view question") | [cpp](./45.%20Kth%20element%20in%20Matrix.cpp "view my solution") | Medium |   
 | 46. | Matrix | [Common elements in all rows of a given matrix](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/ "view topic") | [cpp](./46.%20Common%20elements%20in%20all%20rows%20of%20a%20given%20matrix.cpp "view my solution") | Medium |   
 | 47. | Strings | [Reverse String](https://leetcode.com/problems/reverse-string/ "view question") | [cpp](./47.%20Reverse%20String.cpp "view my solution") | Easy |   
+| 48. | Strings | [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1 "view question") | [cpp](./48.%20Palindrome%20String.cpp "view my solution") | Easy |   
 
 
 
