@@ -60,6 +60,7 @@
 | 49. | Strings | [Print all the duplicates in the input string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/ "view question") | [cpp](./49.%20Print%20all%20the%20duplicates%20in%20the%20input%20string.cpp "view my solution") | Easy |   
 | 51. | Strings | [Check If Strings Are Rotations Of Each Other](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/ "view topic") | [cpp](./51.%20Check%20If%20Strings%20Are%20Rotations%20Of%20Each%20Other.cpp "view my solution") | Easy |   
 | 52. | Strings | [Check If a String is a Valid Shuffle of Two Other Strings](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings "view topic") | [cpp](./52.%20Check%20If%20a%20String%20is%20a%20Valid%20Shuffle%20of%20Two%20Other%20Strings.cpp "view my solution") | Easy |   
+| 53. | Strings | [Longest Palindrome in a String](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0 "view question") | [cpp](./53.%20Longest%20Palindrome%20in%20a%20String.cpp "view my solution") | Medium |   
 
 
 
