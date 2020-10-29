@@ -30,6 +30,7 @@
 | 26. | [Champagne Tower](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3508/) | [cpp](./26.%20Champagne%20Tower.cpp) |     
 | 27. | [Linked List Cycle II](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3509/) | [cpp](./27.%20Linked%20List%20Cycle%20II.cpp) |     
 | 28. | [Summary Ranges](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3510/) | [cpp](./28.%20Summary%20Ranges.cpp) |     
+| 29. | [Maximize Distance To Closest Person](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3512/) | [cpp] (./29.%20Maximize%20distance%20to%Closest%Person.cpp) |
 
 
 
