@@ -64,6 +64,7 @@
 | 54. | Strings | [Longest Palindrome in a String](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0 "view question") | [cpp](./54.%20Longest%20Palindrome%20in%20a%20String.cpp "view my solution") | Medium |   
 | 55. | Strings | [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0 "view question") | [cpp](./55.%20Longest%20Repeating%20Subsequence.cpp "view my solution") | Medium |   
 | 56. | Strings | [Print all subsequences of a string](https://www.geeksforgeeks.org/print-subsequences-string/ "view question") | [cpp](./56.%20Print%20all%20subsequences%20of%20a%20string.cpp "view my solution") | Easy |   
+| 57. | Strings | [Permutations of a Given String](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0 "view question") | [cpp](./57.%20Permutations%20of%20a%20Given%20String.cpp "view my solution") | Easy |   
 
 
 
