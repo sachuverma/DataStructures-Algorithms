@@ -41,24 +41,20 @@ class Solution
 public:
   ListNode *removeNthFromEnd(ListNode *head, int n)
   {
-    auto temp = head;
-    int size = 0;
+    auto fast = head, slow = head;
+    for (int i = 1; i <= n; ++i)
+      fast = fast->next;
 
-    while (temp)
+    if (fast == NULL)
+      return slow->next;
+
+    while (fast->next)
     {
-      temp = temp->next;
-      size++;
+      slow = slow->next;
+      fast = fast->next;
     }
 
-    n = size - n;
-    if (n == 0)
-      return head->next;
-
-    temp = head;
-    while (n > 0 && --n)
-      temp = temp->next;
-    temp->next = temp->next->next;
-
+    slow->next = slow->next->next;
     return head;
   }
 };
