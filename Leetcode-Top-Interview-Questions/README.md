@@ -27,13 +27,13 @@
 
   
 ### 3. Linked List
-  - [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
-  - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-  - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-  - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-  - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
-  - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-  - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+  - [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) - [Cpp Solution](./Delete%20Node%20in%20a%20Linked%20List.cpp)    
+  - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - [Cpp Solution](./.cpp)    
+  - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Cpp Solution](./.cpp)    
+  - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - [Cpp Solution](./.cpp)    
+  - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - [Cpp Solution](./.cpp)    
+  - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - [Cpp Solution](./.cpp)    
+  - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) - [Cpp Solution](./.cpp)    
 
   
 ### 4. Trees
