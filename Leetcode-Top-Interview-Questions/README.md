@@ -23,7 +23,7 @@
   - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [Cpp Solution](./Valid%20Palindrome.cpp)    
   - [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) - [Cpp Solution](./String%20to%20Integer%20(atoi).cpp)    
   - [Implement strStr()](https://leetcode.com/problems/implement-strstr/) - [Cpp Solution](./Implement%20strStr.cpp)    
-  - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - [Cpp Solution](./.cpp)    
+  - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - [Cpp Solution](./Longest%20Common%20Prefix.cpp)    
 
   
 ### 3. Linked List
