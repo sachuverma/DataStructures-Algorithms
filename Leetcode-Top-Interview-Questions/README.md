@@ -57,8 +57,6 @@
 ### 7. Design
   - [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
   - [Min Stack](https://leetcode.com/problems/min-stack/)
-  - []()
-  - []()
 
 
 ### 8. Math
