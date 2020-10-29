@@ -65,6 +65,7 @@
 | 55. | Strings | [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0 "view question") | [cpp](./55.%20Longest%20Repeating%20Subsequence.cpp "view my solution") | Medium |   
 | 56. | Strings | [Print all subsequences of a string](https://www.geeksforgeeks.org/print-subsequences-string/ "view question") | [cpp](./56.%20Print%20all%20subsequences%20of%20a%20string.cpp "view my solution") | Easy |   
 | 57. | Strings | [Permutations of a Given String](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0 "view question") | [cpp](./57.%20Permutations%20of%20a%20Given%20String.cpp "view my solution") | Easy |   
+| 58. | Strings | [Split the binary string into substrings with equal number of 0s and 1s](https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/ "view topic") | [cpp](./58.%20Split%20the%20binary%20string%20into%20substrings%20with%20equal%20number%20of%200s%20and%201s.cpp "view my solution") | Easy |   
 
 
 
