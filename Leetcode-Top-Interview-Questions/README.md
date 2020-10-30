@@ -32,7 +32,7 @@
   - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Cpp Solution](./Reverse%20Linked%20List.cpp)    
   - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - [Cpp Solution](./Merge%20Two%20Sorted%20Lists.cpp)    
   - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - [Cpp Solution](./Palindrome%20Linked%20List.cpp)    
-  - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - [Cpp Solution](./.cpp)    
+  - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - [Cpp Solution](./Linked%20List%20Cycle.cpp)    
   - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) - [Cpp Solution](./.cpp)    
 
   
