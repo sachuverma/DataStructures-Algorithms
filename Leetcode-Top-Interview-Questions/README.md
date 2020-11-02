@@ -59,7 +59,7 @@
 
 ### 7. Design
 
-- [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) - [Cpp Solution](./.cpp)
+- [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) - [Cpp Solution](./Shuffle%20an%20Array.cpp)
 - [Min Stack](https://leetcode.com/problems/min-stack/) - [Cpp Solution](./Min%20Stack.cpp)
 
 ### 8. Math
