@@ -53,8 +53,8 @@
 ### 6. Dynamic Programming
 
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - [Cpp Solution](./Climbing%20Stairs.cpp)
-- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - [Cpp Solution](./.cpp)
-- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - [Cpp Solution](./.cpp)
+- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - [Cpp Solution](./Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - [Cpp Solution](./Maximum%20Subarray.cpp)
 - [House Robber](https://leetcode.com/problems/house-robber/) - [Cpp Solution](./.cpp)
 
 ### 7. Design
