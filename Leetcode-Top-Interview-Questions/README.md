@@ -73,7 +73,7 @@
 ### 9. Others
 
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) - [Cpp Solution](./Number%20of%201%20Bits.cpp)
-- [Hamming Distance](https://leetcode.com/problems/hamming-distance/) - [Cpp Solution](./.cpp)
+- [Hamming Distance](https://leetcode.com/problems/hamming-distance/) - [Cpp Solution](./Hamming%20Distance.cpp)
 - [Reverse Bits](https://leetcode.com/problems/reverse-bits/) - [Cpp Solution](./.cpp)
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) - [Cpp Solution](./.cpp)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - [Cpp Solution](./.cpp)
