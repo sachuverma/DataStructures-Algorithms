@@ -66,7 +66,7 @@
 
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) - [Cpp Solution](./Fizz%20Buzz.cpp)
 - [Count Primes](https://leetcode.com/problems/count-primes/) - [Cpp Solution](./Count%20Primes.cpp)
-- [Power of Three](https://leetcode.com/problems/power-of-three/) - [Cpp Solution](./.cpp)
+- [Power of Three](https://leetcode.com/problems/power-of-three/) - [Cpp Solution](./Power%20of%20Three.cpp)
 - [Power of Four](https://leetcode.com/problems/power-of-four/) - [Cpp Solution](./.cpp)
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) - [Cpp Solution](./.cpp)
 
