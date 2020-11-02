@@ -1,9 +1,18 @@
-
 # DATA STRUCTURES & ALGORITHMS
+
 `Resources and Solutions`
 
- [DSA Crack Sheet](./DSA-Crack-Sheet)   
- [Leetcode Top Interview Preparation Questions](./Leetcode-Top-Interview-Questions)     
+[DSA Crack Sheet](./DSA-Crack-Sheet)
+
+ <details>
+  <summary>Leetcode Top Interview Preparation Questions</summary>  
+  <a href="./Leetcode-Top-Interview-Questions/README.md">Questions List</a> 
+  <ul>
+    <li><a href="./Leetcode-Top-Interview-Questions">Easy Level Question</a></li>
+    <li><a href="./Leetcode-Top-Interview-Questions">Medium Level Question</a></li>
+    <li><a href="./Leetcode-Top-Interview-Questions">Hard Level Question</a></li>
+  </ul>
+ </details>
  
  <details>
   <summary>Daily Challenges</summary>   
@@ -18,9 +27,6 @@
     </li>
   </ul>
  </details>
-
-
-  
 
 <div> 
   <span> 
