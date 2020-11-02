@@ -42,7 +42,7 @@
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - [Cpp Solution](./Maximum%20Depth%20of%20Binary%20Tree.cpp)
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - [Cpp Solution](./Validate%20Binary%20Search%20Tree.cpp)
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) - [Cpp Solution](./Symmetric%20Tree.cpp)
-- [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) - [Cpp Solution](./.cpp)
+- [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) - [Cpp Solution](./Binary%20Tree%20Level%20Order%20Traversal.cpp)
 - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) - [Cpp Solution](./.cpp)
 
 ### 5. Sorting and Searching
