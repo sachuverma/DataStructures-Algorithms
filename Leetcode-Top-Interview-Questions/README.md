@@ -79,12 +79,6 @@
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - [Cpp Solution](./Valid%20Parentheses.cpp)
 - [Missing Number](https://leetcode.com/problems/missing-number/) - [Cpp Solution](./Missing%20Number.cpp)
 
----
-
 ## Medium Level Collection
 
----
-
 ## Hard Level Collection
-
----
