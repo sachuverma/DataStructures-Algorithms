@@ -77,7 +77,7 @@
 - [Reverse Bits](https://leetcode.com/problems/reverse-bits/) - [Cpp Solution](./Reverse%20Bits.cpp)
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) - [Cpp Solution](./Pascals%20Triangle.cpp)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - [Cpp Solution](./Valid%20Parentheses.cpp)
-- [Missing Number](https://leetcode.com/problems/missing-number/) - [Cpp Solution](./.cpp)
+- [Missing Number](https://leetcode.com/problems/missing-number/) - [Cpp Solution](./Missing%20Number.cpp)
 
 ---
 
