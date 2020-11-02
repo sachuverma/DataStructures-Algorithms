@@ -44,22 +44,20 @@ Explanation: The root node's value is 5 but its right child's value is 4.
 
 class Solution
 {
-public:
-  bool isValidBST(TreeNode *root)
+  bool isSymmetric(TreeNode *left, TreeNode *right)
   {
-    TreeNode *prev = NULL;
-    return validate(root, prev);
+    if (!left || !right)
+      return left == right;
+    if (left->val != right->val)
+      return false;
+    return isSymmetric(left->left, right->right) && isSymmetric(left->right, right->left);
   }
 
-  bool validate(TreeNode *node, TreeNode *&prev)
+public:
+  bool isSymmetric(TreeNode *root)
   {
-    if (node == NULL)
+    if (!root)
       return true;
-    if (!validate(node->left, prev))
-      return false;
-    if (prev != NULL && prev->val >= node->val)
-      return false;
-    prev = node;
-    return validate(node->right, prev);
+    return isSymmetric(root->left, root->right);
   }
 };
