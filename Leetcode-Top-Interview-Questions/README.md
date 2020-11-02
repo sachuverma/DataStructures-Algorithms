@@ -47,8 +47,8 @@
 
 ### 5. Sorting and Searching
 
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) - [Cpp Solution](./Merge%20Sorted%20Array.cpp)
+- [First Bad Version](https://leetcode.com/problems/first-bad-version/) - [Cpp Solution](./First%20Bad%20Version.cpp)
 
 ### 6. Dynamic Programming
 
