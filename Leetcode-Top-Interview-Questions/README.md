@@ -72,12 +72,12 @@
 
 ### 9. Others
 
-- [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
-- [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
-- [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
-- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [Missing Number](https://leetcode.com/problems/missing-number/)
+- [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) - [Cpp Solution](./Number%20of%201%20Bits.cpp)
+- [Hamming Distance](https://leetcode.com/problems/hamming-distance/) - [Cpp Solution](./.cpp)
+- [Reverse Bits](https://leetcode.com/problems/reverse-bits/) - [Cpp Solution](./.cpp)
+- [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) - [Cpp Solution](./.cpp)
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - [Cpp Solution](./.cpp)
+- [Missing Number](https://leetcode.com/problems/missing-number/) - [Cpp Solution](./.cpp)
 
 ---
 
