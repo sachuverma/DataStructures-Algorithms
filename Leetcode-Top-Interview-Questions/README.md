@@ -81,4 +81,13 @@
 
 ## Medium Level Collection
 
+### 1. Array
+
+- [3Sum](https://leetcode.com/problems/3sum/) - [Cpp Solution](./3Sum.cpp)
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - [Cpp Solution](./Set%20Matrix%20Zeroes.cpp)
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/) - [Cpp Solution](./Group%20Anagrams.cpp)
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - [Cpp Solution](./Longest%20Substring%20Without%20Repeating%20Characters.cpp)
+- [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - [Cpp Solution](./Longest%20Palindromic%20Substring.cpp)
+- [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) - [Cpp Solution](./Increasing%20Triplet%20Subsequence.cpp)
+
 ## Hard Level Collection
