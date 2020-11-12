@@ -46,6 +46,7 @@ Recursive solution is trivial, could you do it iteratively?
 
 class Solution
 {
+  // recursive
   void inorder(TreeNode *root, vector<int> &ans)
   {
     if (!root)
@@ -59,7 +60,22 @@ public:
   vector<int> inorderTraversal(TreeNode *root)
   {
     vector<int> ans;
-    inorder(root, ans);
+    stack<TreeNode *> s;
+    auto curr = root;
+    while (curr || s.size())
+    {
+      while (curr)
+      {
+        s.push(curr);
+        curr = curr->left;
+      }
+
+      curr = s.top();
+      s.pop();
+      ans.push_back(curr->val);
+      curr = curr->right;
+    }
+
     return ans;
   }
 };
