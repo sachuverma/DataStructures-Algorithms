@@ -96,4 +96,13 @@
 - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) - [Cpp Solution](./Odd%20Even%20Linked%20List.cpp)
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) - [Cpp Solution](./Intersection%20of%20Two%20Linked%20Lists.cpp)
 
+### 3. Trees & Graphs
+
+- [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) - [Cpp Solution](./Binary%20Tree%20Inorder%20Traversal.cpp)
+- [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) - [Cpp Solution](./Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.cpp)
+- [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) - [Cpp Solution](./Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp)
+- [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) - [Cpp Solution](./Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp)
+- [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - [Cpp Solution](./Kth%20Smallest%20Element%20in%20a%20BST.cpp)
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/) - [Cpp Solution](./Number%20of%20Islands.cpp)
+
 ## Hard Level Collection
