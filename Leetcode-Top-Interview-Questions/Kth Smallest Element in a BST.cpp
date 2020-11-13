@@ -57,20 +57,21 @@ The optimal runtime complexity is O(height of BST).
 
 class Solution
 {
-  void inorder(vector<int> &in, TreeNode *root)
+  void inorder(TreeNode *root, vector<int> &ans, int k)
   {
     if (!root)
       return;
-    inorder(in, root->left);
-    in.push_back(root->val);
-    inorder(in, root->right);
+    inorder(root->left, ans, k);
+    if (++ans[0] == k)
+      ans[1] = root->val;
+    inorder(root->right, ans, k);
   }
 
 public:
   int kthSmallest(TreeNode *root, int k)
   {
-    vector<int> ans;
-    inorder(ans, root);
-    return ans[k - 1];
+    vector<int> ans = {0, 0};
+    inorder(root, ans, k);
+    return ans[1];
   }
 };
