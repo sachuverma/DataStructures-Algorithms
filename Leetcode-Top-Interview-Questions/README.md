@@ -105,4 +105,12 @@
 - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - [Cpp Solution](./Kth%20Smallest%20Element%20in%20a%20BST.cpp)
 - [Number of Islands](https://leetcode.com/problems/number-of-islands/) - [Cpp Solution](./Number%20of%20Islands.cpp)
 
+### 4. Backtracking
+
+- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - [Cpp Solution](./Letter%20Combinations%20of%20a%20Phone%20Number.cpp)
+- [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) - [Cpp Solution](./Generate%20Parentheses.cpp)
+- [Permutations](https://leetcode.com/problems/permutations/) - [Cpp Solution](./Permutations.cpp)
+- [Subsets](https://leetcode.com/problems/subsets/) - [Cpp Solution](./Subsets.cpp)
+- [Word Search](https://leetcode.com/problems/word-search/) - [Cpp Solution](./Word%20Search.cpp)
+
 ## Hard Level Collection
