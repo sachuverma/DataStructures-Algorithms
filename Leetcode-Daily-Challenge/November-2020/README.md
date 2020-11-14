@@ -13,4 +13,6 @@
 | 9.  | [Maximum Difference Between Node and Ancestor](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3524/)    |      [cpp](./09.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.cpp)       |
 | 10. | [Flipping an Image](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3526/)                               |                       [cpp](./10.%20Flipping%20an%20Image.cpp)                       |
 | 11. | [Valid Square](https://leetcode.com/explore/featured/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3527/)                                     |                          [cpp](./11.%20Valid%20Square.cpp)                           |
-| 12. | [Permutations II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3528/)                                     |                          [cpp](./12.%20Permutations%20II.cpp)                           |
+| 12. | [Permutations II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3528/)                                 |                         [cpp](./12.%20Permutations%20II.cpp)                         |
+
+| 14. | [Poor Pigs](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3530/) | [cpp](./14.%20Poor%20Pigs.cpp) |
