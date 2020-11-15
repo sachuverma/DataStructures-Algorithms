@@ -113,4 +113,15 @@
 - [Subsets](https://leetcode.com/problems/subsets/) - [Cpp Solution](./Subsets.cpp)
 - [Word Search](https://leetcode.com/problems/word-search/) - [Cpp Solution](./Word%20Search.cpp)
 
+### 5. Sorting and Searching
+
+- [Sort Colors](https://leetcode.com/problems/sort-colors/) - [Cpp Solution](./Sort%20Colors.cpp)
+- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - [Cpp Solution](./Top%20K%20Frequent%20Elements.cpp)
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - [Cpp Solution](./Kth%20Largest%20Element%20in%20an%20Array.cpp)
+- [Find Peak Element](https://leetcode.com/problems/find-peak-element/) - [Cpp Solution](./Find%20Peak%20Element.cpp)
+- [Search for a Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - [Cpp Solution](./Search%20for%20a%20Range.cpp)
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/) - [Cpp Solution](./Merge%20Intervals.cpp)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - [Cpp Solution](./Search%20in%20Rotated%20Sorted%20Array.cpp)
+- [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) - [Cpp Solution](./Search%20a%202D%20Matrix%20II.cpp)
+
 ## Hard Level Collection
