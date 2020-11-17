@@ -124,4 +124,11 @@
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - [Cpp Solution](./Search%20in%20Rotated%20Sorted%20Array.cpp)
 - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) - [Cpp Solution](./Search%20a%202D%20Matrix%20II.cpp)
 
+### 6. Dynamic Programming
+
+- [Jump Game](https://leetcode.com/problems/jump-game/) -[Cpp Solution](./Jump%20Game.cpp)
+- [Unique Paths](https://leetcode.com/problems/unique-paths/) -[Cpp Solution](./Unique%20Paths.cpp)
+- [Coin Change](https://leetcode.com/problems/coin-change/) -[Cpp Solution](./Coin%20Change.cpp)
+- [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) -[Cpp Solution](./Longest%20Increasing%20Subsequence.cpp)
+
 ## Hard Level Collection
