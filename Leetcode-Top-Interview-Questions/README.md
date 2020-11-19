@@ -126,10 +126,10 @@
 
 ### 6. Dynamic Programming
 
-- [Jump Game](https://leetcode.com/problems/jump-game/) -[Cpp Solution](./Jump%20Game.cpp)
-- [Unique Paths](https://leetcode.com/problems/unique-paths/) -[Cpp Solution](./Unique%20Paths.cpp)
-- [Coin Change](https://leetcode.com/problems/coin-change/) -[Cpp Solution](./Coin%20Change.cpp)
-- [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) -[Cpp Solution](./Longest%20Increasing%20Subsequence.cpp)
+- [Jump Game](https://leetcode.com/problems/jump-game/) - [Cpp Solution](./Jump%20Game.cpp)
+- [Unique Paths](https://leetcode.com/problems/unique-paths/) - [Cpp Solution](./Unique%20Paths.cpp)
+- [Coin Change](https://leetcode.com/problems/coin-change/) - [Cpp Solution](./Coin%20Change.cpp)
+- [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - [Cpp Solution](./Longest%20Increasing%20Subsequence.cpp)
 
 ### 7. Design
 
