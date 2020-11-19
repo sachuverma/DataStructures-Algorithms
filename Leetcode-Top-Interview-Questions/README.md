@@ -131,4 +131,9 @@
 - [Coin Change](https://leetcode.com/problems/coin-change/) -[Cpp Solution](./Coin%20Change.cpp)
 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) -[Cpp Solution](./Longest%20Increasing%20Subsequence.cpp)
 
+### 7. Design
+
+- [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) - [Cpp Solution](./Serialize%20and%20Deserialize%20Binary%20Tree.cpp)
+- [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) - [Cpp Solution](<./Insert%20Delete%20GetRandom%20O(1).cpp>)
+
 ## Hard Level Collection
