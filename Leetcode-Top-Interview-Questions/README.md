@@ -136,4 +136,14 @@
 - [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) - [Cpp Solution](./Serialize%20and%20Deserialize%20Binary%20Tree.cpp)
 - [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) - [Cpp Solution](<./Insert%20Delete%20GetRandom%20O(1).cpp>)
 
+### 8. Math
+
+- [Happy Number](https://leetcode.com/problems/happy-number/) - [Cpp Solution](./Happy%20Number.cpp)
+- [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) - [Cpp Solution](./Factorial%20Trailing%20Zeroes.cpp)
+- [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) - [Cpp Solution](./Excel%20Sheet%20Column%20Number.cpp)
+- [Pow(x, n)](https://leetcode.com/problems/powx-n/) - [Cpp Solution](<./Pow(x,%20n).cpp>)
+- [Sqrt(x)](https://leetcode.com/problems/sqrtx/) - [Cpp Solution](<./Sqrt(x).cpp>)
+- [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) - [Cpp Solution](./Divide%20Two%20Integers.cpp)
+- [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) - [Cpp Solution](./Fraction%20to%20Recurring%20Decimal.cpp)
+
 ## Hard Level Collection
