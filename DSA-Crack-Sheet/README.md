@@ -5,7 +5,7 @@
 ### Array
 
 - [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/ "view topic") - [Cpp Solution](./solutions/1.%20Reverse%20The%20Array.cpp "view my solution")
-- [Find The Maximum and Minimum Element In An Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/ "view topic") - [Cpp Solution](./solutions/2.%20Find%20The%20Maximum%20and%20Minimum%20Element%20In%20An%20Array.cpp "view my solution")( Easy)
+- [Find The Maximum and Minimum Element In An Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/ "view topic") - [Cpp Solution](./solutions/2.%20Find%20The%20Maximum%20and%20Minimum%20Element%20In%20An%20Array.cpp "view my solution")
 - [Find The Kth Max-Min Element In Array](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0 "view question") - [Cpp Solution](./solutions/3.%20Find%20The%20Kth%20Max-Min%20Element%20In%20Array.cpp "view my solution")
 - [Sort An Array Of 0s, 1s And 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0 "view question") - [Cpp Solution](./solutions/4.%20Sort%20An%20Array%20Of%200s%201s%20And%202s.cpp "view my solution")
 - [Move Negative Numbers To Beginning](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/ "view topic") - [Cpp Solution](./solutions/5.%20Move%20Negative%20Numbers%20To%20Beginning.cpp "view my solution")
