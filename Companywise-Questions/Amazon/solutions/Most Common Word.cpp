@@ -62,6 +62,7 @@ public:
 
     if (word != "" && word != " ")
       para[word]++;
+
     string ans;
     int curr_max = INT_MIN;
 
