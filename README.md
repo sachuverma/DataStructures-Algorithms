@@ -4,9 +4,17 @@
 
 [DSA Crack Sheet](./DSA-Crack-Sheet)
 
+  <details>
+    <summary>Companywise Top Interview Questions</summary>  
+    <ul>
+      <li><a href="./Companywise-Question/Amazon">Amazon</a></li>
+      <li><a href="./Companywise-Question/"></a></li>
+      <li><a href="./Companywise-Question/"></a></li>
+    </ul>
+  </details>
+
  <details>
   <summary>Leetcode Top Interview Preparation Questions</summary>  
-  <a href="./Leetcode-Top-Interview-Questions/README.md">Questions List</a> 
   <ul>
     <li><a href="./Leetcode-Top-Interview-Questions">Easy Level Question</a></li>
     <li><a href="./Leetcode-Top-Interview-Questions">Medium Level Question</a></li>
@@ -16,7 +24,6 @@
  
  <details>
   <summary>Daily Challenges</summary>   
-  
   <a href="./Leetcode-Daily-Challenge">Leetcode Daily Challenge</a>
   <ul>
     <li>2020
