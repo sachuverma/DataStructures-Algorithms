@@ -82,6 +82,7 @@
 - [Find Pair Given Difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0# "view question") - [Cpp Solution](./solutions/99.%20Find%20Pair%20Given%20Difference.cpp "view my solution")
 - [Find All Four Sum Numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1 "view question") - [Cpp Solution](./solutions/100.%20Find%20All%20Four%20Sum%20Numbers.cpp "view my solution")
 - [Stickler Thief](https://practice.geeksforgeeks.org/problems/stickler-theif/0# "view question") - [Cpp Solution](./solutions/101.%20Stickler%20Thief.cpp "view my solution")
+- [Count triplets with sum smaller than X](https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1# "view question") - [Cpp Solution](./solutions/102.%20Count%20triplets%20with%20sum%20smaller%20than%20X.cpp "view my solution")
 
 <!--
 -  -  - []( "view topic") - []( "view my solution") -  -
