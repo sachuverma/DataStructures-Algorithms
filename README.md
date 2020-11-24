@@ -7,9 +7,9 @@
   <details>
     <summary>Companywise Top Interview Questions</summary>  
     <ul>
-      <li><a href="./Companywise-Question/Amazon">Amazon</a></li>
-      <li><a href="./Companywise-Question/"></a></li>
-      <li><a href="./Companywise-Question/"></a></li>
+      <li><a href="./Companywise-Questions/Amazon">Amazon</a></li>
+      <li><a href="./Companywise-Questions/"></a></li>
+      <li><a href="./Companywise-Questions/"></a></li>
     </ul>
   </details>
 
