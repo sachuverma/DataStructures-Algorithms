@@ -83,6 +83,12 @@
 - [Find All Four Sum Numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1 "view question") - [Cpp Solution](./solutions/100.%20Find%20All%20Four%20Sum%20Numbers.cpp "view my solution")
 - [Stickler Thief](https://practice.geeksforgeeks.org/problems/stickler-theif/0# "view question") - [Cpp Solution](./solutions/101.%20Stickler%20Thief.cpp "view my solution")
 - [Count triplets with sum smaller than X](https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1# "view question") - [Cpp Solution](./solutions/102.%20Count%20triplets%20with%20sum%20smaller%20than%20X.cpp "view my solution")
+- []( "view question") - [Cpp Solution](./solutions/103.%20.cpp "view my solution")
+- [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1# "view question") - [Cpp Solution](./solutions/104.%20Zero%20Sum%20Subarrays.cpp "view my solution")
+- []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
+- []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
+- []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
+- []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
 <!--
 -  -  - []( "view topic") - []( "view my solution") -  -
