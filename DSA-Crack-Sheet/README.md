@@ -80,6 +80,7 @@
 - [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1# "view question") - [Cpp Solution](./solutions/97.%20Majority%20Element.cpp "view my solution")
 - [Searching in an array where adjacent differ by at most k](https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/ "view topic") - [Cpp Solution](./solutions/98.%20Searching%20in%20an%20array%20where%20adjacent%20differ%20by%20at%20most%20k.cpp "view my solution")
 - [Find Pair Given Difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0# "view question") - [Cpp Solution](./solutions/99.%20Find%20Pair%20Given%20Difference.cpp "view my solution")
+- [Find All Four Sum Numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1 "view question") - [Cpp Solution](./solutions/100.%20Find%20All%20Four%20Sum%20Numbers.cpp "view my solution")
 
 <!--
 -  -  - []( "view topic") - []( "view my solution") -  -
