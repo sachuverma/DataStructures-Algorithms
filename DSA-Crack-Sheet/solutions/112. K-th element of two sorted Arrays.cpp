@@ -10,6 +10,7 @@ int main()
   {
     int n, m, k;
     cin >> n >> m >> k;
+
     vector<int> a(n, 0), b(m, 0);
     for (auto &i : a)
       cin >> i;
