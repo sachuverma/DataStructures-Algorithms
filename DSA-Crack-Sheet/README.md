@@ -88,6 +88,7 @@
 - [Product array puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1 "view question") - [Cpp Solution](./solutions/105.%20Product%20array%20puzzle.cpp "view my solution")
 - [Sort by Set Bit Count](https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count1153/1# "view question") - [Cpp Solution](./solutions/106.%20Sort%20by%20Set%20Bit%20Count.cpp "view my solution")
 - [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1# "view question") - [Cpp Solution](./solutions/107.%20Minimum%20Swaps%20to%20Sort.cpp "view my solution")
+- [Bishu and Soldiers](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/description/ "view question") - [Cpp Solution](./solutions/108.%20Bishu%20and%20Soldiers.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
