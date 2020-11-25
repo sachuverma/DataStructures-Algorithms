@@ -90,7 +90,7 @@
 - [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1# "view question") - [Cpp Solution](./solutions/107.%20Minimum%20Swaps%20to%20Sort.cpp "view my solution")
 - [Bishu and Soldiers](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/description/ "view question") - [Cpp Solution](./solutions/108.%20Bishu%20and%20Soldiers.cpp "view my solution")
 - [Find pivot element in a sorted and rotated array](http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/ "view topic")
-- []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
+- [K-th element of two sorted Arrays](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0# "view question") - [Cpp Solution](./solutions/112.%20K-th%20element%20of%20two%20sorted%20Arrays.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
