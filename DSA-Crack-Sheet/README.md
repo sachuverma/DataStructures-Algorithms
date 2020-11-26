@@ -97,6 +97,7 @@
 - [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1 "view question") - [Cpp Solution](./solutions/126.%20Reverse%20a%20linked%20list.cpp "view my solution")
 - [Reverse a Linked List in groups of given size](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1# "view question") - [Cpp Solution](./solutions/127.%20Reverse%20a%20Linked%20List%20in%20groups%20of%20given%20size.cpp "view my solution")
 - [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1# "view question") - [Cpp Solution](./solutions/128.%20Detect%20Loop%20in%20linked%20list.cpp "view my solution")
+- [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1 "view question") - [Cpp Solution](./solutions/129.%20Remove%20loop%20in%20Linked%20List.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
