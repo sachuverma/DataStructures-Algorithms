@@ -1,51 +1,34 @@
 
-struct Node *addTwoLists(struct Node *first, struct Node *second)
+
+Node *findIntersection(Node *head1, Node *head2)
 {
-  stack<int> n1, n2;
-  auto temp = first;
-  while (temp)
+
+  if (head1 == NULL && head2 == NULL)
+    return head1;
+
+  Node *head = NULL;
+  Node *tempnd, *newnd;
+  while (head1 && head2)
   {
-    n1.push(temp->data);
-    temp = temp->next;
+    if (head1->data == head2->data)
+    {
+      newnd = new Node(head1->data);
+      if (head == NULL)
+      {
+        head = tempnd = newnd;
+      }
+      else
+      {
+        tempnd->next = newnd;
+        tempnd = newnd;
+      }
+      head1 = head1->next;
+      head2 = head2->next;
+    }
+    else if (head1->data > head2->data)
+      head2 = head2->next;
+    else
+      head1 = head1->next;
   }
-
-  temp = second;
-  while (temp)
-  {
-    n2.push(temp->data);
-    temp = temp->next;
-  }
-
-  int carry = 0;
-  stack<int> ans;
-
-  while (n1.size() || n2.size() || carry)
-  {
-    int digit1 = n1.size() ? n1.top() : 0;
-    int digit2 = n2.size() ? n2.top() : 0;
-
-    if (n1.size())
-      n1.pop();
-    if (n2.size())
-      n2.pop();
-
-    int digit = digit1 + digit2 + carry;
-    carry = digit / 10;
-    digit = digit % 10;
-
-    ans.push(digit);
-  }
-
-  Node *dummy = new Node(-1);
-  temp = dummy;
-  while (ans.size())
-  {
-    int digit = ans.top();
-    ans.pop();
-    Node *newNode = new Node(digit);
-    temp->next = newNode;
-    temp = temp->next;
-  }
-
-  return dummy->next;
+  return head;
 }
