@@ -45,9 +45,9 @@
 
 ### 1.1 Overview
 
-![DataStructures](DSA-Crack-Sheet/images/Data%20Structures.png "Data Structures")
+![DataStructures](DSA%20Crack%20Sheet/images/Data%20Structures.png "Data Structures")
 
-![ComplexityChart](DSA-Crack-Sheet/images/Complexity%20Chart.png "Complexity Chart")
+![ComplexityChart](DSA%20Crack%20Sheet/images/Complexity%20Chart.png "Complexity Chart")
 
 ### 1.2 Vector `std::vector`
 
