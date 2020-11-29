@@ -7,8 +7,6 @@
 > [Top Interview Preparation Questions](./Leetcode-Top-Interview-Questions)  
 > [Leetcode Daily Challenge](./Leetcode-Daily-Challenge)
 
-<br>
-
 # C++ Data Structures and Algorithms Cheat Sheet
 
 ## Table of Contents
@@ -34,12 +32,12 @@
     - [2.3 Binary Search](#23-binary-search)
     - [2.4 Depth-First Search](#24-depth-first-search)
     - [2.5 Breadth-First Search](#25-breadth-first-search)
-  - [3.0 Algorithms](#40-algorithms)
-    - [3.1 Insertion Sort](#41-insertion-sort)
-    - [3.2 Selection Sort](#42-selection-sort)
-    - [3.3 Bubble Sort](#43-bubble-sort)
-    - [3.4 Merge Sort](#44-merge-sort)
-    - [3.5 Quicksort](#45-quicksort)
+  - [3.0 Algorithms](#30-algorithms)
+    - [3.1 Insertion Sort](#31-insertion-sort)
+    - [3.2 Selection Sort](#32-selection-sort)
+    - [3.3 Bubble Sort](#33-bubble-sort)
+    - [3.4 Merge Sort](#34-merge-sort)
+    - [3.5 Quicksort](#35-quicksort)
 
 <!-- /TOC -->
 
@@ -768,8 +766,6 @@ p.pop();
 - Choice of pivot:
   - Choose median of the first, middle, and last elements as pivot
   - Counters worst-case complexity for already-sorted and reverse-sorted
-
-<br>
 
 # C++ Syntax Cheat Sheet
 
