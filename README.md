@@ -1,8 +1,8 @@
 # DATA STRUCTURES & ALGORITHMS
 
-`Resources and Solutions`
+### `Resources and Solutions` `^_^`
 
-[DSA Crack Sheet](./DSA-Crack-Sheet)
+## [DSA Crack Sheet](./DSA-Crack-Sheet)
 
   <details>
     <summary>Companywise Top Interview Questions</summary>  
