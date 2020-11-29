@@ -4,11 +4,9 @@
 
 ## [DSA Crack Sheet](./DSA-Crack-Sheet)
 
-> ### [Companywise Interview Questions](./Companywise-Questions)
->
-> ### [Top Interview Preparation Questions](./Leetcode-Top-Interview-Questions)
->
-> ### [Leetcode Daily Challenge](./Leetcode-Daily-Challenge)
+> [Companywise Interview Questions](./Companywise-Questions)  
+> [Top Interview Preparation Questions](./Leetcode-Top-Interview-Questions)  
+> [Leetcode Daily Challenge](./Leetcode-Daily-Challenge)
 
 <br>
 
