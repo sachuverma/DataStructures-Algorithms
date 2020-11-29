@@ -803,6 +803,8 @@ p.pop();
   - Choose median of the first, middle, and last elements as pivot
   - Counters worst-case complexity for already-sorted and reverse-sorted
 
+<br>
+
 # C++ Syntax Cheat Sheet
 
 ## Preface
