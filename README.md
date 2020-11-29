@@ -2,8 +2,7 @@
 
 ### `Resources and Solutions` `^_^`
 
-## [DSA Crack Sheet](./DSA-Crack-Sheet)
-
+> [DSA Crack Sheet](./DSA-Crack-Sheet)  
 > [Companywise Interview Questions](./Companywise-Questions)  
 > [Top Interview Preparation Questions](./Leetcode-Top-Interview-Questions)  
 > [Leetcode Daily Challenge](./Leetcode-Daily-Challenge)
