@@ -1,9 +1,3 @@
-<style>
- body{
-   background: red;
- }
-</style>
-
 # DATA STRUCTURES & ALGORITHMS
 
 ### `Resources and Solutions` `^_^`
