@@ -1,3 +1,10 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # DATA STRUCTURES & ALGORITHMS
 
 ### `Resources and Solutions` `^_^`
@@ -1821,3 +1828,51 @@ is effectively dereferenced.
 ### 2.8 Lambdas
 
 [Reference](https://en.cppreference.com/w/cpp/language/lambda)
+
+
+
+<!-- CONTRIBUTING -->
+# Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+# License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+<!-- CONTACT -->
+# Contact
+
+Project Link: [https://github.com/sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms)
+
+Sachin Verma : [sachinverma53121@gmail.com](sachinverma53121.gmail.com)
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/sachuverma/DataStructures-Algorithms.svg?style=flat-square
+[contributors-url]: https://github.com/sachuverma/DataStructures-Algorithms/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sachuverma/DataStructures-Algorithms.svg?style=flat-square
+[forks-url]: https://github.com/sachuverma/DataStructures-Algorithms/network/members
+[stars-shield]: https://img.shields.io/github/stars/sachuverma/DataStructures-Algorithms.svg?style=flat-square
+[stars-url]: https://github.com/sachuverma/DataStructures-Algorithms/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sachuverma/DataStructures-Algorithms.svg?style=flat-square
+[issues-url]: https://github.com/sachuverma/DataStructures-Algorithms/issues
+[license-shield]: https://img.shields.io/github/license/sachuverma/DataStructures-Algorithms.svg?style=flat-square
+[license-url]: https://github.com/sachuverma/DataStructures-Algorithms/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/sachuverma/
+
+
+
