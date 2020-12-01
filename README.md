@@ -545,8 +545,6 @@ p.pop();
 - Binary trees are commonly used for implementing `O(log(n))` operations for ordered maps, sets, heaps, and binary search trees
 - Binary search trees are **sorted** in that nodes with values greater than their parents are inserted to the **right**, while nodes with values less than their parents are inserted to the **left**
 
-**Binary Search Tree**
-
 ### 2.2 Balanced Trees
 
 - Balanced trees are a special type of tree which maintains its balance to ensure `O(log(n))` operations
