@@ -3,7 +3,6 @@ Basic Calculator II
 ===================
 
 Given a string s which represents an expression, evaluate this expression and return its value. 
-
 The integer division should truncate toward zero.
 
 Example 1:
@@ -17,7 +16,7 @@ Output: 1
 Example 3:
 Input: s = " 3+5 / 2 "
 Output: 5
- 
+
 
 Constraints:
 1 <= s.length <= 3 * 105
