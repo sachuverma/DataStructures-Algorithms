@@ -543,7 +543,7 @@ p.pop();
 
 - A binary tree is a tree with at most two (2) child nodes per parent
 - Binary trees are commonly used for implementing `O(log(n))` operations for ordered maps, sets, heaps, and binary search trees
-- Binary trees are **sorted** in that nodes with values greater than their parents are inserted to the **right**, while nodes with values less than their parents are inserted to the **left**
+- Binary search trees are **sorted** in that nodes with values greater than their parents are inserted to the **right**, while nodes with values less than their parents are inserted to the **left**
 
 **Binary Search Tree**
 
