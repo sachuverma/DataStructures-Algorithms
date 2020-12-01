@@ -1870,7 +1870,7 @@ Sachin Verma : [sachinverma53121@gmail.com](sachinverma53121.gmail.com)
 [issues-url]: https://github.com/sachuverma/DataStructures-Algorithms/issues
 [license-sachu]: https://img.shields.io/github/license/sachuverma/DataStructures-Algorithms.svg?style=flat-square
 [license-url]: https://github.com/sachuverma/DataStructures-Algorithms/blob/master/LICENSE
-[linkedin-sachu]: https://img.shields.io/badge/--yellow?style=flat-square
+[linkedin-sachu]: https://img.shields.io/badge/LinkedIn--yellow?style=flat-square&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/sachuverma/
 [portfolio-sachu]: https://img.shields.io/badge/Portfolio--red?style=flat-square&logo=clickup
 [portfolio-url]: https://sachin-verma.netlify.app/
