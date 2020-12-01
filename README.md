@@ -604,7 +604,7 @@ p.pop();
 
 **Performance:**
 
-- `O(E)`, `E = number of edges`
+- `O(V + E)`, `E = number of edges`
 
 ### 2.5 Breadth-First Search
 
@@ -624,7 +624,7 @@ p.pop();
 
 **Performance:**
 
-- `O(E)`, `E = number of edges`
+- `O(V + E)`, `E = number of edges`
 
 ## 3.0 Algorithms
 
