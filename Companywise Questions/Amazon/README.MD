@@ -7,6 +7,8 @@
 - [Two Sum](https://leetcode.com/problems/two-sum/) - [Cpp Solution](./solutions/Two%20Sum.cpp)
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - [Cpp Solution](./solutions/Longest%20Palindromic%20Substring.cpp)
 - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) - [Cpp Solution](./solutions/Copy%20List%20with%20Random%20Pointer.cpp)
+- [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) - [Cpp Solution](./solutions/Reorder%20Data%20in%20Log%20Files.cpp)
+- []() - [Cpp Solution](./solutions/.cpp)
 
 <!--
 - []() - [Cpp Solution](./solutions/.cpp)
