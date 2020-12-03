@@ -10,6 +10,7 @@
 - [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) - [Cpp Solution](./solutions/Reorder%20Data%20in%20Log%20Files.cpp)
 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) - [Cpp Solution](./solutions/Find%20Median%20from%20Data%20Stream.cpp)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) - [Cpp Solution](./solutions/Merge%20k%20Sorted%20Lists.cpp)
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - [Cpp Solution](./solutions/Trapping%20Rain%20Water.cpp)
 - []() - [Cpp Solution](./solutions/.cpp)
 
 <!--
