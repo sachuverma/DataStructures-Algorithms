@@ -12,6 +12,7 @@
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) - [Cpp Solution](./solutions/Merge%20k%20Sorted%20Lists.cpp)
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - [Cpp Solution](./solutions/Trapping%20Rain%20Water.cpp)
 - [Word Ladder](https://leetcode.com/problems/word-ladder/) - [Cpp Solution](./solutions/Word%20Ladder.cpp)
+- [Partition Labels](https://leetcode.com/problems/partition-labels/) - [Cpp Solution](./solutions/Partition%20Labels.cpp)
 - []() - [Cpp Solution](./solutions/.cpp)
 
 <!--
