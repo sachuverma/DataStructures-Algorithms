@@ -6,3 +6,4 @@
 | 2.  | [Linked List Random Node](https://leetcode.com/explore/featured/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3552/)       |    [cpp](./02.%20Linked%20List%20Random%20Node.cpp)     |
 | 3.  | [Increasing Order Search Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3553/) |  [cpp](./03.%20Increasing%20Order%20Search%20Tree.cpp)  |
 | 4.  | [The kth Factor of n](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3554/)          |     [cpp](./04.%20The%20kth%20Factor%20of%20n.cpp)      |
+| 5.  | [Can Place Flowers](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3555/)            |        [cpp](./05.%20Can%20Place%20Flowers.cpp)         |
