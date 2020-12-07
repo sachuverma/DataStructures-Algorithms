@@ -14,6 +14,7 @@
 - [Word Ladder](https://leetcode.com/problems/word-ladder/) - [Cpp Solution](./solutions/Word%20Ladder.cpp)
 - [Partition Labels](https://leetcode.com/problems/partition-labels/) - [Cpp Solution](./solutions/Partition%20Labels.cpp)
 - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) - [Cpp Solution](./solutions/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.cpp)
+- [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/) - [Cpp Solution](./solutions/Cut%20Off%20Trees%20for%20Golf%20Event.cpp)
 - []() - [Cpp Solution](./solutions/.cpp)
 
 <!--
