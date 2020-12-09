@@ -149,8 +149,8 @@
 ### 9. Others
 
 - [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) - [Cpp Solution](./solutions/Sum%20of%20Two%20Integers.cpp)
-- []() - [](./solutions/.cpp)
-- []() - [](./solutions/.cpp)
-- []() - [](./solutions/.cpp)
+- [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) - [Cpp Solution](./solutions/Evaluate%20Reverse%20Polish%20Notation.cpp)
+- [Majority Element](https://leetcode.com/problems/majority-element/) - [Cpp Solution](./solutions/Majority%20Element.cpp)
+- [Task Scheduler](https://leetcode.com/problems/task-scheduler/) - [Cpp Solution](./solutions/Task%20Scheduler.cpp)
 
 ## Hard Level Collection
