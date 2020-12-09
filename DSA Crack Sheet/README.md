@@ -115,6 +115,10 @@
 - [Reverse a Doubly Linked List](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1 "view question") - [Cpp Solution](./solutions/145.%20Reverse%20a%20Doubly%20Linked%20List.cpp "view my solution")
 - [Find pairs with given sum in doubly linked list](https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/ "view topic")
 - [Count triplets in a sorted doubly linked list whose sum is equal to a given value x](https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/ "view topic")
+- [Sort a k sorted doubly linked list](https://www.geeksforgeeks.org/sort-k-sorted-doubly-linked-list/ "view topic")
+- [Rotate Doubly linked list by N nodes](https://www.geeksforgeeks.org/rotate-doubly-linked-list-n-nodes/ "view topic")
+- []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
+- [Can we reverse a linked list in less than O(n)?](https://www.geeksforgeeks.org/can-we-reverse-a-linked-list-in-less-than-on/ "view topic")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
 <!--
