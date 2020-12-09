@@ -146,4 +146,11 @@
 - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) - [Cpp Solution](./solutions/Divide%20Two%20Integers.cpp)
 - [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) - [Cpp Solution](./solutions/Fraction%20to%20Recurring%20Decimal.cpp)
 
+### 9. Others
+
+- [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) - [Cpp Solution](./solutions/Sum%20of%20Two%20Integers.cpp)
+- []() - [](./solutions/.cpp)
+- []() - [](./solutions/.cpp)
+- []() - [](./solutions/.cpp)
+
 ## Hard Level Collection
