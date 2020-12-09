@@ -119,6 +119,7 @@
 - [Rotate Doubly linked list by N nodes](https://www.geeksforgeeks.org/rotate-doubly-linked-list-n-nodes/ "view topic")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 - [Can we reverse a linked list in less than O(n)?](https://www.geeksforgeeks.org/can-we-reverse-a-linked-list-in-less-than-on/ "view topic")
+- [Why Quick Sort preferred for Arrays and Merge Sort for Linked Lists?](https://www.geeksforgeeks.org/why-quick-sort-preferred-for-arrays-and-merge-sort-for-linked-lists/ "view topic")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
 <!--
