@@ -112,7 +112,7 @@
 - [Check If Circular Linked List](https://practice.geeksforgeeks.org/problems/circular-linked-list/1 "view question") - [Cpp Solution](./solutions/141.%20Check%20If%20Circular%20Linked%20List.cpp "view my solution")
 - [Split a Circular Linked List into two halves](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1# "view question") - [Cpp Solution](./solutions/142.%20Split%20a%20Circular%20Linked%20List%20into%20two%20halves.cpp "view my solution")
 - [Check if Linked List is Palindrome](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1 "view question") - [Cpp Solution](./solutions/143.%20Check%20if%20Linked%20List%20is%20Palindrome.cpp "view my solution")
-- [Reverse a Doubly Linked List](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1 "view question") - [Cpp Solution](./solutions/144.%20Reverse%20a%20Doubly%20Linked%20List.cpp "view my solution")
+- [Reverse a Doubly Linked List](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1 "view question") - [Cpp Solution](./solutions/145.%20Reverse%20a%20Doubly%20Linked%20List.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
 <!--
