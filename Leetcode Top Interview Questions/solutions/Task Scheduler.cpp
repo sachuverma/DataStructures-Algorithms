@@ -38,3 +38,31 @@ tasks[i] is upper-case English letter.
 The integer n is in the range [0, 100].
 */
 
+class Solution
+{
+public:
+  int leastInterval(vector<char> &tasks, int n)
+  {
+    vector<int> freq(26, 0);
+    int Max = 0, maxCount = 0;
+    for (auto &task : tasks)
+    {
+      freq[task - 'A']++;
+      if (Max == freq[task - 'A'])
+        maxCount++;
+      else if (Max < freq[task - 'A'])
+      {
+        Max = freq[task - 'A'];
+        maxCount = 1;
+      }
+    }
+
+    int partCount = Max - 1;
+    int partLength = n - (maxCount - 1);
+    int emptySlots = partCount * partLength;
+    int availableTasks = tasks.size() - (Max * maxCount);
+    int idles = max(0, emptySlots - availableTasks);
+
+    return tasks.size() + idles;
+  }
+};
