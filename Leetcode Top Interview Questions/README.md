@@ -151,6 +151,7 @@
 - [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) - [Cpp Solution](./solutions/Sum%20of%20Two%20Integers.cpp)
 - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) - [Cpp Solution](./solutions/Evaluate%20Reverse%20Polish%20Notation.cpp)
 - [Majority Element](https://leetcode.com/problems/majority-element/) - [Cpp Solution](./solutions/Majority%20Element.cpp)
+- [Majority Element II](https://leetcode.com/problems/majority-element-ii/) - [Cpp Solution](./solutions/Majority%20Element%20II.cpp)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/) - [Cpp Solution](./solutions/Task%20Scheduler.cpp)
 
 ## Hard Level Collection
