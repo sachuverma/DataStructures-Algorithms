@@ -122,6 +122,7 @@
 - [Why Quick Sort preferred for Arrays and Merge Sort for Linked Lists?](https://www.geeksforgeeks.org/why-quick-sort-preferred-for-arrays-and-merge-sort-for-linked-lists/ "view topic")
 - [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1# "view question") - [Cpp Solution](./solutions/153.%20Flattening%20a%20Linked%20List.cpp "view my solution")
 - [Given a linked list of 0s, 1s and 2s, sort it](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1# "view question") - [Cpp Solution](./solutions/154.%20Given%20a%20linked%20list%20of%200s%201s%20and%202s%20sort%20it.cpp "view my solution")
+- [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1# "view question") - [Cpp Solution](./solutions/Clone%20a%20linked%20list%20with%20next%20and%20random%20pointer.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
 <!--
