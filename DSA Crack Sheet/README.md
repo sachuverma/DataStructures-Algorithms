@@ -125,6 +125,7 @@
 - [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1# "view question") - [Cpp Solution](./solutions/155.%20Clone%20a%20linked%20list%20with%20next%20and%20random%20pointer.cpp "view my solution")
 - [Merge K sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1# "view question") - [Cpp Solution](./solutions/156.%20Merge%20K%20sorted%20linked%20lists.cpp "view my solution")
 - [Multiply two linked lists](https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1# "view question") - [Cpp Solution](./solutions/157.%20Multiply%20two%20linked%20lists.cpp "view my solution")
+- [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1# "view question") - [Cpp Solution](./solutions/158.%20Delete%20nodes%20having%20greater%20value%20on%20right.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
 <!--
