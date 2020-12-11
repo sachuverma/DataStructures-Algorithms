@@ -126,6 +126,7 @@
 - [Merge K sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1# "view question") - [Cpp Solution](./solutions/156.%20Merge%20K%20sorted%20linked%20lists.cpp "view my solution")
 - [Multiply two linked lists](https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1# "view question") - [Cpp Solution](./solutions/157.%20Multiply%20two%20linked%20lists.cpp "view my solution")
 - [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1# "view question") - [Cpp Solution](./solutions/158.%20Delete%20nodes%20having%20greater%20value%20on%20right.cpp "view my solution")
+- [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1 "view question") - [Cpp Solution](./solutions/160.%20Nth%20node%20from%20end%20of%20linked%20list.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
 <!--
