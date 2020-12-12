@@ -134,6 +134,7 @@
 - [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1# "view question") - [Cpp Solution](./solutions/163.%20Reverse%20Level%20Order%20Traversal.cpp "view my solution")
 - [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1 "view question") - [Cpp Solution](./solutions/164.%20Height%20of%20Binary%20Tree.cpp "view my solution")
 - [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1 "view question") - [Cpp Solution](./solutions/165.%20Diameter%20of%20Binary%20Tree.cpp "view my solution")
+- [Create a mirror tree from the given binary tree](https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/ "view question") - [Cpp Solution](./solutions/166.%20Create%20a%20mirror%20tree%20from%20the%20given%20binary%20tree.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
 <!--
