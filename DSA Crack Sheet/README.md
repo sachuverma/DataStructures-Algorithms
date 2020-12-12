@@ -140,6 +140,7 @@
 - [Preorder Tree Traversal | Iterative & Recursive](https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/ "view topic")
 - [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1# "view question") - [Cpp Solution](./solutions/170.%20Left%20View%20of%20Binary%20Tree.cpp "view my solution")
 - [Right View of Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1# "view question") - [Cpp Solution](./solutions/171.%20Right%20View%20of%20Binary%20Tree.cpp "view my solution")
+- [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1# "view question") - [Cpp Solution](./solutions/172.%20Top%20View%20of%20Binary%20Tree.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
 <!--
