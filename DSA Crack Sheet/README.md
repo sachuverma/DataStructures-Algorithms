@@ -143,6 +143,7 @@
 - [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1# "view question") - [Cpp Solution](./solutions/172.%20Top%20View%20of%20Binary%20Tree.cpp "view my solution")
 - [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1# "view question") - [Cpp Solution](./solutions/173.%20Bottom%20View%20of%20Binary%20Tree.cpp "view my solution")
 - [ZigZag Tree Traversal](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1# "view question") - [Cpp Solution](./solutions/174.%20ZigZag%20Tree%20Traversal.cpp "view my solution")
+- [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1# "view question") - [Cpp Solution](./solutions/175.%20Check%20for%20Balanced%20Tree.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
 <!--
