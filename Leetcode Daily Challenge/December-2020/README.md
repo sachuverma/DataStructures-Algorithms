@@ -17,3 +17,4 @@
 | 13. | [Burst Balloons](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3564/)              |          [cpp](./13.%20Burst%20Balloons.cpp)           |
 | 14. | [Palindrome Partitioning](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3565/)              |          [cpp](./14.%20Palindrome%20Partitioning.cpp)           |
 | 15. | [Squares of a Sorted Array](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3567/)              |          [cpp](./15.%20Squares%20of%20a%20Sorted%20Array.cpp)           |
+| 16. | [Validate Binary Search Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3568/)              |          [cpp](./16.%20Validate%20Binary%20Search%20Tree.cpp)           |
