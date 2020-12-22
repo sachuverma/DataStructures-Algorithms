@@ -21,5 +21,5 @@
 | 17. | [4Sum II](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3569/)              |          [cpp](./17.%204Sum%20II.cpp)           |
 | 18. | [Increasing Triplet Subsequence](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3570/)              |          [cpp](./18.%20Increasing%20Triplet%20Subsequence.cpp)           |
 | 19. | [Cherry Pickup II](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3571/)              |          [cpp](./19.%20Cherry%20Pickup%20II.cpp)   |    
-| 20. | []() |[cpp](./20.%20.cpp)   |    
+| 20. | [Decoded String at Index](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3572/) |[cpp](./20.%20Decoded%20String%20at%20Index.cpp)   |    
 | 21. | [Smallest Range II](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3573/) |[cpp](./21.%20Smallest%20Range%20II.cpp)   |    
