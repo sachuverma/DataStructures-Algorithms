@@ -7,19 +7,80 @@
 [![Portfolio][portfolio-sachu]][portfolio-url]
 
 # DATA STRUCTURES & ALGORITHMS
+`Resources and Solutions` `^_^`
 
-### `Resources and Solutions` `^_^`
+## Preface
 
-> [DSA Crack Sheet](./DSA%20Crack%20Sheet)  
-> [Companywise Interview Questions](./Companywise%20Questions)  
-> [Top Interview Preparation Questions](./Leetcode%20Top%20Interview%20Questions)  
-> [Leetcode Daily Challenge](./Leetcode%20Daily%20Challenge)
-
-# C++ Data Structures and Algorithms Cheat Sheet
+Since the C++ language varies so heavily between versions (e.g. C++0x, C++11, C++17, etc.), I will preface this cheat sheet by saying that the majority of the examples here target C++0x or c++11, as those are the versions that I am most familiar with. I come from the aerospace industry (embedded flight software) in which we purposefully don't use the latest technologies for safety reasons, so most of the code I write is in C++0x and sometimes C++11. Nevertheless, the basic concepts of C++ and object oriented programming still generally apply to both past and future versions of the language.
 
 ## Table of Contents
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [DATA STRUCTURES & ALGORITHMS](#data-structures--algorithms)
+  - [Preface](#preface)
+  - [Table of Contents](#table-of-contents)
+- [Interview Practice](#interview-practice)
+    - [DSA Crack Sheet](#dsa-crack-sheet)
+    - [Companywise Interview Questions](#companywise-interview-questions)
+    - [Top Interview Preparation Questions](#top-interview-preparation-questions)
+    - [Leetcode Daily Challenge](#leetcode-daily-challenge)
+- [C++ Syntax Cheat Sheet](#c-syntax-cheat-sheet)
+  - [1.0 C++ Classes](#10-c-classes)
+    - [1.1 Class Syntax](#11-class-syntax)
+      - [1.1.1 Class Declaration (`.h` file)](#111-class-declaration-h-file)
+      - [1.1.2 Class Definition (`.cpp` file)](#112-class-definition-cpp-file)
+      - [1.1.3 Class Utilization (Another `.cpp` file)](#113-class-utilization-another-cpp-file)
+      - [1.1.4 Getters and Setters](#114-getters-and-setters)
+    - [1.2 Inheritance](#12-inheritance)
+      - [1.2.1 `Rectangle` Declaration (`.h` file)](#121-rectangle-declaration-h-file)
+      - [1.2.2 `Rectangle` Definition (`.cpp` file)](#122-rectangle-definition-cpp-file)
+      - [1.2.3 `Rectangle` Utilization (Another `.cpp` file)](#123-rectangle-utilization-another-cpp-file)
+    - [1.3 Class Polymorphism](#13-class-polymorphism)
+      - [1.3.1 Motivation](#131-motivation)
+      - [1.3.2 Virtual Methods](#132-virtual-methods)
+    - [1.4 Special Methods](#14-special-methods)
+      - [1.4.1 Constructor and Destructor](#141-constructor-and-destructor)
+        - [1.4.1.1 Use of `explicit` in Constructors](#1411-use-of-explicit-in-constructors)
+        - [1.4.1.2 Member Initializer Lists](#1412-member-initializer-lists)
+      - [1.4.2 `new` and `delete`](#142-new-and-delete)
+      - [1.4.3 Copy Constructor and Copy Assignment](#143-copy-constructor-and-copy-assignment)
+      - [1.4.4 Move Constructor and Move Assignment](#144-move-constructor-and-move-assignment)
+    - [1.5 Operator Overloading](#15-operator-overloading)
+    - [1.6 Templates](#16-templates)
+  - [2.0 General C++ Syntax](#20-general-c-syntax)
+    - [2.1 Namespaces](#21-namespaces)
+    - [2.2 References and Pointers](#22-references-and-pointers)
+    - [2.3 Keywords](#23-keywords)
+      - [2.3.1 General Keywords](#231-general-keywords)
+      - [2.3.2 Storage Class Specifiers](#232-storage-class-specifiers)
+      - [2.3.3 `const` and `dynamic` Cast Conversion](#233-const-and-dynamic-cast-conversion)
+    - [2.4 Preprocessor Tokens](#24-preprocessor-tokens)
+    - [2.5 Strings (`std::string`)](#25-strings-stdstring)
+    - [2.6 Iterators (`std::iterator<...>`)](#26-iterators-stditerator)
+    - [2.7 Exceptions](#27-exceptions)
+    - [2.8 Lambdas](#28-lambdas)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+<br />
+<div style="font-size:1.2rem;">
+
+# INTERVIEW PRACTICE
+
+### 1. [DSA Crack Sheet](./DSA%20Crack%20Sheet)  
+### 2. [Companywise Interview Questions](./Companywise%20Questions)  
+### 3. [Top Interview Preparation Questions](./Leetcode%20Top%20Interview%20Questions)  
+### 4. [Leetcode Daily Challenge](./Leetcode%20Daily%20Challenge)
+
+</div>
+
+
+<br /><br />
+
+<!-- # C++ Data Structures and Algorithms Cheat Sheet
+
+## Table of Contents
 
 - [C++ Data Structures and Algorithms Cheat Sheet](#c-data-structures-and-algorithms-cheat-sheet)
   - [Table of Contents](#table-of-contents)
@@ -47,7 +108,6 @@
     - [3.4 Merge Sort](#34-merge-sort)
     - [3.5 Quicksort](#35-quicksort)
 
-<!-- /TOC -->
 
 ## 1.0 Data Structures
 
@@ -771,56 +831,12 @@ p.pop();
 
 - Choice of pivot:
   - Choose median of the first, middle, and last elements as pivot
-  - Counters worst-case complexity for already-sorted and reverse-sorted
+  - Counters worst-case complexity for already-sorted and reverse-sorted 
+
+-->
 
 # C++ Syntax Cheat Sheet
 
-## Preface
-
-Since the C++ language varies so heavily between versions (e.g. C++0x, C++11, C++17, etc.), I will preface this cheat sheet by saying that the majority of the examples here target C++0x or c++11, as those are the versions that I am most familiar with. I come from the aerospace industry (embedded flight software) in which we purposefully don't use the latest technologies for safety reasons, so most of the code I write is in C++0x and sometimes C++11. Nevertheless, the basic concepts of C++ and object oriented programming still generally apply to both past and future versions of the language.
-
-## Table of Contents
-
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
-
-- [C++ Syntax Cheat Sheet](#c-syntax-cheat-sheet)
-  - [Table of Contents](#table-of-contents)
-  - [1.0 C++ Classes](#10-c-classes)
-    - [1.1 Class Syntax](#11-class-syntax)
-      - [1.1.1 Class Declaration (`.h` file)](#111-class-declaration-h-file)
-      - [1.1.2 Class Definition (`.cpp` file)](#112-class-definition-cpp-file)
-      - [1.1.3 Class Utilization (Another `.cpp` file)](#113-class-utilization-another-cpp-file)
-      - [1.1.4 Getters and Setters](#114-getters-and-setters)
-    - [1.2 Inheritance](#12-inheritance)
-      - [1.2.1 `Rectangle` Declaration (`.h` file)](#121-rectangle-declaration-h-file)
-      - [1.2.2 `Rectangle` Definition (`.cpp` file)](#122-rectangle-definition-cpp-file)
-      - [1.2.3 `Rectangle` Utilization (Another `.cpp` file)](#123-rectangle-utilization-another-cpp-file)
-    - [1.3 Class Polymorphism](#13-class-polymorphism)
-      - [1.3.1 Motivation](#131-motivation)
-      - [1.3.2 Virtual Methods](#132-virtual-methods)
-    - [1.4 Special Methods (Constructor, Destructor, ...)](#14-special-methods)
-      - [1.4.1 Constructor and Destructor](#141-constructor-and-destructor)
-        - [1.4.1.1 Use of `explicit` in Constructors](#1411-use-of-explicit-in-constructors)
-        - [1.4.1.2 Member Initializer List](#1412-member-initializer-list)
-      - [1.4.2. `new` and `delete`](#142-new-and-delete)
-      - [1.4.3. Copy Constructor and Copy Assignment](#143-copy-constructor-and-copy-assignment)
-      - [1.4.4. Move Constructor and Move Assignment](#144-move-constructor-and-move-assignment)
-    - [1.5 Operator Overloading](#15-operator-overloading)
-    - [1.6 Templates](#16-templates)
-  - [2.0 General C++ Syntax](#20-general-c-syntax)
-    - [2.1 Namespaces](#21-namespaces)
-    - [2.2 References/Pointers](#22-references-and-pointers)
-    - [2.3 Keywords](#23-keywords)
-      - [2.3.1 General keywords](#231-general-keywords)
-      - [2.3.2 Storage class specifiers](#232-storage-class-specifiers)
-      - [2.3.3 `const` and `dynamic` Cast Conversion](#233-const-and-dynamic-cast-conversion)
-    - [2.4 Preprocessor Tokens](#24-preprocessor-tokens)
-    - [2.5 Strings ](#25-strings-stdstring)
-    - [2.6 Iterators](#26-iterators-stditerator)
-    - [2.7 Exceptions](#27-exceptions)
-    - [2.8 Lambdas](#28-lambdas)
-
-<!-- /TOC -->
 
 ## 1.0 C++ Classes
 
