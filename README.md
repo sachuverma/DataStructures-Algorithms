@@ -1845,6 +1845,8 @@ is effectively dereferenced.
 [Reference](https://en.cppreference.com/w/cpp/language/lambda)
 
 
+# Sources
+Other coding websites
 
 <!-- CONTRIBUTING -->
 # Contributing
