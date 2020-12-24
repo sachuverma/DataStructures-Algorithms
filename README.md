@@ -15,7 +15,7 @@ Since the C++ language varies so heavily between versions (e.g. C++0x, C++11, C+
 
 ## Table of Contents
 
-
+ 
 - [DATA STRUCTURES & ALGORITHMS](#data-structures--algorithms)
   - [Preface](#preface)
   - [Table of Contents](#table-of-contents)
