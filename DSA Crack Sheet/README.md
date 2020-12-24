@@ -152,6 +152,7 @@
 ### Greedy Method
 
 - [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1 "view question") - [Cpp Solution](./solutions/219.%20N%20meetings%20in%20one%20room.cpp "view my solution")
+- [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1# "view question") - [Cpp Solution](./solutions/220.%20Job%20Sequencing%20Problem.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
 <!--
