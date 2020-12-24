@@ -155,3 +155,8 @@
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/) - [Cpp Solution](./solutions/Task%20Scheduler.cpp)
 
 ## Hard Level Collection
+
+### 1. Array
+
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - [Cpp Solution](./Product%20of%20Array%20Except%20Self.cpp)
+- []() - [Cpp Solution](./.cpp)
