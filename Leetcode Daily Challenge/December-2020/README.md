@@ -24,3 +24,6 @@
 | 20. | [Decoded String at Index](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3572/) |[cpp](./20.%20Decoded%20String%20at%20Index.cpp)   |    
 | 21. | [Smallest Range II](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3573/) |[cpp](./21.%20Smallest%20Range%20II.cpp)   |    
 | 22. | [Balanced Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3577/) |[cpp](./22.%20Balanced%20Binary%20Tree.cpp)   |    
+| 23. | [Next Greater Element III](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3578/) |[cpp](./23.%20Next%20Greater%20Element%20III.cpp)   |    
+
+
