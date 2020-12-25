@@ -26,5 +26,6 @@
 | 22. | [Balanced Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3577/) |[cpp](./22.%20Balanced%20Binary%20Tree.cpp)   |    
 | 23. | [Next Greater Element III](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3578/) |[cpp](./23.%20Next%20Greater%20Element%20III.cpp)   |    
 | 24. | [Swap Nodes in Pairs](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3579/) |[cpp](./24.%20Swap%20Nodes%20in%20Pairs.cpp)   |    
+| 25. | [Diagonal Traverse](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3580/) |[cpp](./25.%20Diagonal%20Traverse.cpp)   |    
 
 
