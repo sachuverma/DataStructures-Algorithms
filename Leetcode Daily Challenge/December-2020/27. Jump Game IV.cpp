@@ -52,54 +52,62 @@ class Solution
 public:
   int minJumps(vector<int> &arr)
   {
-    unordered_map<int, vector<int>> adj;
+    if (arr.size() == 1)
+      return 0;
     int n = arr.size();
+    vector<int> visited(n, 0);
 
+    unordered_map<int, vector<int>> adj;
     for (int i = 0; i < n; ++i)
+    {
       if (adj.find(arr[i]) == adj.end())
         adj[arr[i]] = {i};
       else
         adj[arr[i]].push_back(i);
+    }
 
-    vector<int> grey(n, 0);
-    grey[0] = 1;
-
-    queue<vector<int>> q;
-    q.push({0, 0});
-    int ret = INT_MAX;
+    queue<int> q;
+    q.push(0);
+    visited[0] = 1;
+    int ans = 0;
 
     while (q.size())
     {
-      auto temp = q.front();
-      q.pop();
-      int u = temp[0], d = temp[1];
-      if (u == n - 1)
-        return d;
-      else
+      int size = q.size();
+      for (int i = 0; i < size; ++i)
       {
-        if (u > 0 && !grey[u - 1])
+        int idx = q.front();
+        q.pop();
+        if (idx == n - 1)
+          return ans;
+
+        if (idx - 1 >= 0 && idx - 1 < n && visited[idx - 1] == 0)
         {
-          q.push({u - 1, d + 1});
-          grey[u - 1] = 1;
-        }
-        if (u + 1 < n && !grey[u + 1])
-        {
-          q.push({u + 1, d + 1});
-          grey[u + 1] = 1;
+          q.push(idx - 1);
+          visited[idx - 1] = 1;
         }
 
-        for (int v : adj[arr[u]])
+        if (idx + 1 >= 0 && idx + 1 < n && visited[idx + 1] == 0)
         {
-          if (!grey[v])
+          q.push(idx + 1);
+          visited[idx + 1] = 1;
+        }
+
+        if (adj.find(arr[idx]) != adj.end())
+        {
+          for (auto &i : adj[arr[idx]])
           {
-            q.push({v, d + 1});
-            grey[v] = 1;
+            if (visited[i] == 0)
+            {
+              q.push(i);
+              visited[i] = 1;
+            }
           }
+          adj.erase(arr[idx]);
         }
-        adj[arr[u]] = {};
       }
+      ans++;
     }
-
-    return ret;
+    return ans;
   }
 };
