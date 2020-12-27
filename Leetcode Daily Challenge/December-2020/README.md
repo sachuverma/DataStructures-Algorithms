@@ -28,5 +28,6 @@
 | 24. | [Swap Nodes in Pairs](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3579/) |[cpp](./24.%20Swap%20Nodes%20in%20Pairs.cpp)   |    
 | 25. | [Diagonal Traverse](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3580/) |[cpp](./25.%20Diagonal%20Traverse.cpp)   |    
 | 26. | [Decode Ways](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3581/) |[cpp](./26.%20Decode%20Ways.cpp)   |    
+| 27. | [Jump Game IV](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3582/) |[cpp](./27.%20Jump%20Game%20IV.cpp)   |    
 
 

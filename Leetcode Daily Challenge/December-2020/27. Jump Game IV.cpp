@@ -1,0 +1,105 @@
+/*
+Jump Game IV
+============
+
+Given an array of integers arr, you are initially positioned at the first index of the array.
+
+In one step you can jump from index i to index:
+
+i + 1 where: i + 1 < arr.length.
+i - 1 where: i - 1 >= 0.
+j where: arr[i] == arr[j] and i != j.
+Return the minimum number of steps to reach the last index of the array.
+
+Notice that you can not jump outside of the array at any time.
+
+Example 1:
+Input: arr = [100,-23,-23,404,100,23,23,23,3,404]
+Output: 3
+Explanation: You need three jumps from index 0 --> 4 --> 3 --> 9. Note that index 9 is the last index of the array.
+
+Example 2:
+Input: arr = [7]
+Output: 0
+Explanation: Start index is the last index. You don't need to jump.
+
+Example 3:
+Input: arr = [7,6,9,6,9,6,9,7]
+Output: 1
+Explanation: You can jump directly from index 0 to index 7 which is last index of the array.
+
+Example 4:
+Input: arr = [6,1,9]
+Output: 2
+
+Example 5:
+Input: arr = [11,22,7,7,7,7,7,7,7,22,13]
+Output: 3
+
+Constraints:
+1 <= arr.length <= 5 * 10^4
+-10^8 <= arr[i] <= 10^8
+
+Hint #1  
+Build a graph of n nodes where nodes are the indices of the array and edges for node i are nodes i+1, i-1, j where arr[i] == arr[j].
+
+Hint #2  
+Start bfs from node 0 and keep distance, answer is the distance when you reach onode n-1.
+*/
+
+class Solution
+{
+public:
+  int minJumps(vector<int> &arr)
+  {
+    unordered_map<int, vector<int>> adj;
+    int n = arr.size();
+
+    for (int i = 0; i < n; ++i)
+      if (adj.find(arr[i]) == adj.end())
+        adj[arr[i]] = {i};
+      else
+        adj[arr[i]].push_back(i);
+
+    vector<int> grey(n, 0);
+    grey[0] = 1;
+
+    queue<vector<int>> q;
+    q.push({0, 0});
+    int ret = INT_MAX;
+
+    while (q.size())
+    {
+      auto temp = q.front();
+      q.pop();
+      int u = temp[0], d = temp[1];
+      if (u == n - 1)
+        return d;
+      else
+      {
+        if (u > 0 && !grey[u - 1])
+        {
+          q.push({u - 1, d + 1});
+          grey[u - 1] = 1;
+        }
+        if (u + 1 < n && !grey[u + 1])
+        {
+          q.push({u + 1, d + 1});
+          grey[u + 1] = 1;
+        }
+
+        for (int v : adj[arr[u]])
+        {
+          if (!grey[v])
+          {
+            q.push({v, d + 1});
+            grey[v] = 1;
+          }
+        }
+        adj[arr[u]] = {};
+      }
+    }
+
+    return ret;
+  }
+};
