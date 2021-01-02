@@ -1,0 +1,5 @@
+# January 2020 LeetCoding Challenge
+
+| Day | Question Links                                                                                                                                                               |                                       Solutions                                        |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------: |
+| 1.  | [Check Array Formation Through Concatenation](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3589/)                          |                [cpp](./01.%20Check%20Array%20Formation%20Through%20Concatenation.cpp)                 |
