@@ -31,5 +31,6 @@
 | 27. | [Jump Game IV](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3582/) |[cpp](./27.%20Jump%20Game%20IV.cpp)   |    
 | 28. | [Reach a Number](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3583/) |[cpp](./28.%20Reach%20a%20Number.cpp)   |    
 | 29. | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/573/week-5-december-29th-december-31st/3585/) |[cpp](./29.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.cpp)   |    
+| 30. | [Game of Life](https://leetcode.com/explore/featured/card/december-leetcoding-challenge/573/week-5-december-29th-december-31st/3586/) |[cpp](./30.%20Game%20of%20Life.cpp)   |    
 
 
