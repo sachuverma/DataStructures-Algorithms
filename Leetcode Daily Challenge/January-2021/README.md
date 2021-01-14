@@ -7,7 +7,7 @@
 | 3.  | [Beautiful Arrangement](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3591/) | [cpp](./03.%20Beautiful%20Arrangement.cpp) |
 | 4.  | [Merge Two Sorted Lists](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3592/) | [cpp](./04.%20Merge%20Two%20Sorted%20Lists.cpp) |
 | 5.  | [Remove Duplicates from Sorted List II](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3593/) | [cpp](./05.%20Remove%20Duplicates%20from%20Sorted%20List%20II.cpp) |
-| .  | []() | [cpp](./.%20.cpp) |
+| .  | [Kth Missing Positive Number](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3594/) | [cpp](./06.%20Kth%20Missing%20Positive%20Number.cpp) |
 | .  | []() | [cpp](./.%20.cpp) |
 | .  | []() | [cpp](./.%20.cpp) |
 | .  | []() | [cpp](./.%20.cpp) |
