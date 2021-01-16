@@ -9,7 +9,7 @@
 | 5.  | [Remove Duplicates from Sorted List II](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3593/) | [cpp](./05.%20Remove%20Duplicates%20from%20Sorted%20List%20II.cpp) |
 | 6.  | [Kth Missing Positive Number](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3594/) | [cpp](./06.%20Kth%20Missing%20Positive%20Number.cpp) |
 | 7.  | [Longest Substring Without Repeating Characters](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3595/) | [cpp](./07.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp) |
-| .8  | [Check If Two String Arrays are Equivalent](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3597/) | [cpp](./08.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.cpp) |
-| .  | []() | [cpp](./.%20.cpp) |
+| 8.  | [Check If Two String Arrays are Equivalent](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3597/) | [cpp](./08.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.cpp) |
+| 9.  | [Word Ladder](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3598/) | [cpp](./09.%20Word%20Ladder.cpp) |
 | .  | []() | [cpp](./.%20.cpp) |
 | .  | []() | [cpp](./.%20.cpp) |
