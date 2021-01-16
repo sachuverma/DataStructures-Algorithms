@@ -17,4 +17,5 @@
 | 13.  | [Boats to Save People](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3602/) | [cpp](./13.%20Boats%20to%20Save%20People.cpp) |
 | 14.  | [Minimum Operations to Reduce X to Zero](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3603/) | [cpp](./14.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.cpp) |
 | 15.  | [Get Maximum in Generated Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3605/) | [cpp](./15.%20Get%20Maximum%20in%20Generated%20Array.cpp) |
+| 16.  | [Kth Largest Element in an Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3606/) | [cpp](./16.%20Kth%20Largest%20Element%20in%20an%20Array.cpp) |
 | .  | []() | [cpp](./.cpp) |
