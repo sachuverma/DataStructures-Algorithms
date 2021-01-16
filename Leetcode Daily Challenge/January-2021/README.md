@@ -11,5 +11,9 @@
 | 7.  | [Longest Substring Without Repeating Characters](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3595/) | [cpp](./07.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp) |
 | 8.  | [Check If Two String Arrays are Equivalent](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3597/) | [cpp](./08.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.cpp) |
 | 9.  | [Word Ladder](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3598/) | [cpp](./09.%20Word%20Ladder.cpp) |
-| .  | []() | [cpp](./.%20.cpp) |
-| .  | []() | [cpp](./.%20.cpp) |
+| 10.  | [Create Sorted Array through Instructions](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3599/) | [cpp](./10.%20.cpp) |
+| 11.  | [Merge Sorted Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3600/) | [cpp](./11.%20Merge%20Sorted%20Array.cpp) |
+| .  | []() | [cpp](./.cpp) |
+| .  | []() | [cpp](./.cpp) |
+| .  | []() | [cpp](./.cpp) |
+| .  | []() | [cpp](./.cpp) |
