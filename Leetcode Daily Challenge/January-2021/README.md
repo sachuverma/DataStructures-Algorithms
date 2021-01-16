@@ -15,5 +15,5 @@
 | 11.  | [Merge Sorted Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3600/) | [cpp](./11.%20Merge%20Sorted%20Array.cpp) |
 | 12.  | [Add Two Numbers](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3601/) | [cpp](./12.%20Add%20Two%20Numbers.cpp) |
 | 13.  | [Boats to Save People](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3602/) | [cpp](./13.%20Boats%20to%20Save%20People.cpp) |
-| 14.  | []() | [cpp](./14.cpp) |
+| 14.  | [Minimum Operations to Reduce X to Zero](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3603/) | [cpp](./14.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.cpp) |
 | .  | []() | [cpp](./.cpp) |
