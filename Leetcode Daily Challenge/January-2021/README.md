@@ -19,6 +19,6 @@
 | 15.  | [Get Maximum in Generated Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3605/) | [cpp](./15.%20Get%20Maximum%20in%20Generated%20Array.cpp) |
 | 16.  | [Kth Largest Element in an Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3606/) | [cpp](./16.%20Kth%20Largest%20Element%20in%20an%20Array.cpp) |
 | 17.  | [Count Sorted Vowel Strings](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3607/) | [cpp](./17.%20Count%20Sorted%20Vowel%20Strings.cpp) |
-| .  | []() | [cpp](./.cpp) |
+| 18.  | [Max Number of K-Sum Pairs](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3608/) | [cpp](./18.%20Max%20Number%20of%20K-Sum%20Pairs.cpp) |
 | .  | []() | [cpp](./.cpp) |
      
