@@ -155,11 +155,15 @@
 - [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1# "view question") - [Cpp Solution](./solutions/220.%20Job%20Sequencing%20Problem.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
+### Graphs
+
+- [Creating Graph](./solutions/329.%20Creating%20Graph.cpp "view code") 
+
 <!--
--  -  - []( "view topic") - []( "view my solution") -  -
--  -  - []( "view topic") - []( "view my solution") -  -
--  -  - []( "view topic") - []( "view my solution") -  -
--  -  - []( "view topic") - []( "view my solution") -  -
+-  []( "view topic") - []( "view my solution")
+-  []( "view topic") - []( "view my solution")
+-  []( "view topic") - []( "view my solution")
+-  []( "view topic") - []( "view my solution")
 -->
 
 </span>
