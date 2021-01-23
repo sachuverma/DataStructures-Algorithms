@@ -21,5 +21,9 @@
 | 17.  | [Count Sorted Vowel Strings](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3607/) | [cpp](./17.%20Count%20Sorted%20Vowel%20Strings.cpp) |
 | 18.  | [Max Number of K-Sum Pairs](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3608/) | [cpp](./18.%20Max%20Number%20of%20K-Sum%20Pairs.cpp) |
 | 19.  | [Longest Palindromic Substring](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3609/) | [cpp](./19.%20Longest%20Palindromic%20Substring.cpp) |
-| 20.  | [Valid Parentheses](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3610/) | [cpp](./20.%20Valid%20Parentheses.cpp) |
-     
+| 20.  | [Valid Parentheses](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3610/) | [cpp](./20.%20Valid%20Parentheses.cpp) | 
+| 21.  | []() | [cpp](./21.%20.cpp) |
+| 22.  | [Determine if Two Strings Are Close](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3613/) | [cpp](./22.%20Determine%20if%20Two%20Strings%20Are%20Close.cpp) |
+
+
+   
