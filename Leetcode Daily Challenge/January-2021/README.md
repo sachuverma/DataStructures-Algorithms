@@ -25,4 +25,5 @@
 | 21.  | [Find the Most Competitive Subsequence](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3611/) | [cpp](./21.%20Find%20the%20Most%20Competitive%20Subsequence.cpp) |
 | 22.  | [Determine if Two Strings Are Close](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3613/) | [cpp](./22.%20Determine%20if%20Two%20Strings%20Are%20Close.cpp) |
 | 23.  | [Sort the Matrix Diagonally](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3614/) | [cpp](./23.%20Sort%20the%20Matrix%20Diagonally.cpp) |
+| 24.  | [Merge k Sorted Lists](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3615/) | [cpp](./24.%20Merge%20k%20Sorted%20Lists.cpp) |
 
