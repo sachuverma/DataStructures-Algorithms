@@ -159,7 +159,7 @@
 
 - [Creating Graph](./solutions/329.%20Creating%20Graph.cpp "view code")
 - [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1# "view question") - [Cpp Solution](./solutions/330.%20BFS%20of%20graph.cpp "view my solution")
-- []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
+- [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1# "view question") - [Cpp Solution](./solutions/331.%20DFS%20of%20Graph.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
 <!--
