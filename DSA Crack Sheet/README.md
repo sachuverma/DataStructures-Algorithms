@@ -161,6 +161,7 @@
 - [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1# "view question") - [Cpp Solution](./solutions/330.%20BFS%20of%20graph.cpp "view my solution")
 - [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1# "view question") - [Cpp Solution](./solutions/331.%20DFS%20of%20Graph.cpp "view my solution")
 - [Detect Cycle in a Directed Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1 "view question") - [Cpp Solution](./solutions/332.%20Detect%20Cycle%20in%20a%20Directed%20Graph.cpp "view my solution")
+- [Detect Cycle in a Undirected Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1 "view question") - [Cpp Solution](./solutions/333.%20Detect%20Cycle%20in%20a%20Undirected%20Graph.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
 <!--
