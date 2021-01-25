@@ -162,6 +162,9 @@
 - [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1# "view question") - [Cpp Solution](./solutions/331.%20DFS%20of%20Graph.cpp "view my solution")
 - [Detect Cycle in a Directed Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1 "view question") - [Cpp Solution](./solutions/332.%20Detect%20Cycle%20in%20a%20Directed%20Graph.cpp "view my solution")
 - [Detect Cycle in a Undirected Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1 "view question") - [Cpp Solution](./solutions/333.%20Detect%20Cycle%20in%20a%20Undirected%20Graph.cpp "view my solution")
+- [Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1# "view question") - [Cpp Solution](./solutions/334.%20Rat%20in%20a%20Maze%20Problem.cpp "view my solution")
+- []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
+- []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
 <!--
