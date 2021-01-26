@@ -1,5 +1,4 @@
 
-
 bool isInside(int x, int y, int N)
 {
   if (x >= 1 && x <= N && y >= 1 && y <= N)
