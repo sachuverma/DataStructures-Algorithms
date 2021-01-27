@@ -26,5 +26,6 @@
 | 22.  | [Determine if Two Strings Are Close](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3613/) | [cpp](./22.%20Determine%20if%20Two%20Strings%20Are%20Close.cpp) |
 | 23.  | [Sort the Matrix Diagonally](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3614/) | [cpp](./23.%20Sort%20the%20Matrix%20Diagonally.cpp) |
 | 24.  | [Merge k Sorted Lists](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3615/) | [cpp](./24.%20Merge%20k%20Sorted%20Lists.cpp) |
-| 25.  | [1's Are at Least Length K Places Away](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3616//) | [cpp](./25.%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.cpp) |
+| 25.  | [1's Are at Least Length K Places Away](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3616/) | [cpp](./25.%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.cpp) |
+| 26.  | [Path With Minimum Effort](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3617/) | [cpp](./26.%20Path%20With%20Minimum%20Effort.cpp) |
 
