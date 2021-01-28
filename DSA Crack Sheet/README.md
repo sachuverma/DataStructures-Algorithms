@@ -166,6 +166,7 @@
 - [Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1# "view question") - [Cpp Solution](./solutions/335.%20Steps%20by%20Knight.cpp "view my solution")
 - [Flood Fill](https://leetcode.com/problems/flood-fill/submissions/ "view question") - [Cpp Solution](./solutions/336.%20Flood%20Fill.cpp "view my solution")
 - [Clone Graph](https://leetcode.com/problems/clone-graph/ "view question") - [Cpp Solution](./solutions/337.%20Clone%20Graph.cpp "view my solution")
+- [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/submissions/ "view question") - [Cpp Solution](./solutions/338.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp "view my solution")
 - []( "view question") - [Cpp Solution](./solutions/.cpp "view my solution")
 
 <!--
