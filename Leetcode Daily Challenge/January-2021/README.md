@@ -32,4 +32,5 @@
 | 28.  | [Smallest String With A Given Numeric Value](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3619/) | [cpp](./28.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value.cpp) |
 | 29.  | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/583/week-5-january-29th-january-31st/3621/) | [cpp](./29.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp) |
 | 30.  | [Minimize Deviation in Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/583/week-5-january-29th-january-31st/3622/) | [cpp](./30.%20Minimize%20Deviation%20in%20Array.cpp) |
+| 31.  | [Next Permutation](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/583/week-5-january-29th-january-31st/3623/) | [cpp](./31.%20Next%20Permutation.cpp) |
 
