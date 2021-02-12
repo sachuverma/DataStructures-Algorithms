@@ -11,5 +11,7 @@
 | 7.  | [Shortest Distance to a Character](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3631/) | [cpp](./07.%20Shortest%20Distance%20to%20a%20Character.cpp) | 
 | 8.  | [Peeking Iterator](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3633/) | [cpp](./08.%20Peeking%20Iterator.cpp) | 
 | 9.  | [Convert BST to Greater Tree](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3634/) | [cpp](./09.%20Convert%20BST%20to%20Greater%20Tree.cpp) | 
+| 10.  | [Copy List with Random Pointer](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3635/) | [cpp](./10.%20Copy%20List%20with%20Random%20Pointer.cpp) | 
+| 11.  | []() | [cpp](./11.%20.cpp) | 
 
 
