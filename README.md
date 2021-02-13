@@ -36,6 +36,7 @@
 ####  [CPP Syntax Cheet Sheet](./CPP-SYNTAX.md)
 #### Notes
 - [Dynamic Programming and Bit Masking](./Resources/Notes/Dynamic%20Programming%20and%20Bit%20Masking.md)
+- [Disjoint Set Union (Union Find)](./Resources/Notes/Disjoint%20Set%20Union.md)
 
 <br />
 
