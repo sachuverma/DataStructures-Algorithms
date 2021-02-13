@@ -31,6 +31,7 @@
 <br />
 
 ###  Notes and Resources
+Lots of Notes, and Reading Resources picked from different editorials.
 
 ####  [CPP Data Structures, Algorithms, and STL Sheet](./CPP-STL.md)
 ####  [CPP Syntax Cheet Sheet](./CPP-SYNTAX.md)
