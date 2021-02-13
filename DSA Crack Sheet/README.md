@@ -16,9 +16,24 @@
 
 ### Binary Tree
 
+### Binary Search Tree
+
 ### Greedy Method
 
+### Backtracking
+
+### Stacks & Queues
+
+### Heap
+
 ### Graphs
+
+### Trie
+
+### Dynamic Programming
+
+### Bit Manipulation
+
 
 
 
