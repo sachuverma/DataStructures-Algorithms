@@ -10,6 +10,7 @@
 - [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1# "view questions") - [Cpp Solution](./solutions/Sort%20an%20array%20of%200s,%201s%20and%202s.cpp)
 - [Move all negative numbers to beginning and positive to end with constant extra space](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/ "view topic")
 - [Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1# "view questions") - [Cpp Solution](./solutions/Union%20of%20two%20arrays.cpp)
+- [Cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1# "view questions") - [Cpp Solution](./solutions/Cyclically%20rotate%20an%20array%20by%20one.cpp)
 - []( "view questions") - [Cpp Solution](./solutions/.cpp)
 
 <!-- - []( "view questions") - [Cpp Solution](./solutions/) -->
