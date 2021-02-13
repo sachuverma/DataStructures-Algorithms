@@ -14,13 +14,17 @@
 
 - [DATA STRUCTURES & ALGORITHMS](#data-structures--algorithms)
   - [Table of Contents](#table-of-contents)
-  - [1. DSA Crack Sheet](#1-dsa-crack-sheet)
-  - [2. Companywise Interview Questions](#2-companywise-interview-questions)
-  - [3. Top Interview Preparation Questions](#3-top-interview-preparation-questions)
-  - [4. Leetcode Daily Challenges](#4-leetcode-daily-challenges)
-  - [5. Notes and Resources](#5-notes-and-resources)
-    - [5.1 CPP Data Structures, Algorithms, and STL Sheet](#51-cpp-data-structures-algorithms-and-stl-sheet)
-    - [5.2 CPP Syntax Cheet Sheet](#52-cpp-syntax-cheet-sheet)
+  - [DSA Crack Sheet](#dsa-crack-sheet)
+    - [Questions List](#questions-list)
+  - [Companywise Interview Questions](#companywise-interview-questions)
+    - [Question List](#question-list)
+  - [Top Interview Preparation Questions](#top-interview-preparation-questions)
+    - [Question List](#question-list-1)
+  - [Leetcode Daily Challenges](#leetcode-daily-challenges)
+    - [Question List](#question-list-2)
+  - [Notes and Resources](#notes-and-resources)
+    - [CPP Data Structures, Algorithms, and STL Sheet](#cpp-data-structures-algorithms-and-stl-sheet)
+    - [CPP Syntax Cheet Sheet](#cpp-syntax-cheet-sheet)
 - [Sources](#sources)
 - [Contributing](#contributing)
 - [License](#license)
@@ -29,33 +33,34 @@
 
 <br />
 
-## 1. DSA Crack Sheet
+##  DSA Crack Sheet
+Data Structures and Algorithms Cracks Sheet contains most necessary questions to learn and grasp about most common and important DS and Algos 
+  ### [Questions List](./DSA%20Crack%20Sheet)
 
-## 2. Companywise Interview Questions
+<br />
 
-## 3. Top Interview Preparation Questions
+##  Companywise Interview Questions
+text
+### [Question List](./Companywise%20Questions)  
 
-## 4. Leetcode Daily Challenges
+<br />
 
-## 5. Notes and Resources
+##  Top Interview Preparation Questions
+text
+### [Question List](./Leetcode%20Top%20Interview%20Questions) 
+<br />
 
-### 5.1 CPP Data Structures, Algorithms, and STL Sheet
-    
-### 5.2 CPP Syntax Cheet Sheet
+##  Leetcode Daily Challenges
+text
+### [Question List](./Leetcode%20Daily%20Challenge)
+<br />
 
-<!-- # INTERVIEW PRACTICE
+##  Notes and Resources
 
-### 1. [DSA Crack Sheet](./DSA%20Crack%20Sheet) 
+###  [CPP Data Structures, Algorithms, and STL Sheet](./CPP-STL.md)
+###  [CPP Syntax Cheet Sheet](./CPP-SYNTAX.md)
 
-### 2. [Companywise Interview Questions](./Companywise%20Questions)  
-
-
-### 3. [Top Interview Preparation Questions](./Leetcode%20Top%20Interview%20Questions) 
-
-### 4. [Leetcode Daily Challenge](./Leetcode%20Daily%20Challenge)
-
-
- -->
+<br />
 <br />
 
 # Sources
