@@ -43,7 +43,8 @@ Data Structures and Algorithms Cracks Sheet contains most necessary questions to
 <br />
 
 ###  [Companywise Interview Questions](./Companywise%20Questions)
-text
+It is containing the list of company wise questions available on leetcode premium.
+Every pdf file in this repository corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. The list of questions within each pdf is further sorted by their frequency, so the most popular question for a specific company is at the top.
 <!-- ### [Question List](./Companywise%20Questions)   -->
 
 <br />
