@@ -234,7 +234,7 @@ Union function will be modified as we will connect two subsets according to the 
 
 *Example:*
 
-You have a set `S = {0, 1, 2, 3, 4, 5}` Initially all the subsets have a single element and each element is a root of itself. Initially size[] array will be :
+You have a set `S = {0, 1, 2, 3, 4, 5}` Initially all the subsets have a single element and each element is a root of itself.
 
 Perform Union(0, 1). Here we can connect any root of any element with root of other one as both the element’s subsets have same size and then we will update the respective size.
 If we connect 1 to 0 and make 0 as a root and then size of 0 will change from 1 to 2.
@@ -244,7 +244,7 @@ While performing Union(1, 2), we will connect root(2) with root(1) as subset of 
 
 
 Similarly in Union(3, 2), it will connect root(3) to root(2) as subset of 3 has less number of element than number of elements in subset of 2.
- Maintaining a balance tree, will reduce complexity of union and find function from N to log2N.
+ Maintaining a balance tree, will reduce complexity of union and find function from `N` to `logN`.
 
 *Can we improve more ?*
 
@@ -252,10 +252,10 @@ Similarly in Union(3, 2), it will connect root(3) to root(2) as subset of 3 has 
 
 ```C++
 // modified root function.
-  int root (int Arr[ ] ,int i) {
-    while(Arr[ i ] != i) {
-      Arr[ i ] = Arr[ Arr[ i ] ] ; 
-      i = Arr[ i ]; 
+  int root (int Arr[] ,int i) {
+    while(Arr[i] != i) {
+      Arr[i] = Arr[ Arr[i  ] ; 
+      i = Arr[i]; 
     }
     return i;
   }
