@@ -268,7 +268,6 @@ log *N is the iterative function which computes the number of times you have to 
 `log*N is much better than log N`, as its value reaches at most up to 5 in the real world.
 
 *Applications:*
-
 1) As explained above, Union-Find is used to determine the connected components in a graph. We can determine whether 2 nodes are in the same connected component or not in the graph. We can also determine that by adding an edge between 2 nodes whether it leads to cycle in the graph or not.
 We learned that we can reduce its complexity to a very optimum level, so in case of very large and dense graph, we can use this data structure.
 
