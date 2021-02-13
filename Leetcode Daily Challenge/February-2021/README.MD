@@ -14,5 +14,6 @@
 | 10.  | [Copy List with Random Pointer](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3635/) | [cpp](./10.%20Copy%20List%20with%20Random%20Pointer.cpp) | 
 | 11.  | [Valid Anagram](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3636/) | [cpp](./11.%20Valid%20Anagram.cpp) | 
 | 12.  | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3637/) | [cpp](./12.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp) | 
+| 13.  | [Shortest Path in Binary Matrix](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3638/) | [cpp](./13.%20Shortest%20Path%20in%20Binary%20Matrix.cpp) | 
 
 
