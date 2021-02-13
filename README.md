@@ -10,61 +10,61 @@
 `Resources and Solutions` `^_^`
 
 
-## Table of Contents
+#### Table of Contents
 
 - [DATA STRUCTURES & ALGORITHMS](#data-structures--algorithms)
-  - [Table of Contents](#table-of-contents)
-  - [Notes and Resources](#notes-and-resources)
-    - [CPP Data Structures, Algorithms, and STL Sheet](#cpp-data-structures-algorithms-and-stl-sheet)
-    - [CPP Syntax Cheet Sheet](#cpp-syntax-cheet-sheet)
-  - [DSA Crack Sheet](#dsa-crack-sheet)
-  - [Companywise Interview Questions](#companywise-interview-questions)
-  - [Top Interview Preparation Questions](#top-interview-preparation-questions)
-  - [Leetcode Daily Challenges](#leetcode-daily-challenges)
-- [Sources](#sources)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+      - [Table of Contents](#table-of-contents)
+    - [Notes and Resources](#notes-and-resources)
+      - [CPP Data Structures, Algorithms, and STL Sheet](#cpp-data-structures-algorithms-and-stl-sheet)
+      - [CPP Syntax Cheet Sheet](#cpp-syntax-cheet-sheet)
+    - [DSA Crack Sheet](#dsa-crack-sheet)
+    - [Companywise Interview Questions](#companywise-interview-questions)
+    - [Top Interview Preparation Questions](#top-interview-preparation-questions)
+    - [Leetcode Daily Challenges](#leetcode-daily-challenges)
+  - [Sources](#sources)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
   
 
 <br />
 
-##  Notes and Resources
+###  Notes and Resources
 
-###  [CPP Data Structures, Algorithms, and STL Sheet](./CPP-STL.md)
-###  [CPP Syntax Cheet Sheet](./CPP-SYNTAX.md)
+####  [CPP Data Structures, Algorithms, and STL Sheet](./CPP-STL.md)
+####  [CPP Syntax Cheet Sheet](./CPP-SYNTAX.md)
 
 <br />
 
-##  [DSA Crack Sheet](./DSA%20Crack%20Sheet)
+###  [DSA Crack Sheet](./DSA%20Crack%20Sheet)
 Data Structures and Algorithms Cracks Sheet contains most necessary questions to learn and grasp about most common and important DS and Algos 
   <!-- ### [Questions List](./DSA%20Crack%20Sheet) -->
 
 <br />
 
-##  [Companywise Interview Questions](./Companywise%20Questions)
+###  [Companywise Interview Questions](./Companywise%20Questions)
 text
 <!-- ### [Question List](./Companywise%20Questions)   -->
 
 <br />
 
-##  [Top Interview Preparation Questions](./Leetcode%20Top%20Interview%20Questions)
+###  [Top Interview Preparation Questions](./Leetcode%20Top%20Interview%20Questions)
 text
 <!-- ### [Question List](./Leetcode%20Top%20Interview%20Questions)  -->
 <br />
 
-##  [Leetcode Daily Challenges](./Leetcode%20Daily%20Challenge)
+###  [Leetcode Daily Challenges](./Leetcode%20Daily%20Challenge)
 text
 <!-- ### [Question List](./Leetcode%20Daily%20Challenge) -->
 
 <br />
 <br />
 
-# Sources
+## Sources
 Other coding websites
 
 <!-- CONTRIBUTING -->
-# Contributing
+## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -77,13 +77,13 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
-# License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
-# Contact
+## Contact
 
 Project Link: [https://github.com/sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms)
 
