@@ -14,17 +14,13 @@
 
 - [DATA STRUCTURES & ALGORITHMS](#data-structures--algorithms)
   - [Table of Contents](#table-of-contents)
-  - [DSA Crack Sheet](#dsa-crack-sheet)
-    - [Questions List](#questions-list)
-  - [Companywise Interview Questions](#companywise-interview-questions)
-    - [Question List](#question-list)
-  - [Top Interview Preparation Questions](#top-interview-preparation-questions)
-    - [Question List](#question-list-1)
-  - [Leetcode Daily Challenges](#leetcode-daily-challenges)
-    - [Question List](#question-list-2)
   - [Notes and Resources](#notes-and-resources)
     - [CPP Data Structures, Algorithms, and STL Sheet](#cpp-data-structures-algorithms-and-stl-sheet)
     - [CPP Syntax Cheet Sheet](#cpp-syntax-cheet-sheet)
+  - [DSA Crack Sheet](#dsa-crack-sheet)
+  - [Companywise Interview Questions](#companywise-interview-questions)
+  - [Top Interview Preparation Questions](#top-interview-preparation-questions)
+  - [Leetcode Daily Challenges](#leetcode-daily-challenges)
 - [Sources](#sources)
 - [Contributing](#contributing)
 - [License](#license)
@@ -33,32 +29,33 @@
 
 <br />
 
-##  DSA Crack Sheet
-Data Structures and Algorithms Cracks Sheet contains most necessary questions to learn and grasp about most common and important DS and Algos 
-  ### [Questions List](./DSA%20Crack%20Sheet)
-
-<br />
-
-##  Companywise Interview Questions
-text
-### [Question List](./Companywise%20Questions)  
-
-<br />
-
-##  Top Interview Preparation Questions
-text
-### [Question List](./Leetcode%20Top%20Interview%20Questions) 
-<br />
-
-##  Leetcode Daily Challenges
-text
-### [Question List](./Leetcode%20Daily%20Challenge)
-<br />
-
 ##  Notes and Resources
 
 ###  [CPP Data Structures, Algorithms, and STL Sheet](./CPP-STL.md)
 ###  [CPP Syntax Cheet Sheet](./CPP-SYNTAX.md)
+
+<br />
+
+##  [DSA Crack Sheet](./DSA%20Crack%20Sheet)
+Data Structures and Algorithms Cracks Sheet contains most necessary questions to learn and grasp about most common and important DS and Algos 
+  <!-- ### [Questions List](./DSA%20Crack%20Sheet) -->
+
+<br />
+
+##  [Companywise Interview Questions](./Companywise%20Questions)
+text
+<!-- ### [Question List](./Companywise%20Questions)   -->
+
+<br />
+
+##  [Top Interview Preparation Questions](./Leetcode%20Top%20Interview%20Questions)
+text
+<!-- ### [Question List](./Leetcode%20Top%20Interview%20Questions)  -->
+<br />
+
+##  [Leetcode Daily Challenges](./Leetcode%20Daily%20Challenge)
+text
+<!-- ### [Question List](./Leetcode%20Daily%20Challenge) -->
 
 <br />
 <br />
