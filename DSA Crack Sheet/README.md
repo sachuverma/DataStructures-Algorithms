@@ -7,6 +7,7 @@
 - [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/ "view topic")
 - [Maximum and minimum of an array using minimum number of comparisons](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/ "view topic")
 - [Kth smallest element ](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1 "view questions") - [Cpp Solution](./solutions/Kth%20smallest%20element.cpp)
+- [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1# "view questions") - [Cpp Solution](./solutions/Sort%20an%20array%20of%200s,%201s%20and%202s.cpp)
 - []( "view questions") - [Cpp Solution](./solutions/.cpp)
 
 <!-- - []( "view questions") - [Cpp Solution](./solutions/) -->
