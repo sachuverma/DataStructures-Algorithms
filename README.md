@@ -72,8 +72,8 @@ Remember: Deliberate practice does not mean looking for answers and memorizing i
 <br />
 
 ###  [Leetcode Daily Challenges](./Leetcode%20Daily%20Challenge)
-text
-<!-- ### [Question List](./Leetcode%20Daily%20Challenge) -->
+This Challenge is beginner-friendly. It consists of daily problems given by Leetcode. 
+A problem is added here each day.
 
 <br />
 <br />
