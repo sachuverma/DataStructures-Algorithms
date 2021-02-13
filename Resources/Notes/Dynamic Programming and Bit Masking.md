@@ -33,16 +33,16 @@ Let's take a problem, given a set, count how many subsets have sum of elements g
 
 Algorithm is simple:   
 ```C++
-solve(set, set_size, val)
-    count = 0
-    for x = 0 to power(2, set_size)
-        sum = 0
-        for k = 0 to set_size        
-            if kth bit is set in x
-                sum = sum + set[k]
-        if sum >= val
-             count = count + 1
-    return count
+    solve(set, set_size, val)
+        count = 0
+        for x = 0 to power(2, set_size)
+            sum = 0
+            for k = 0 to set_size        
+                if kth bit is set in x
+                    sum = sum + set[k]
+            if sum >= val
+                count = count + 1
+        return count
 ```   
 To iterate over all the subsets we are going to each number from 0 to (2^set_size)-1   
 The above problem simply uses bitmask and complexity is O((2^n)n).   
@@ -54,46 +54,44 @@ There are N persons and N tasks, each task is to be alloted to a single person. 
 
 The brute force approach here is to try every possible assignment. Algorithm is given below:   
 ```C++
-assign(N,  cost)
-    for i = 0 to N
-        assignment[i] = i            //assigning task i to person i
-    res = INFINITY
-    for j = 0 to factorial(N)
-        total_cost = 0
+    assign(N,  cost)
         for i = 0 to N
-            total_cost = total_cost + cost[i][assignment[i]]
-        res = min(res, total_cost)
-        generate_next_greater_permutation(assignment)
-    return res
+            assignment[i] = i            //assigning task i to person i
+        res = INFINITY
+        for j = 0 to factorial(N)
+            total_cost = 0
+            for i = 0 to N
+                total_cost = total_cost + cost[i][assignment[i]]
+            res = min(res, total_cost)
+            generate_next_greater_permutation(assignment)
+        return res
 ```
 
 The complexity of above algorithm is `O(N!)`, well that's clearly not good.   
 Let's try to improve it using dynamic programming. Suppose the state of `dp` is `(k,mask)`, where `k` represents that person `0` to `k-1` have been assigned a task, and `mask` is a binary number, whose `ith` bit represents if the `ith` task has been assigned or not.   
 Now, suppose, we have `answer(k,mask)`, we can assign a task `i` to person `k`, iff `ith` task is not yet assigned to any peron i.e. `mask&(1<<i) = 0` then, `answer(k+1, mask|(1<<i))` will be given as:  
 ```C++
-answer(k+1, mask|(1<<i)) = min(answer(k+1, mask|(1<<i)),answer(k, mask)+cost[k][i])
+    answer(k+1, mask|(1<<i)) = min(answer(k+1, mask|(1<<i)),answer(k, mask)+cost[k][i])
 ```
 
 One thing to note here is `k` is always equal to the number set bits in `mask`, so we can remove that. So the dp state now is just `(mask)`, and if we have `answer(mask)`, then  
 ```C++
-answer(mask|(1<<i)) = min(answer(mask|(1<<i)),answer(mask)+cost[x][i])
+    answer(mask|(1<<i)) = min(answer(mask|(1<<i)),answer(mask)+cost[x][i])
 ```
 
 here `x = number of set bits` in `mask`.  
 Complete algorithm is given below:
 ```C++
-assign(N, cost)
-    for i = 0 to power(2,N)
-        dp[i] = INFINITY
-    dp[0] = 0
-    for mask = 0 to power(2, N)
-        x = count_set_bits(mask)
-        for j = 0 to N
-            if jth bit is not set in i
-                dp[mask|(1<<j)] = min(dp[mask|(1<<j)], dp[mask]+cost[x][j])
-    return dp[power(2,N)-1]  
+    assign(N, cost)
+        for i = 0 to power(2,N)
+            dp[i] = INFINITY
+        dp[0] = 0
+        for mask = 0 to power(2, N)
+            x = count_set_bits(mask)
+            for j = 0 to N
+                if jth bit is not set in i
+                    dp[mask|(1<<j)] = min(dp[mask|(1<<j)], dp[mask]+cost[x][j])
+        return dp[power(2,N)-1]  
 ```
 
 Time complexity of above algorithm is `O((2^n)n)` and space complexity is `O(2^n)`.
-This is just one problem that can be solved using DP+bitmasking. There's a whole lot.
-Let's go to another problem, suppose we are given a graph and we want to find out if it contains a Hamiltonian Path. This problem can also be solved using DP+bitmasking in `O((2^n)(n^2))` time complexity and `O((2^n)n)` space complexity. 
