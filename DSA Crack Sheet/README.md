@@ -16,6 +16,7 @@
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/ "view questions") - [Cpp Solution](./solutions/Find%20the%20Duplicate%20Number.cpp)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/ "view questions") - [Cpp Solution](./solutions/Merge%20Intervals.cpp)
 - [Next Permutation](https://leetcode.com/problems/next-permutation/ "view questions") - [Cpp Solution](./solutions/Next%20Permutation.cpp)
+- [Count Inversions](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1# "view questions") - [Cpp Solution](./solutions/Count%20Inversions.cpp)
 - []( "view questions") - [Cpp Solution](./solutions/.cpp)
 
 <!-- - []( "view questions") - [Cpp Solution](./solutions/) -->
