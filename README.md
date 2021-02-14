@@ -153,7 +153,6 @@ Lots of Notes, and Reading Resources picked from different editorials.
 ####  [CPP Syntax Cheet Sheet](./CPP-SYNTAX.md)
 
 #### Notes
-
 <details>
   <summary>Notes</summary>
   
