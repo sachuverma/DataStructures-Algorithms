@@ -14,6 +14,7 @@
 
 - [DATA STRUCTURES & ALGORITHMS](#data-structures--algorithms)
       - [Table of Contents](#table-of-contents)
+  - [Roadmap to Dream Placement](#roadmap-to-dream-placement)
     - [Notes and Resources](#notes-and-resources)
       - [CPP Data Structures, Algorithms, and STL Sheet](#cpp-data-structures-algorithms-and-stl-sheet)
       - [CPP Syntax Cheet Sheet](#cpp-syntax-cheet-sheet)
@@ -27,6 +28,121 @@
   - [License](#license)
   - [Contact](#contact)
   
+
+<br />
+
+## Roadmap to Dream Placement
+<details>
+  <summary style="font-size:1.15rem;">Language</summary>
+  
+  - Intent
+    * Familiarity with Syntax
+    * Familiarity with all keywords & Basic Concepts
+    * main focus is on, that are you comfortable in writing code with your preferred language
+  - Choices
+     * C++
+       * Refrences: 
+         * [cpprefrences](https://en.cppreference.com/w/cpp)
+         * [tutorialspoint](https://www.tutorialspoint.com/cplusplus/index.htm)
+         * [cplusplus](http://www.cplusplus.com/reference/)
+       * Time Required:
+         * 1-2 weeks
+         * 1-2 hrs/day
+     * Java
+       * Refrences:
+         * [Tutorialpoint](https://www.tutorialspoint.com/java/index.htm)
+         * [GFG](https://www.geeksforgeeks.org/java/)
+       * Time Required: same as above
+     * Python
+       * Refrences:
+         * [Tutorialspoint](https://www.tutorialspoint.com/python/index.htm)
+         * [w3schools](https://www.w3schools.com/python/)
+       * Time Required: same as above
+       * **Important Callout:** Some companies don't allow python as a coice in their online coding test, so prepare accordingly
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Data Structure and Algorithms</summary>
+
+  * Without this, No Software Engineering Interview, in a tech giant can be cracked
+    * Follow the DSA Crack Sheet List given below
+    * Time Required
+      * 2-3 months
+      * 6-8 questions/day
+      * 3-6 hrs/day
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Projects</summary>
+  
+  * You need some projects to showcase your skills to your interviewer
+    * Choices
+      * Mobile Development
+      * Web Development
+      * Machine Leraning
+      * Some other stuff (like, Blockchain, IOT, etc)
+    * Time Required: 3 months (doing on weekends 6-8 hours)
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Subjectve Topics</summary>
+  
+  * Do a Subsequent reading, revision any day you get time
+    * Operating System
+    * OOPS, Object Oriented Skills
+    * DBMS, Databse Management
+    * Computer Networking
+  
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Competitive Programming</summary>
+
+  * CP needs time, it's not somthing thant you can master in 2 months, We will get comfortable with online platorms and get a taste of competitive programming
+  * Leetcode questions nearly 150-200 questions
+    * Category  
+      * Easy: 30%
+      * Medium: 50%
+      * Hard: 20%
+  * If time allows then go for Codeforces div2 Level A,B and C question
+  * Time Required
+    * 150-200 Questions
+    * 2 months
+    * 3-4 Ques/day
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">System Design</summary>
+
+  * Tech Level
+    * System's overview like we will use this queue with DynamoDB and a acheduler with justification of why we are using this DB, SQS, SNS, multithreading, etc.
+    * for SDE-1 equivalent positions, this level is somewhat rare
+  * Normal Understanding
+    * knowledge of dividing system & creating a rough DFD of system
+    * knowledge of DB Schema creation
+    * able to create problem-solving logic or not
+    * Time Required: Just need some reading of artiles/notes, can be pursued parallely
+  * Great Resources
+    * [Grokking](https://github.com/lei-hsia/grokking-system-design/blob/master/README.md)
+    * [Primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md)
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Misc Stuff</summary>
+
+  * [Aptitude/Reasoning](https://www.geeksforgeeks.org/quiz-corner-gq/)
+    * Do some mock tests to gain confidence
+  * Basic Programming MCQ
+    * [C/C++/Java/Python fundamentals](https://www.geeksforgeeks.org/quiz-corner-gq/)
+    * Print output type questions
+    * Time/space complexity Questions
+    * [SQL Queries](https://www.geeksforgeeks.org/dbms-gq/sql-gq/)
+  * [Puzzles](https://www.geeksforgeeks.org/puzzles/)
+  * [Always go through 50-60 interview experiences before interview](https://www.geeksforgeeks.org/company-interview-corner/)
+</details>
 
 <br />
 
