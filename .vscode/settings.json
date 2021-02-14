@@ -6,6 +6,9 @@
     "initializer_list": "cpp",
     "regex": "cpp",
     "utility": "cpp",
-    "valarray": "cpp"
+    "valarray": "cpp",
+    "chrono": "cpp",
+    "random": "cpp",
+    "limits": "cpp"
   }
 }
