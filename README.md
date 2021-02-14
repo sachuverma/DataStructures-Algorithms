@@ -16,9 +16,6 @@
       - [Table of Contents](#table-of-contents)
   - [Roadmap to Dream Placement](#roadmap-to-dream-placement)
     - [Notes and Resources](#notes-and-resources)
-      - [CPP Data Structures, Algorithms, and STL Sheet](#cpp-data-structures-algorithms-and-stl-sheet)
-      - [CPP Syntax Cheet Sheet](#cpp-syntax-cheet-sheet)
-      - [Notes](#notes)
     - [DSA Crack Sheet](#dsa-crack-sheet)
     - [Top Interview Preparation Questions](#top-interview-preparation-questions)
     - [Companywise Interview Questions](#companywise-interview-questions)
@@ -149,10 +146,13 @@
 ###  Notes and Resources
 Lots of Notes, and Reading Resources picked from different editorials.
 
-####  [CPP Data Structures, Algorithms, and STL Sheet](./CPP-STL.md)
-####  [CPP Syntax Cheet Sheet](./CPP-SYNTAX.md)
+<details>
+  <symmary>View Resources/Articles</summary>
 
-#### Notes
+  - [CPP Data Structures, Algorithms, and STL Sheet](./CPP-STL.md)
+  - [CPP Syntax Cheet Sheet](./CPP-SYNTAX.md)
+</details>
+
 <details>
   <summary>View Notes Links</summary>
   
