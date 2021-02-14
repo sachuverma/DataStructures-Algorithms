@@ -23,6 +23,7 @@
 - [Rearrange array in alternating positive & negative items with O(1) extra space](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/ "view topic") - [Cpp Solution](./solutions/Rearrange%20array%20in%20alternating%20positive%20&%20negative%20items%20with%20O(1)%20extra%20space.cpp)
 - [Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1# "view question") - [Cpp Solution](./solutions/Subarray%20with%200%20sum.cpp)
 - [Factorials of large numbers](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0# "view question") - [Cpp Solution](./solutions/Factorials%20of%20large%20numbers.cpp)
+- [Maximum Product Subarray](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1 "view question") - [Cpp Solution](./solutions/Maximum%20Product%20Subarray.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 <!-- - []( "view question") - [Cpp Solution](./solutions/) -->
