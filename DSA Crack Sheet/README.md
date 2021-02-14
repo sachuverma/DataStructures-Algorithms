@@ -15,6 +15,7 @@
 - [Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1# "view questions") - [Cpp Solution](./solutions/Minimum%20number%20of%20jumps.cpp)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/ "view questions") - [Cpp Solution](./solutions/Find%20the%20Duplicate%20Number.cpp)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/ "view questions") - [Cpp Solution](./solutions/Merge%20Intervals.cpp)
+- [Next Permutation](https://leetcode.com/problems/next-permutation/ "view questions") - [Cpp Solution](./solutions/Next%20Permutation.cpp)
 - []( "view questions") - [Cpp Solution](./solutions/.cpp)
 
 <!-- - []( "view questions") - [Cpp Solution](./solutions/) -->
