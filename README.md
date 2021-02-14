@@ -20,8 +20,8 @@
       - [CPP Syntax Cheet Sheet](#cpp-syntax-cheet-sheet)
       - [Notes](#notes)
     - [DSA Crack Sheet](#dsa-crack-sheet)
-    - [Companywise Interview Questions](#companywise-interview-questions)
     - [Top Interview Preparation Questions](#top-interview-preparation-questions)
+    - [Companywise Interview Questions](#companywise-interview-questions)
     - [Leetcode Daily Challenges](#leetcode-daily-challenges)
   - [Sources](#sources)
   - [Contributing](#contributing)
@@ -168,12 +168,6 @@ Data Structures and Algorithms Cracks Sheet contains most necessary questions to
 
 <br />
 
-###  [Companywise Interview Questions](./Companywise%20Questions)
-It is containing the list of company wise questions available on leetcode premium.
-Every pdf file in this repository corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. The list of questions within each pdf is further sorted by their frequency, so the most popular question for a specific company is at the top.
-<!-- ### [Question List](./Companywise%20Questions)   -->
-
-<br />
 
 ###  [Top Interview Preparation Questions](./Leetcode%20Top%20Interview%20Questions)
 This is LeetCode's official curated list of Top classic interview questions to help you land your dream job. Our top interview questions are divided into the following series:
@@ -192,6 +186,13 @@ Most of the classic interview questions have multiple solution approaches. For t
 - [x] By the third time, you should find that your code appear to be more concise compared to your first attempt. If so, congratulations!
 
 Remember: Deliberate practice does not mean looking for answers and memorizing it. You won't go very far with that approach. The more you are able to solve a problem yourself without any reference to answers, the more you will improve.
+<br />
+
+###  [Companywise Interview Questions](./Companywise%20Questions)
+It is containing the list of company wise questions available on leetcode premium.
+Every pdf file in this repository corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. The list of questions within each pdf is further sorted by their frequency, so the most popular question for a specific company is at the top.
+<!-- ### [Question List](./Companywise%20Questions)   -->
+
 <br />
 
 ###  [Leetcode Daily Challenges](./Leetcode%20Daily%20Challenge)
