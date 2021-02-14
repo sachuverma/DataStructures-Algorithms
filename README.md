@@ -154,7 +154,7 @@ Lots of Notes, and Reading Resources picked from different editorials.
 
 #### Notes
 <details>
-  <summary>Notes</summary>
+  <summary>View Notes Links</summary>
   
   - [Dynamic Programming and Bit Masking](./Resources/Notes/Dynamic%20Programming%20and%20Bit%20Masking.md)
   - [Disjoint Set Union (Union Find)](./Resources/Notes/Disjoint%20Set%20Union.md)
