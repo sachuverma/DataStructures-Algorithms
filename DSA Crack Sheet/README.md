@@ -19,6 +19,7 @@
 - [Count Inversions](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1# "view question") - [Cpp Solution](./solutions/Count%20Inversions.cpp)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ "view question") - [Cpp Solution](./solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
 - [Count pairs with given sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1# "view question") - [Cpp Solution](./solutions/Count%20pairs%20with%20given%20sum.cpp)
+- [Common elements](https://practice.geeksforgeeks.org/problems/common-elements1132/1# "view question") - [Cpp Solution](./solutions/Common%20elements.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 <!-- - []( "view question") - [Cpp Solution](./solutions/) -->
