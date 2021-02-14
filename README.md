@@ -149,8 +149,8 @@ Lots of Notes, and Reading Resources picked from different editorials.
 <details>
   <summary>View Resources/Articles</summary>
 
-  - [CPP Data Structures, Algorithms, and STL Sheet](./CPP-STL.md)
-  - [CPP Syntax Cheet Sheet](./CPP-SYNTAX.md)
+  - [CPP Data Structures, Algorithms, and STL Sheet](./Resources/Articles/CPP-STL.md)
+  - [CPP Syntax Cheet Sheet](./Resources/Articles/CPP-SYNTAX.md)
 </details>
 
 <details>
