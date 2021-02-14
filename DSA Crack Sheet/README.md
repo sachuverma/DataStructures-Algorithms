@@ -20,6 +20,7 @@
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ "view question") - [Cpp Solution](./solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
 - [Count pairs with given sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1# "view question") - [Cpp Solution](./solutions/Count%20pairs%20with%20given%20sum.cpp)
 - [Common elements](https://practice.geeksforgeeks.org/problems/common-elements1132/1# "view question") - [Cpp Solution](./solutions/Common%20elements.cpp)
+- [Rearrange array in alternating positive & negative items with O(1) extra space](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/ "view topic") - [Cpp Solution](./solutions/Rearrange%20array%20in%20alternating%20positive%20&%20negative%20items%20with%20O(1)%20extra%20space.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 <!-- - []( "view question") - [Cpp Solution](./solutions/) -->
