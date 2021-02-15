@@ -9,6 +9,13 @@
     "valarray": "cpp",
     "chrono": "cpp",
     "random": "cpp",
-    "limits": "cpp"
+    "limits": "cpp",
+    "deque": "cpp",
+    "forward_list": "cpp",
+    "list": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "vector": "cpp"
   }
 }
