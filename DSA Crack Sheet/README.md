@@ -25,7 +25,9 @@
 - [Factorials of large numbers](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0# "view question") - [Cpp Solution](./solutions/Factorials%20of%20large%20numbers.cpp)
 - [Maximum Product Subarray](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1 "view question") - [Cpp Solution](./solutions/Maximum%20Product%20Subarray.cpp)
 - [Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1# "view question") - [Cpp Solution](./solutions/Longest%20consecutive%20subsequence.cpp)
-- []( "view question") - [Cpp Solution](./solutions/.cpp)
+- [Given an array of size n and a number k, find all elements that appear more than n/k times "view topic"](https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/)
+- [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ "view question") - [Cpp Solution](./solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.cpp) 
+- []( "view question") - [Cpp Solution](./solutions/.cpp) 
 
 <!-- - []( "view question") - [Cpp Solution](./solutions/) -->
   
