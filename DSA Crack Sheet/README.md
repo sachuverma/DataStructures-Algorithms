@@ -30,6 +30,7 @@
 - [Array Subset of another array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0 "view question") - [Cpp Solution](./solutions/Array%20Subset%20of%20another%20array.cpp) 
 - [Triplet Sum in Array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1# "view question") - [Cpp Solution](./solutions/Triplet%20Sum%20in%20Array.cpp)  
 - [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1# "view question") - [Cpp Solution](./solutions/Trapping%20Rain%20Water.cpp)  
+- [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0# "view question") - [Cpp Solution](./solutions/Chocolate%20Distribution%20Problem.cpp)  
 - []( "view question") - [Cpp Solution](./solutions/.cpp)  
 
 <!-- - []( "view question") - [Cpp Solution](./solutions/) -->
