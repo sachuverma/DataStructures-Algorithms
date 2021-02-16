@@ -17,5 +17,6 @@
 | 13.  | [Shortest Path in Binary Matrix](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3638/) | [cpp](./13.%20Shortest%20Path%20in%20Binary%20Matrix.cpp) |  
 | 14.  | [Is Graph Bipartite?](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3639/) | [cpp](./14.%20Is%20Graph%20Bipartite.cpp) |  
 | 15.  | [The K Weakest Rows in a Matrix](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3641/) | [cpp](./15.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp) |  
+| 16.  | [Letter Case Permutation](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3642/) | [cpp](./16.%20Letter%20Case%20Permutation.cpp) |  
 
 
