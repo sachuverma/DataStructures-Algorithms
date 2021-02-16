@@ -28,7 +28,8 @@
 - [Given an array of size n and a number k, find all elements that appear more than n/k times "view topic"](https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/)
 - [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ "view question") - [Cpp Solution](./solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.cpp) 
 - [Array Subset of another array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0 "view question") - [Cpp Solution](./solutions/Array%20Subset%20of%20another%20array.cpp) 
-- []( "view question") - [Cpp Solution](./solutions/.cpp) 
+- [Triplet Sum in Array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1# "view question") - [Cpp Solution](./solutions/Triplet%20Sum%20in%20Array.cpp)  
+- []( "view question") - [Cpp Solution](./solutions/.cpp)  
 
 <!-- - []( "view question") - [Cpp Solution](./solutions/) -->
   
