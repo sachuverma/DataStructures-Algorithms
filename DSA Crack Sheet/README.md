@@ -43,6 +43,7 @@
 
 ### Matrix
 
+- [Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1# "view question") - [Cpp Solution](./solutions/Spirally%20traversing%20a%20matrix.cpp)  
 - []( "view question") - [Cpp Solution](./solutions/.cpp)  
 
 ### Strings
