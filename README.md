@@ -149,9 +149,9 @@ Lots of Notes, and Reading Resources picked from different editorials.
 <details>
   <summary>View Resources/Articles</summary>
 
-  - [📚30 Days SDE Sheet](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
-  - [📚CPP Data Structures, Algorithms, and STL Sheet](./Resources/Articles/CPP-STL.md)
-  - [📚CPP Syntax Cheet Sheet](./Resources/Articles/CPP-SYNTAX.md)
+  - [📘30 Days SDE Sheet](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
+  - [📘CPP Data Structures, Algorithms, and STL Sheet](./Resources/Articles/CPP-STL.md)
+  - [📘CPP Syntax Cheet Sheet](./Resources/Articles/CPP-SYNTAX.md)
 </details>
 
 <details>
@@ -164,7 +164,7 @@ Lots of Notes, and Reading Resources picked from different editorials.
 <details>
   <summary>Question Lists</summary>
 
-  - [Dynamic Programming](./Resources/Questions/Dynamic-Programming.md)
+  - [📕Dynamic Programming](./Resources/Questions/Dynamic-Programming.md)
 </details>
 
 <br />
