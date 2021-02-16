@@ -31,6 +31,7 @@
 - [Triplet Sum in Array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1# "view question") - [Cpp Solution](./solutions/Triplet%20Sum%20in%20Array.cpp)  
 - [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1# "view question") - [Cpp Solution](./solutions/Trapping%20Rain%20Water.cpp)  
 - [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0# "view question") - [Cpp Solution](./solutions/Chocolate%20Distribution%20Problem.cpp)  
+- [Smallest subarray with sum greater than x](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1# "view question") - [Cpp Solution](./solutions/Smallest%20subarray%20with%20sum%20greater%20than%20x.cpp)  
 - []( "view question") - [Cpp Solution](./solutions/.cpp)  
 
 <!-- - []( "view question") - [Cpp Solution](./solutions/) -->
