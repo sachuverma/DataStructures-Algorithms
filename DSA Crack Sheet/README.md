@@ -48,6 +48,7 @@
 - [Median in a row-wise sorted Matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1 "view question") - [Cpp Solution](./solutions/Median%20in%20a%20row-wise%20sorted%20Matrix.cpp)  
 - [Row with max 1s](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1# "view question") - [Cpp Solution](./solutions/Row%20with%20max%201s.cpp)  
 - [Sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1# "view question") - [Cpp Solution](./solutions/Sorted%20matrix.cpp)  
+- [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1 "view question") - [Cpp Solution](./solutions/Max%20rectangle.cpp)  
 - []( "view question") - [Cpp Solution](./solutions/.cpp)  
 
 ### Strings
