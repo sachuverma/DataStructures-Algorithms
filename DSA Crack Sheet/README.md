@@ -45,6 +45,7 @@
 
 - [Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1# "view question") - [Cpp Solution](./solutions/Spirally%20traversing%20a%20matrix.cpp)  
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/ "view question") - [Cpp Solution](./solutions/Search%20a%202D%20Matrix.cpp)  
+- [Median in a row-wise sorted Matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1 "view question") - [Cpp Solution](./solutions/Median%20in%20a%20row-wise%20sorted%20Matrix.cpp)  
 - []( "view question") - [Cpp Solution](./solutions/.cpp)  
 
 ### Strings
