@@ -56,6 +56,8 @@
 ### Strings
 
 - [Reverse String](https://leetcode.com/problems/reverse-string/ "view question") - [Cpp Solution](./solutions/Reverse%20String.cpp)
+- [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1 "view question") - [Cpp Solution](./solutions/Palindrome%20String.cpp)
+- []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Searching & Sorting
 
