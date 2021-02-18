@@ -51,9 +51,11 @@
 - [Find a specific pair in Matrix](https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/ "view topic")
 - [Rotate a matrix by 90 degree in clockwise direction without using any extra space](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/ "view topic")
 - [Kth element in Matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1# "view question") - [Cpp Solution](./solutions/Kth%20element%20in%20Matrix.cpp)
-- []( "view question") - [Cpp Solution](./solutions/.cpp)
+- [Common elements in all rows of a given matrix](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/ "view topic")
 
 ### Strings
+
+- [Reverse String](https://leetcode.com/problems/reverse-string/ "view question") - [Cpp Solution](./solutions/Reverse%20String.cpp)
 
 ### Searching & Sorting
 
