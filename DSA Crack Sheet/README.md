@@ -58,6 +58,7 @@
 - [Reverse String](https://leetcode.com/problems/reverse-string/ "view question") - [Cpp Solution](./solutions/Reverse%20String.cpp)
 - [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1 "view question") - [Cpp Solution](./solutions/Palindrome%20String.cpp)
 - [Print all the duplicates in the input string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/ "view topic")
+- [Why strings are immutable in Java?](https://javarevisited.blogspot.com/2010/10/why-string-is-immutable-or-final-in-java.html#:~:text=The%20string%20is%20Immutable%20in,cached%20in%20the%20String%20pool.&text=Since%20Strings%20are%20very%20popular,which%20was%20stored%20in%20HashMap. "view topic")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Searching & Sorting
