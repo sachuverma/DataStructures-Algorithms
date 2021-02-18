@@ -59,6 +59,7 @@
 - [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1 "view question") - [Cpp Solution](./solutions/Palindrome%20String.cpp)
 - [Print all the duplicates in the input string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/ "view topic")
 - [Why strings are immutable in Java?](https://javarevisited.blogspot.com/2010/10/why-string-is-immutable-or-final-in-java.html#:~:text=The%20string%20is%20Immutable%20in,cached%20in%20the%20String%20pool.&text=Since%20Strings%20are%20very%20popular,which%20was%20stored%20in%20HashMap. "view topic")
+- [Check if strings are rotations of each other or not](https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1# "view question") - [Cpp Solution](./solutions/Check%20if%20strings%20are%20rotations%20of%20each%20other%20or%20not.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Searching & Sorting
