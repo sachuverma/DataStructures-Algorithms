@@ -20,36 +20,38 @@
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ "view question") - [Cpp Solution](./solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
 - [Count pairs with given sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1# "view question") - [Cpp Solution](./solutions/Count%20pairs%20with%20given%20sum.cpp)
 - [Common elements](https://practice.geeksforgeeks.org/problems/common-elements1132/1# "view question") - [Cpp Solution](./solutions/Common%20elements.cpp)
-- [Rearrange array in alternating positive & negative items with O(1) extra space](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/ "view topic") - [Cpp Solution](./solutions/Rearrange%20array%20in%20alternating%20positive%20&%20negative%20items%20with%20O(1)%20extra%20space.cpp)
+- [Rearrange array in alternating positive & negative items with O(1) extra space](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/ "view topic") - [Cpp Solution](<./solutions/Rearrange%20array%20in%20alternating%20positive%20&%20negative%20items%20with%20O(1)%20extra%20space.cpp>)
 - [Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1# "view question") - [Cpp Solution](./solutions/Subarray%20with%200%20sum.cpp)
 - [Factorials of large numbers](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0# "view question") - [Cpp Solution](./solutions/Factorials%20of%20large%20numbers.cpp)
 - [Maximum Product Subarray](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1 "view question") - [Cpp Solution](./solutions/Maximum%20Product%20Subarray.cpp)
 - [Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1# "view question") - [Cpp Solution](./solutions/Longest%20consecutive%20subsequence.cpp)
 - [Given an array of size n and a number k, find all elements that appear more than n/k times "view topic"](https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/)
-- [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ "view question") - [Cpp Solution](./solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.cpp) 
-- [Array Subset of another array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0 "view question") - [Cpp Solution](./solutions/Array%20Subset%20of%20another%20array.cpp) 
-- [Triplet Sum in Array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1# "view question") - [Cpp Solution](./solutions/Triplet%20Sum%20in%20Array.cpp)  
-- [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1# "view question") - [Cpp Solution](./solutions/Trapping%20Rain%20Water.cpp)  
-- [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0# "view question") - [Cpp Solution](./solutions/Chocolate%20Distribution%20Problem.cpp)  
-- [Smallest subarray with sum greater than x](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1# "view question") - [Cpp Solution](./solutions/Smallest%20subarray%20with%20sum%20greater%20than%20x.cpp)  
-- [Three way partitioning](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1# "view question") - [Cpp Solution](./solutions/Three%20way%20partitioning.cpp)  
-- [Minimum swaps and K together](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1 "view question") - [Cpp Solution](./solutions/Minimum%20swaps%20and%20K%20together.cpp)  
-- [Find minimum number of merge operations to make an array palindrome](https://www.geeksforgeeks.org/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/ "view topic")   
-- [Median of two sorted arrays of same size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays/ "view topic")  
-- [Median of two sorted arrays of different sizes](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/ "view topic")  
+- [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ "view question") - [Cpp Solution](./solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.cpp)
+- [Array Subset of another array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0 "view question") - [Cpp Solution](./solutions/Array%20Subset%20of%20another%20array.cpp)
+- [Triplet Sum in Array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1# "view question") - [Cpp Solution](./solutions/Triplet%20Sum%20in%20Array.cpp)
+- [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1# "view question") - [Cpp Solution](./solutions/Trapping%20Rain%20Water.cpp)
+- [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0# "view question") - [Cpp Solution](./solutions/Chocolate%20Distribution%20Problem.cpp)
+- [Smallest subarray with sum greater than x](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1# "view question") - [Cpp Solution](./solutions/Smallest%20subarray%20with%20sum%20greater%20than%20x.cpp)
+- [Three way partitioning](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1# "view question") - [Cpp Solution](./solutions/Three%20way%20partitioning.cpp)
+- [Minimum swaps and K together](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1 "view question") - [Cpp Solution](./solutions/Minimum%20swaps%20and%20K%20together.cpp)
+- [Find minimum number of merge operations to make an array palindrome](https://www.geeksforgeeks.org/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/ "view topic")
+- [Median of two sorted arrays of same size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays/ "view topic")
+- [Median of two sorted arrays of different sizes](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/ "view topic")
 
 <!-- - []( "view question") - [Cpp Solution](./solutions/) -->
-  
 
 ### Matrix
 
-- [Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1# "view question") - [Cpp Solution](./solutions/Spirally%20traversing%20a%20matrix.cpp)  
-- [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/ "view question") - [Cpp Solution](./solutions/Search%20a%202D%20Matrix.cpp)  
-- [Median in a row-wise sorted Matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1 "view question") - [Cpp Solution](./solutions/Median%20in%20a%20row-wise%20sorted%20Matrix.cpp)  
-- [Row with max 1s](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1# "view question") - [Cpp Solution](./solutions/Row%20with%20max%201s.cpp)  
-- [Sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1# "view question") - [Cpp Solution](./solutions/Sorted%20matrix.cpp)  
-- [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1 "view question") - [Cpp Solution](./solutions/Max%20rectangle.cpp)  
-- []( "view question") - [Cpp Solution](./solutions/.cpp)  
+- [Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1# "view question") - [Cpp Solution](./solutions/Spirally%20traversing%20a%20matrix.cpp)
+- [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/ "view question") - [Cpp Solution](./solutions/Search%20a%202D%20Matrix.cpp)
+- [Median in a row-wise sorted Matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1 "view question") - [Cpp Solution](./solutions/Median%20in%20a%20row-wise%20sorted%20Matrix.cpp)
+- [Row with max 1s](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1# "view question") - [Cpp Solution](./solutions/Row%20with%20max%201s.cpp)
+- [Sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1# "view question") - [Cpp Solution](./solutions/Sorted%20matrix.cpp)
+- [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1 "view question") - [Cpp Solution](./solutions/Max%20rectangle.cpp)
+- [Find a specific pair in Matrix](https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/ "view topic")
+- [Rotate a matrix by 90 degree in clockwise direction without using any extra space](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/ "view topic")
+- [Kth element in Matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1# "view question") - [Cpp Solution](./solutions/Kth%20element%20in%20Matrix.cpp)
+- []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Strings
 
@@ -76,9 +78,6 @@
 ### Dynamic Programming
 
 ### Bit Manipulation
-
-
-
 
 <!--
 -  []( "view topic") - []( "view my solution")
