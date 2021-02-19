@@ -63,6 +63,7 @@
 - [Program to Check if a string is a valid shuffle of two distinct strings](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings "view topic")
 - [Count and Say](https://leetcode.com/problems/count-and-say/ "view question") - [Cpp Solution](./solutions/Count%20and%20Say.cpp)
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/ "view question") - [Cpp Solution](./solutions/Longest%20Palindromic%20Substring.cpp)
+- [Print all subsequences of a string](https://www.geeksforgeeks.org/print-subsequences-string/ "view topic")
 - [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1# "view question") - [Cpp Solution](./solutions/Longest%20Repeating%20Subsequence.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
