@@ -65,6 +65,7 @@
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/ "view question") - [Cpp Solution](./solutions/Longest%20Palindromic%20Substring.cpp)
 - [Print all subsequences of a string](https://www.geeksforgeeks.org/print-subsequences-string/ "view topic")
 - [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1# "view question") - [Cpp Solution](./solutions/Longest%20Repeating%20Subsequence.cpp)
+- [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0# "view question") - [Cpp Solution](./solutions/Permutations%20of%20a%20given%20string.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Searching & Sorting
