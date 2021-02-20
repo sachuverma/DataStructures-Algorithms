@@ -70,6 +70,7 @@
 - [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1# "view question") - [Cpp Solution](./solutions/Edit%20Distance.cpp)
 - [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1# "view question") - [Cpp Solution](./solutions/Next%20Permutation.cpp)
 - [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1 "view question") - [Cpp Solution](./solutions/Parenthesis%20Checker.cpp)
+- [Word Break](https://practice.geeksforgeeks.org/problems/word-break1352/1# "view question") - [Cpp Solution](./solutions/Word%20Break.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Searching & Sorting
