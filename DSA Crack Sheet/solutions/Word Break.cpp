@@ -40,20 +40,25 @@ The length of each word is less than 15.
 // A : given string to search
 // B : vector of available strings
 
-int wordBreak(string s, unordered_set<string> &S)
+int wordBreak(string s, unordered_set<string> &S, unordered_set<string> &memo)
 {
+  if (memo.find(s) != memo.end())
+    return true;
   if (s.size() == 0)
     return 1;
   for (int i = 0; i < s.size(); ++i)
   {
-    if (S.find(s.substr(0, i + 1)) != S.end() && wordBreak(s.substr(i + 1), S))
+    if (S.find(s.substr(0, i + 1)) != S.end() && wordBreak(s.substr(i + 1), S, memo))
+    {
+      memo.insert(s);
       return 1;
+    }
   }
   return 0;
 }
 
 int wordBreak(string A, vector<string> &B)
 {
-  unordered_set<string> s(B.begin(), B.end());
-  return wordBreak(A, s);
+  unordered_set<string> s(B.begin(), B.end()), memo;
+  return wordBreak(A, s, memo);
 }
