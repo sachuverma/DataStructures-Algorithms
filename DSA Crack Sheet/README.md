@@ -67,6 +67,9 @@
 - [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1# "view question") - [Cpp Solution](./solutions/Longest%20Repeating%20Subsequence.cpp)
 - [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0# "view question") - [Cpp Solution](./solutions/Permutations%20of%20a%20given%20string.cpp)
 - [Split the binary string into substrings with equal number of 0s and 1s](https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/ "view topic")
+- [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1# "view question") - [Cpp Solution](./solutions/Edit%20Distance.cpp)
+- [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1# "view question") - [Cpp Solution](./solutions/Next%20Permutation.cpp)
+- [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1 "view question") - [Cpp Solution](./solutions/Parenthesis%20Checker.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Searching & Sorting
