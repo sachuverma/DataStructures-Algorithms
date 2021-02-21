@@ -71,6 +71,9 @@
 - [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1# "view question") - [Cpp Solution](./solutions/Next%20Permutation.cpp)
 - [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1 "view question") - [Cpp Solution](./solutions/Parenthesis%20Checker.cpp)
 - [Word Break](https://practice.geeksforgeeks.org/problems/word-break1352/1# "view question") - [Cpp Solution](./solutions/Word%20Break.cpp)
+- [Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/ "view topic")
+- [KMP Algorithm for Pattern Searching](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/ "view topic")
+- [Longest Prefix Suffix](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1# "view question") - [Cpp Solution](./solutions/Longest%20Prefix%20Suffix.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Searching & Sorting
