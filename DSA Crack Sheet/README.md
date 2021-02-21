@@ -74,6 +74,7 @@
 - [Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/ "view topic")
 - [KMP Algorithm for Pattern Searching](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/ "view topic")
 - [Longest Prefix Suffix](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1# "view question") - [Cpp Solution](./solutions/Longest%20Prefix%20Suffix.cpp)
+- [Convert a sentence into its equivalent mobile numeric keypad sequence]( "view question") - [Cpp Solution](./solutions/Equivalent%20numeric%20keypad%20sequence.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Searching & Sorting
