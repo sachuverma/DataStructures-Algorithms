@@ -82,6 +82,7 @@
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/ "view question") - [Cpp Solution](./solutions/Longest%20Common%20Prefix.cpp)
 - [Min Number of Flips](https://practice.geeksforgeeks.org/problems/min-number-of-flips/0# "view question") - [Cpp Solution](./solutions/Min%20Number%20of%20Flips.cpp)
 - [Second most repeated string in a sequence](https://practice.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence0534/1# "view question") - [Cpp Solution](./solutions/Second%20most%20repeated%20string%20in%20a%20sequence.cpp)
+- [Minimum Swaps for Bracket Balancing](https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing/0# "view question") - [Cpp Solution](./solutions/Minimum%20Swaps%20for%20Bracket%20Balancing.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Searching & Sorting
