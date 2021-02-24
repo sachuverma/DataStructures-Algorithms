@@ -79,6 +79,7 @@
 - [Count Palindromic Subsequences](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1# "view question") - [Cpp Solution](./solutions/Count%20Palindromic%20Subsequences.cpp)
 - [Find the string in grid](https://practice.geeksforgeeks.org/problems/find-the-string-in-grid/0 "view question") - [Cpp Solution](./solutions/Find%20the%20string%20in%20grid.cpp)
 - [Roman Number to Integer](https://practice.geeksforgeeks.org/problems/roman-number-to-integer3201/1 "view question") - [Cpp Solution](./solutions/Roman%20Number%20to%20Integer.cpp)
+- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/ "view question") - [Cpp Solution](./solutions/Longest%20Common%20Prefix.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Searching & Sorting
