@@ -86,6 +86,7 @@
 - [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1 "view question") - [Cpp Solution](./solutions/Longest%20Common%20Subsequence.cpp)
 - [Program to generate all possible valid IP addresses from given string](https://www.geeksforgeeks.org/program-generate-possible-valid-ip-addresses-given-string/ "view topic")
 - [Smallest distinct window](https://practice.geeksforgeeks.org/problems/smallest-distant-window3132/1 "view question") - [Cpp Solution](./solutions/Smallest%20distinct%20window.cpp)
+- [Rearrange characters](https://practice.geeksforgeeks.org/problems/rearrange-characters/0# "view question") - [Cpp Solution](./solutions/Rearrange%20characters.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Searching & Sorting
