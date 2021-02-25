@@ -87,6 +87,8 @@
 - [Program to generate all possible valid IP addresses from given string](https://www.geeksforgeeks.org/program-generate-possible-valid-ip-addresses-given-string/ "view topic")
 - [Smallest distinct window](https://practice.geeksforgeeks.org/problems/smallest-distant-window3132/1 "view question") - [Cpp Solution](./solutions/Smallest%20distinct%20window.cpp)
 - [Rearrange characters](https://practice.geeksforgeeks.org/problems/rearrange-characters/0# "view question") - [Cpp Solution](./solutions/Rearrange%20characters.cpp)
+- [Minimum characters to be added at front to make string palindrome](https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/ "view topic")
+- [Print Anagrams Together](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1# "view question") - [Cpp Solution](./solutions/Print%20Anagrams%20Together.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Searching & Sorting
