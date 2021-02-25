@@ -84,6 +84,8 @@
 - [Second most repeated string in a sequence](https://practice.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence0534/1# "view question") - [Cpp Solution](./solutions/Second%20most%20repeated%20string%20in%20a%20sequence.cpp)
 - [Minimum Swaps for Bracket Balancing](https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing/0# "view question") - [Cpp Solution](./solutions/Minimum%20Swaps%20for%20Bracket%20Balancing.cpp)
 - [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1 "view question") - [Cpp Solution](./solutions/Longest%20Common%20Subsequence.cpp)
+- [Program to generate all possible valid IP addresses from given string](https://www.geeksforgeeks.org/program-generate-possible-valid-ip-addresses-given-string/ "view topic")
+- [Smallest distinct window](https://practice.geeksforgeeks.org/problems/smallest-distant-window3132/1 "view question") - [Cpp Solution](./solutions/Smallest%20distinct%20window.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Searching & Sorting
