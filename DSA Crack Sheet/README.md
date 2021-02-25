@@ -74,7 +74,7 @@
 - [Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/ "view topic")
 - [KMP Algorithm for Pattern Searching](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/ "view topic")
 - [Longest Prefix Suffix](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1# "view question") - [Cpp Solution](./solutions/Longest%20Prefix%20Suffix.cpp)
-- [Convert a sentence into its equivalent mobile numeric keypad sequence]( "view question") - [Cpp Solution](./solutions/Equivalent%20numeric%20keypad%20sequence.cpp)
+- [Convert a sentence into its equivalent mobile numeric keypad sequence](https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/ "view question") - [Cpp Solution](./solutions/Equivalent%20numeric%20keypad%20sequence.cpp)
 - [Count the Reversals](https://practice.geeksforgeeks.org/problems/count-the-reversals/0# "view question") - [Cpp Solution](./solutions/Count%20the%20Reversals.cpp)
 - [Count Palindromic Subsequences](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1# "view question") - [Cpp Solution](./solutions/Count%20Palindromic%20Subsequences.cpp)
 - [Find the string in grid](https://practice.geeksforgeeks.org/problems/find-the-string-in-grid/0 "view question") - [Cpp Solution](./solutions/Find%20the%20string%20in%20grid.cpp)
@@ -95,6 +95,7 @@
 ### Searching & Sorting
 
 - [First and last occurrences of X](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0# "view question") - [Cpp Solution](./solutions/First%20and%20last%20occurrences%20of%20X.cpp)
+- [Value equal to index value](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1# "view question") - [Cpp Solution](./solutions/Value%20equal%20to%20index%20value.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Linked-List
