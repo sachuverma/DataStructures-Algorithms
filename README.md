@@ -162,6 +162,7 @@ Urls for other Notes, and Reading Resources picked from different editorials.
   
   - [📒Dynamic Programming and Bit Masking](./Resources/Notes/Dynamic%20Programming%20and%20Bit%20Masking.md)
   - [📒Disjoint Set Union (Union Find)](./Resources/Notes/Disjoint%20Set%20Union.md)
+  - [📒Ternary Search](./Resources/Notes/Ternary%20Search.md)
 </details>
 
 <details>
