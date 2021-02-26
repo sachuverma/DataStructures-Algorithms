@@ -99,6 +99,7 @@
 - [Count Squares](https://practice.geeksforgeeks.org/problems/count-squares3649/1# "view question") - [Cpp Solution](./solutions/Count%20Squares.cpp)
 - [Square root of an integer](https://www.geeksforgeeks.org/square-root-of-an-integer/ "view topic")
 - [Middle of Three](https://practice.geeksforgeeks.org/problems/middle-of-three2926/1 "view question") - [Cpp Solution](./solutions/Middle%20of%20Three.cpp)
+- [Optimum location of point to minimize total distance](https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/ "view topic")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Linked-List
