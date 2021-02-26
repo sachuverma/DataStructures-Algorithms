@@ -170,6 +170,8 @@ Urls for other Notes, and Reading Resources picked from different editorials.
 
 - [📕Dynamic Programming](./Resources/Questions/Dynamic-Programming.md)
 - [📕Union Find](./Resources/Questions/Union-Find.md)
+- [📕Ternary Search](./Resources/Questions/Ternary-Search.md)
+
 </details>
 
 <br />
