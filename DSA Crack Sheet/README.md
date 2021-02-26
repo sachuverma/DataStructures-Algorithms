@@ -97,6 +97,8 @@
 - [Value equal to index value](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1# "view question") - [Cpp Solution](./solutions/Value%20equal%20to%20index%20value.cpp)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/ "view question") - [Cpp Solution](./solutions/Search%20in%20Rotated%20Sorted%20Array.cpp)
 - [Count Squares](https://practice.geeksforgeeks.org/problems/count-squares3649/1# "view question") - [Cpp Solution](./solutions/Count%20Squares.cpp)
+- [Square root of an integer](https://www.geeksforgeeks.org/square-root-of-an-integer/ "view topic")
+- [Middle of Three](https://practice.geeksforgeeks.org/problems/middle-of-three2926/1 "view question") - [Cpp Solution](./solutions/Middle%20of%20Three.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Linked-List
