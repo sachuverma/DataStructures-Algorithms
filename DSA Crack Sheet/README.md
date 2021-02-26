@@ -90,7 +90,6 @@
 - [Minimum characters to be added at front to make string palindrome](https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/ "view topic")
 - [Print Anagrams Together](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1# "view question") - [Cpp Solution](./solutions/Print%20Anagrams%20Together.cpp)
 - [Remove Consecutive Characters](https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1# "view question") - [Cpp Solution](./solutions/Remove%20Consecutive%20Characters.cpp)
-- []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Searching & Sorting
 

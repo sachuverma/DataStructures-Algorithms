@@ -1,0 +1,27 @@
+## Union Find Problems
+
+- 261, https://leetcode.com/problems/graph-valid-tree/
+- 1697, https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
+- 352, https://leetcode.com/problems/data-stream-as-disjoint-intervals/
+- 1434, https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/
+- 1632, https://leetcode.com/problems/rank-transform-of-a-matrix/
+- 128, https://leetcode.com/problems/longest-consecutive-sequence/
+- 305, https://leetcode.com/problems/number-of-islands-ii/
+- 1202, https://leetcode.com/problems/smallest-string-with-swaps/
+- 749, https://leetcode.com/problems/contain-virus/
+- 1627, https://leetcode.com/problems/graph-connectivity-with-threshold/
+- 1168, https://leetcode.com/problems/optimize-water-distribution-in-a-village/
+- 1579, https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
+- 721, https://leetcode.com/problems/accounts-merge/
+- 1061, https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
+- 1101, https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/
+- 1258, https://leetcode.com/problems/synonymous-sentences/
+- 1319, https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+- 737, https://leetcode.com/problems/sentence-similarity-ii/
+- 990, https://leetcode.com/problems/satisfiability-of-equality-equations/
+- 924, https://leetcode.com/problems/minimize-malware-spread/
+- 928, https://leetcode.com/problems/minimize-malware-spread-ii/
+- 839, https://leetcode.com/problems/similar-string-groups/
+- 959, https://leetcode.com/problems/regions-cut-by-slashes/
+- 711, https://leetcode.com/problems/number-of-distinct-islands-ii/
+- 547, https://leetcode.com/problems/friend-circles/-
