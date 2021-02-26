@@ -145,7 +145,7 @@
 
 ### 🔰Notes and Resources
 
-#### 🔖Best book for Coding Interviews - [Cracking-The-Coding-Interview](./Resources/Cracking-The-Coding-Interview-pdf/Cracking%20the%20Coding%20Interview%206th%20Edition.pdf)
+#### 🔖Best book for Coding Interviews - [Cracking-The-Coding-Interview](https://mega.nz/folder/KhpUBLLR#cKmpMsctk9hV_p0hUaZG_Q)
 
 Urls for other Notes, and Reading Resources picked from different editorials.
 
@@ -204,7 +204,8 @@ Remember: Deliberate practice does not mean looking for answers and memorizing i
 ### [🔰Companywise Interview Questions](./Companywise%20Questions)
 
 It is containing the list of company wise questions available on leetcode premium.
-Every pdf file in this repository corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. The list of questions within each pdf is further sorted by their frequency, so the most popular question for a specific company is at the top.
+Every pdf file corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. The list of questions within each pdf is further sorted by their frequency, so the most popular question for a specific company is at the top.
+[Download All PDFs](https://mega.nz/folder/HkoglB7C#o2K_WMwTKFgdk_powwR9-g)
 
 <!-- ### [Question List](./Companywise%20Questions)   -->
 
