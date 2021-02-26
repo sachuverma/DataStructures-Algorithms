@@ -95,6 +95,7 @@
 
 - [First and last occurrences of X](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0# "view question") - [Cpp Solution](./solutions/First%20and%20last%20occurrences%20of%20X.cpp)
 - [Value equal to index value](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1# "view question") - [Cpp Solution](./solutions/Value%20equal%20to%20index%20value.cpp)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/ "view question") - [Cpp Solution](./solutions/Search%20in%20Rotated%20Sorted%20Array.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Linked-List
