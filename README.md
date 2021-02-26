@@ -14,7 +14,8 @@
 
 - [DATA STRUCTURES & ALGORITHMS](#data-structures--algorithms) - [Table of Contents](#table-of-contents)
   - [🏆 Roadmap to Dream Placement](#-roadmap-to-dream-placement)
-    - [🔰Notes and Resources](#notes-and-resources)
+    - [🔰Notes and Resources](#notes-and-resources)  
+      [🔖Best book for Coding Interviews](#best-book-for-coding-interviews)
     - [🔰DSA Crack Sheet](#dsa-crack-sheet)
     - [🔰Top Interview Preparation Questions](#top-interview-preparation-questions)
     - [🔰Companywise Interview Questions](#companywise-interview-questions)
@@ -144,7 +145,9 @@
 
 ### 🔰Notes and Resources
 
-Lots of Notes, and Reading Resources picked from different editorials.
+#### 🔖Best book for Coding Interviews - [Cracking-The-Coding-Interview](./Resources/Cracking-The-Coding-Interview-pdf/Cracking%20the%20Coding%20Interview%206th%20Edition.pdf)
+
+Urls for other Notes, and Reading Resources picked from different editorials.
 
 <details>
   <summary>View Resources/Articles</summary>
@@ -244,6 +247,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Link: [https://github.com/sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms)
 
 Sachin Verma : [sachinverma53121@gmail.com](sachinverma53121.gmail.com)
+
+Drop a ⭐ if you like my work😄
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
