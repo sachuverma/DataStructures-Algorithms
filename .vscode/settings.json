@@ -17,6 +17,7 @@
     "unordered_map": "cpp",
     "unordered_set": "cpp",
     "vector": "cpp",
-    "complex": "cpp"
+    "complex": "cpp",
+    "iostream": "cpp"
   }
 }
