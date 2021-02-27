@@ -100,6 +100,7 @@
 - [Square root of an integer](https://www.geeksforgeeks.org/square-root-of-an-integer/ "view topic")
 - [Middle of Three](https://practice.geeksforgeeks.org/problems/middle-of-three2926/1 "view question") - [Cpp Solution](./solutions/Middle%20of%20Three.cpp)
 - [Optimum location of point to minimize total distance](https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/ "view topic")
+- [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1 "view question") - [Cpp Solution](./solutions/Find%20Missing%20And%20Repeating.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Linked-List
