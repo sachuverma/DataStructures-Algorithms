@@ -27,6 +27,14 @@
 
 <br />
 
+## [100+ Top Product Based Companies](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9NdApRf4TW1I/view?usp=sharing)
+
+Gone are the days when there were only few good companies, Now there are a lot of companies which:
+
+- Pay Exceptionally Well
+- Good Work Life
+- Great Projects/Learning
+
 ## 🏆 Roadmap to Dream Placement
 
 <details>
