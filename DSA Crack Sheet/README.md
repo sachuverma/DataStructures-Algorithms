@@ -104,6 +104,7 @@
 - [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1# "view question") - [Cpp Solution](./solutions/Majority%20Element.cpp)
 - [Searching in an array where adjacent differ by at most k](https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/ "view topic")
 - [Find Pair Given Difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0# "view question") - [Cpp Solution](./solutions/Find%20Pair%20Given%20Difference.cpp)
+- [Find All Four Sum Numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1# "view question") - [Cpp Solution](./solutions/Find%20All%20Four%20Sum%20Numbers.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Linked-List
