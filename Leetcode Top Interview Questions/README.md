@@ -104,6 +104,7 @@
 - [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) - [Cpp Solution](./solutions/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp)
 - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - [Cpp Solution](./solutions/Kth%20Smallest%20Element%20in%20a%20BST.cpp)
 - [Number of Islands](https://leetcode.com/problems/number-of-islands/) - [Cpp Solution](./solutions/Number%20of%20Islands.cpp)
+- [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) - [Cpp Solution](./solutions/Minimum%20numberof%20vertices.cpp)
 
 ### 4. Backtracking
 
