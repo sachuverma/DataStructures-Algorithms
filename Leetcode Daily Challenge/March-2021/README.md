@@ -10,3 +10,4 @@
 | 6.  | [Short Encoding of Words](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3662/)          |       [cpp](./06.%20Short%20Encoding%20of%20Words.cpp)        |
 | 7.  | [Design HashMap](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3663/)                   |              [cpp](./07.%20Design%20HashMap.cpp)              |
 | 8.  | [Remove Palindromic Subsequences](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3665/) |    [cpp](./08.%20Remove%20Palindromic%20Subsequences.cpp)     |
+| 9.  | [Add One Row to Tree](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3666/) |    [cpp](./09.%20Add%20One%20Row%20to%20Tree.cpp)     |
