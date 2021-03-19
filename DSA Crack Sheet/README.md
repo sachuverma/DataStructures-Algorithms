@@ -110,6 +110,7 @@
 - [Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1# "view question") - [Cpp Solution](./solutions/Merge%20Without%20Extra%20Space.cpp)
 - [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1# "view question") - [Cpp Solution](./solutions/Zero%20Sum%20Subarrays.cpp)
 - [Product array puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1 "view question") - [Cpp Solution](./solutions/Product%20array%20puzzle.cpp)
+- [Sort by Set Bit Count](https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count1153/1# "view question") - [Cpp Solution](./solutions/Sort%20by%20Set%20Bit%20Count.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Linked-List
