@@ -18,6 +18,7 @@
     "unordered_set": "cpp",
     "vector": "cpp",
     "complex": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "cmath": "cpp"
   }
 }
