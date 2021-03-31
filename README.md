@@ -160,26 +160,21 @@ Urls for other Notes, and Reading Resources picked from different editorials.
 <details>
   <summary>View Resources/Articles</summary>
 
-- [📘30 Days SDE Sheet](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
-- [📘CPP Data Structures, Algorithms, and STL Sheet](./Resources/Articles/CPP-STL.md)
-- [📘CPP Syntax Cheet Sheet](./Resources/Articles/CPP-SYNTAX.md)
+- [📘 30 Days SDE Sheet](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
+- [📘 CPP Data Structures, Algorithms, and STL Sheet](./Resources/Articles/CPP-STL.md)
+- [📘 CPP Syntax Cheet Sheet](./Resources/Articles/CPP-SYNTAX.md)
 </details>
 
 <details>
-  <summary>View Notes Links</summary>
+  <summary>Notes/Question/Explanations</summary>
   
-  - [📒Dynamic Programming and Bit Masking](./Resources/Notes/Dynamic%20Programming%20and%20Bit%20Masking.md)
-  - [📒Disjoint Set Union (Union Find)](./Resources/Notes/Disjoint%20Set%20Union.md)
-  - [📒Ternary Search](./Resources/Notes/Ternary%20Search.md)
-</details>
-
-<details>
-  <summary>Question Lists</summary>
-
-- [📕Dynamic Programming](./Resources/Questions/Dynamic-Programming.md)
-- [📕Union Find](./Resources/Questions/Union-Find.md)
-- [📕Ternary Search](./Resources/Questions/Ternary-Search.md)
-
+  - [📒 Dynamic Programming and Bit Masking](./Resources/Notes/Dynamic%20Programming%20and%20Bit%20Masking.md)
+  - [📒 Disjoint Set Union (Union Find)](./Resources/Notes/Disjoint%20Set%20Union.md)
+  - [📒 Ternary Search](./Resources/Notes/Ternary%20Search.md)
+  - [📒 Binary Search for Beginners (leetcode)](https://leetcode.com/discuss/general-discussion/691825/Binary-Search-for-Beginners-Problems-or-Patterns-or-Sample-solutions)
+  - [📕 Dynamic Programming (questions)](./Resources/Questions/Dynamic-Programming.md)
+  - [📕 Union Find (questions)](./Resources/Questions/Union-Find.md)
+  - [📕 Ternary Search (questions)](./Resources/Questions/Ternary-Search.md)
 </details>
 
 <br />
