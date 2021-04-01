@@ -118,6 +118,7 @@
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ "view question") - [Cpp Solution](./solutions/Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)
 - [K-th element of two sorted Arrays](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1# "view question") - [Cpp Solution](./solutions/K-th%20element%20of%20two%20sorted%20Arrays.cpp)
 - [AGGRCOW - Aggressive cows](https://www.spoj.com/problems/AGGRCOW/ "view question") - [Cpp Solution](./solutions/AGGRCOW%20-%20Aggressive%20cows.cpp)
+- [Allocate minimum number of pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1# "view question") - [Cpp Solution](./solutions/Allocate%20minimum%20number%20of%20pages.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Linked-List
