@@ -116,6 +116,7 @@
 - [Kth smallest number again](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/ "view question") - [Cpp Solution](./solutions/Kth%20smallest%20number%20again.cpp)
 - [Find pivot element in a sorted and rotated array](http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/ "view topic")
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ "view question") - [Cpp Solution](./solutions/Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)
+- [K-th element of two sorted Arrays](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1# "view question") - [Cpp Solution](./solutions/K-th%20element%20of%20two%20sorted%20Arrays.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Linked-List
