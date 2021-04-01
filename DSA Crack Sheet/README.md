@@ -111,6 +111,8 @@
 - [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1# "view question") - [Cpp Solution](./solutions/Zero%20Sum%20Subarrays.cpp)
 - [Product array puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1 "view question") - [Cpp Solution](./solutions/Product%20array%20puzzle.cpp)
 - [Sort by Set Bit Count](https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count1153/1# "view question") - [Cpp Solution](./solutions/Sort%20by%20Set%20Bit%20Count.cpp)
+- [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1# "view question") - [Cpp Solution](./solutions/Minimum%20Swaps%20to%20Sort.cpp)
+- [Bishu and Soldiers](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/ "view question") - [Cpp Solution](./solutions/Bishu%20and%20Soldiers.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Linked-List
