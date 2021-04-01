@@ -114,6 +114,7 @@
 - [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1# "view question") - [Cpp Solution](./solutions/Minimum%20Swaps%20to%20Sort.cpp)
 - [Bishu and Soldiers](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/ "view question") - [Cpp Solution](./solutions/Bishu%20and%20Soldiers.cpp)
 - [Kth smallest number again](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/ "view question") - [Cpp Solution](./solutions/Kth%20smallest%20number%20again.cpp)
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ "view question") - [Cpp Solution](./solutions/Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Linked-List
