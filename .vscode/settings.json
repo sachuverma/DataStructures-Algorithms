@@ -19,6 +19,7 @@
     "vector": "cpp",
     "complex": "cpp",
     "iostream": "cpp",
-    "cmath": "cpp"
+    "cmath": "cpp",
+    "*.tcc": "cpp"
   }
 }

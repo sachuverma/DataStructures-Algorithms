@@ -10,3 +10,4 @@
 | 6.  | [Minimum Operations to Make Array Equal](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3698/) | [cpp](./06.%20Minimum%20Operations%20to%20Make%20Array%20Equal.cpp) |
 | 7.  | [Determine if String Halves Are Alike](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3699/)   |  [cpp](./07.%20Determine%20if%20String%20Halves%20Are%20Alike.cpp)  |
 | 8.  | [Letter Combinations of a Phone Number](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3701/)   |  [cpp](./08.%20Letter%20Combinations%20of%20a%20Phone%20Number.cpp)  |
+| 9.  | [Verifying an Alien Dictionary](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3702/)   |  [cpp](./09.%20Verifying%20an%20Alien%20Dictionary.cpp)  |
