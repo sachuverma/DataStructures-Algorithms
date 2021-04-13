@@ -14,3 +14,4 @@
 | 10.  | [Longest Increasing Path in a Matrix](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3703/)   |  [cpp](./10.%20Longest%20Increasing%20Path%20in%20a%20Matrix.cpp)  |
 | 11.  | [Deepest Leaves Sum](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3704/)   |  [cpp](./11.%20Deepest%20Leaves%20Sum.cpp)  |
 | 12.  | [Beautiful Arrangement II](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3705/)   |  [cpp](./12.%20Beautiful%20Arrangement%20II.cpp)  |
+| 13.  | [Flatten Nested List Iterator](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3706/)   |  [cpp](./13.%20Flatten%20Nested%20List%20Iterator.cpp)  |
