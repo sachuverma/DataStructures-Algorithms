@@ -133,6 +133,8 @@
 ### Backtracking
 
 - [Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1# "view question") - [Cpp Solution](./solutions/Rat%20in%20a%20Maze%20Problem.cpp)
+- [N-Queens II](https://leetcode.com/problems/n-queens-ii/ "view question") - [Cpp Solution](./solutions/N-Queens%20II.cpp)
+- [N-Queens](https://leetcode.com/problems/n-queens/ "view question") - [Cpp Solution](./solutions/N-Queens.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Stacks & Queues
