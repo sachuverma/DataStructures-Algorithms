@@ -132,6 +132,9 @@
 
 ### Backtracking
 
+- [Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1# "view question") - [Cpp Solution](./solutions/Rat%20in%20a%20Maze%20Problem.cpp)
+- []( "view question") - [Cpp Solution](./solutions/.cpp)
+
 ### Stacks & Queues
 
 ### Heap
