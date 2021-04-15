@@ -145,6 +145,7 @@
 - [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1# "view question") - [Cpp Solution](./solutions/Implement%20stack%20using%20array.cpp)
 - [Implement Queue using array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1# "view question") - [Cpp Solution](./solutions/Implement%20Queue%20using%20array.cpp)
 - [Implement two stacks in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1# "view question") - [Cpp Solution](./solutions/Implement%20two%20stacks%20in%20an%20array.cpp)
+- [Design a stack with operations on middle element](https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/ "view question") - [Cpp Solution](./solutions/Mid%20Element%20Stack.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
