@@ -143,6 +143,7 @@
 ### Stacks & Queues
 
 - [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1# "view question") - [Cpp Solution](./solutions/Implement%20stack%20using%20array.cpp)
+- [Implement Queue using array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1# "view question") - [Cpp Solution](./solutions/Implement%20Queue%20using%20array.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
