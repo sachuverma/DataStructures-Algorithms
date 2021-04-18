@@ -196,33 +196,233 @@ Gone are the days when there were only few good companies, Now there are a lot o
 </details>
 
 <details>
-  <summary style="font-size:1.15rem;"></summary>
+  <summary style="font-size:1.15rem;">Process Concept</summary>
+
+- [Process vs Program](https://www.geeksforgeeks.org/difference-between-program-and-process/)
+- [Different State of process](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/)
+- Types of Process?
+- [PCB structure in detail](https://www.geeksforgeeks.org/process-table-and-process-control-block-pcb/)
+- [How does a process look like in memory?](https://www.tutorialspoint.com/how-does-a-process-look-like-in-memory)
+- [Process vs Threads](https://www.geeksforgeeks.org/difference-between-process-and-thread/)
+- Process Scheduling
+  - [Introduction](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
+  - Scheduling Queue
+    - Job Queue
+    - Ready Queue
+    - Device Queue
+  - Scheduler
+    - Short-term Scheduler
+    - Medium-term Scheduler
+    - Long-term Scheduler
+- [CPU Bound Process vs I/O Bound Process](https://stackoverflow.com/questions/868568/what-do-the-terms-cpu-bound-and-i-o-bound-mean)
+  - Best Performance system is which have a combination of CPU bound and I/O bound process
+- [What is Context Switch?](https://www.tutorialspoint.com/what-is-context-switching-in-operating-system)
+- IPC
+  - [Introduction](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
+  - by Shared Memory
+  - by Message Passing
+- [Define Pipe](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_pipes.htm)
+- [Maximum number of Zombie process a system can handle?](https://www.geeksforgeeks.org/maximum-number-zombie-process-system-can-handle/)
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Thread Concepts</summary>
+  
+- [What is a Thread?](https://www.studytonight.com/operating-system/multithreading)
+- [Benefits of Multi-threading?](https://www.geeksforgeeks.org/benefits-of-multithreading-in-operating-system/)
+- [Example of Multi-threading](https://www.quora.com/What-are-some-best-examples-of-multithreaded-applications)
+- [Models](https://www.studytonight.com/operating-system/multithreading)
+  - Many to One
+  - One to One
+  - Many to Many
+  - Best Model??
+- [Optimal number of threads required for a process?](https://stackoverflow.com/questions/1718465/optimal-number-of-threads-per-core)
+- [Effect of Multiple cores on Multi-threading](https://blogs.grammatech.com/multi-core-processors-headache-for-multithreaded-code)
+- Thread vs Process
+- [Why C++ static variables are dangerous in real life OS?](https://stackoverflow.com/questions/7026507/why-are-static-variables-considered-evil)
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Process Scheduling</summary>
+
+- Why do we need it?
+- CPU Burst Cycle
+- CPU Scheduler
+  - Pre-Emptive Scheduling
+  - Non PreEmptive
+  - Advantages/Disadvantages
+- Dispatch
+  - Role of Dispatcher
+  - Dispatch Latency
+- Scheduling Criteria
+  - CPU Utilisation
+  - Throughput
+  - TAT [Turn around Time]
+  - Waiting Time
+  - Response Time
+- Scheduling Algo
+  - FCFS
+  - SJFC
+  - Priority-based
+  - Round-Robin
+  - MLQS
+  - MLFQS
+  - Which algo is used in real world OS
+- IMP terms to know
+  - Starvation
+  - Ageing
+- How to prevent Starvation?
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Synchronisation</summary>
+
+- [Why Process Coordinatin/Sync is needed?](https://www.studytonight.com/operating-system/process-synchronization)
+  - Data Inconsistency
+  - Race Condition
+- [Physical Address Space vs Logical Address Space](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
+- Imp terms to know
+  - [Mutual Exclusion](https://www.geeksforgeeks.org/mutual-exclusion-in-synchronization/)
+  - [Critical Section](https://www.geeksforgeeks.org/g-fact-70/)
+- Critical Section Problem, peterson Solution
+  - [Follow youtube video (knowledge gate)](https://www.youtube.com/watch?v=YwqexcfbucE&list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
+- Why pre-emptive kernel is better than non pre-emptive kernel?
+- Semaphore
+  - Binary Semaphore/Mutex Locks
+  - Counting Semaphore
+- Imp terms to know
+  - Busy Waiting
+  - Spin Lock
+- Example of busy waiting & spin lock
+- [How to implement Binary Semaphore in real world coding](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)
+- What is Deadlock & Starvation?
+- Bounded Buffer, Reader-Writer Problem & Dining Philosopher Problem
+  - [Follow youtube video (knowledge gate)](https://www.youtube.com/watch?v=YwqexcfbucE&list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
+  </details>
+
+<details>
+  <summary style="font-size:1.15rem;">Deadlocks</summary>
+
+- [What is Deadlock?](https://www.cs.rpi.edu/academics/courses/fall04/os/c10/)
+- [Effects of Deadlock?](https://stackoverflow.com/questions/41204406/what-is-effect-of-deadlock-on-other-processes-which-are-not-involve-in-deadlock/41713812)
+- Necessary Conditions
+  - Mutual Exclusion
+  - Hold & Wait
+  - No Pre-emption
+  - Circular Wait
+- Methods for Deadlock handling
+  - Prevention or Avoidance
+  - Detection or Recovery
+    - Banker's Algo
+    - Ostrich Algo
+    - Resource Per-emption
+  - Ignorance
+  </details>
+
+<details>
+  <summary style="font-size:1.15rem;">Memory-Management</summary>
+  
+  - Imp Points
+    - CPU can direct access Registers and Main Memory
+    - Protection of Memory space is handled by Hardware
+    - OS loads Base and Limit registers
+    - Mapping from Logical to Physical address is done by MMU[Memory Management Unit]
+    - OS memory is categorised into
+      - for the resident of OS
+      - user processes
+  - Logical vs Physical address space
+  - What is Swapping
+    - Ex-Priority based Scheduling
+    - Done by Dispatcher
+    - Context Switch time in swapping is very high
+    - OS can't swap process that has pending input/output
+  - Imp topics to cover
+    - [Follow youtube videos](https://www.youtube.com/watch?v=YwqexcfbucE&list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
+    - Memory Allocation
+      - Contiguous Memory Allocation
+        - Address Translation: Base and limit Register
+        - Fixed Partitioning
+        - Variable Partitioning
+        - Variable Partitioning
+        - dynamic storage allocation problem
+          - Best Fit
+          - Worst Fit
+          - First Fit
+        - Internal Fragmentation
+        - External Fragmentation
+          - Compaction
+          - Non-Contiguous Allocation
+            - Paging
+            - Segmentation
+      - Paging
+        - Page table
+        - Page no
+        - Page offset
+        - Page Table Limit Register (PTLR)
+      - Segmentation
+        - Segment Table
+        - Base Register
+        - Limit Register
+  - [Why paging increases the context-switch time?](https://gateoverflow.in/178062/paging-os-galvin-book-page-no-332)
+  - [Page vs Frame?](https://practice.geeksforgeeks.org/problems/page-and-frames)
+  - [What is TLB miss?](https://stackoverflow.com/questions/37825859/cache-miss-a-tlb-miss-and-page-fault)
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Virtual Memory</summary>
+
+- Goal of mem. Mgmt
+  - To keep multiple processes in memory to allow multi-programming
+- [Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)
+  - What?
+  - Why?
+  - Where it is physically located?
+  - How it is implemented?
+    - Demand Paging
+    - Strategy to only load pages when they are needed
+    - Paging + Swapping
+  - Advantages
+    - user can write program for extremely large virtual address space
+    - [CPU utilisation & throughput] increases & [Response Time, Turn aruond time, TAT] remains same
+    - Less I/O would be needed to load or swap user programs into memory, so each user program would run faster
+    - Degree of Multiprogramming increases
+    - allows file and memory to be shared by 2 or more processes through page sharing
+  - If it is used carelessely, it can decrease performance
+- [Demand Paging](https://www.youtube.com/watch?v=Agi0u5Png_U)
+  - paging + swapping
+  - Lazy Swapper
+  - pager
+  - page fault
+- [Pure Demand Paging](https://practice.geeksforgeeks.org/problems/what-is-pure-demand-paging)
+- Swap Space
+  - Section of hard disk used for implementing Virtual Mem. in swap
+- What is Page Fault?
+- Page Replacement Algo
+  - FIFO
+  - Optimal Page Replacement
+  - LRU
+- What is Frame Rate
+- [Most Asked Questions (Thrashing)](https://practice.geeksforgeeks.org/problems/thrashing-in-os)
+  - What?
+    - Low CPU Utilisation->Degree of Multiprogramming increases->More Page Fault->Cycle Continues->Thrashing occurs->Page fault occurs tremendously->CPU utilisation decrease sharply
+  - Cause of Thrashing?
+  - Solution to Thrashing?
+    - use priority based replacement algo
+    - allocate the exact no. of frames that are actually required
+- Can we replace physical memory i.e, RAM with virtual memory?
+- Is performance of virtual memory and physical memory same?
+</details>
+<details>
+  <summary style="font-size:1.15rem;">Storage Management</summary>
+  (optional)
+  
+  - [Resource 1](https://www.slideshare.net/DeepikaT13/storage-management-in-operating-system) 
+  - [Resource 2](https://www.slideshare.net/arjunk007/secondary-storage-structureoperating-system-concepts)
 
 </details>
 
 <details>
-  <summary style="font-size:1.15rem;"></summary>
-  
-</details>
-
-<details>
-  <summary style="font-size:1.15rem;"></summary>
-  
-</details>
-
-<details>
-  <summary style="font-size:1.15rem;"></summary>
-  
-</details>
-
-<details>
-  <summary style="font-size:1.15rem;"></summary>
-  
-</details>
-
-<details>
-  <summary style="font-size:1.15rem;"></summary>
-  
+  <summary><span style="font-size:1.15rem;"> <a href="https://www.os-book.com/OS9/slide-dir/index.html">For College Exams</a></span></summary>
 </details>
 
 <br/>
