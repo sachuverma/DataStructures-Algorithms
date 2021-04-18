@@ -13,13 +13,20 @@
 #### Table of Contents
 
 - [DATA STRUCTURES & ALGORITHMS](#data-structures--algorithms) - [Table of Contents](#table-of-contents)
+
   - [🏆 Roadmap to Dream Placement](#-roadmap-to-dream-placement)
-    - [🔰Notes and Resources](#notes-and-resources)  
-      [🔖Best book for Coding Interviews](#best-book-for-coding-interviews)
+  - [1️⃣ Operating System](#operating-system-resources)
+  - [2️⃣ Database Management](#operating-system-resources)
+  - [3️⃣ Object Oriented Programming](#operating-system-resources)
+  - [4️⃣ Computer Networks](#operating-system-resources)
+  - [🔰Notes and Resources](#notes-and-resources)
+
+    - [🔖Best book for Coding Interviews](#best-book-for-coding-interviews)
     - [🔰DSA Crack Sheet](#dsa-crack-sheet)
     - [🔰Top Interview Preparation Questions](#top-interview-preparation-questions)
     - [🔰Companywise Interview Questions](#companywise-interview-questions)
     - [🔰Leetcode Daily Challenges](#leetcode-daily-challenges)
+
   - [🏆Sources](#sources)
   - [🏆Contributing](#contributing)
   - [🏆License](#license)
@@ -151,7 +158,76 @@ Gone are the days when there were only few good companies, Now there are a lot o
 
 <br />
 
-### 🔰Notes and Resources
+## 1️⃣ Operating System
+
+<details>
+  <summary style="font-size:1.15rem;">Overview</summary>
+
+- [Quick Notes to Follow](https://mega.nz/file/pEpRUIQQ#ArZTGmmvMpygGuoOL6rokFesY7IJVTDJCPUQ_VsLR4U)
+- What is an Operating System
+- Services provided by an Operating System
+- [Types of Os](https://www.geeksforgeeks.org/types-of-operating-systems/)
+  - Batched OS
+  - Time Sharing OS
+  - Distributed OS
+  - Network OS
+  - Real Time OS
+- [RAM vs ROM](https://www.guru99.com/difference-between-rom-ram.html)
+- [SRAM & DRAM](https://www.guru99.com/sram-vs-dram-difference.html)
+- [PROM, EPROM & EEROM](https://pediaa.com/what-is-the-difference-between-prom-eprom-and-eeprom/)
+- [Virtualisation vs Containerisation](https://www.tutorialspoint.com/difference-between-virtualization-and-containerization)
+- [BIOS vs UEFI](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/)
+- [MBR vs GPT](https://www.howtogeek.com/193669/whats-the-difference-between-gpt-and-mbr-when-partitioning-a-drive/)
+- Important Terms to Know
+  - Compiler
+  - Loader
+  - Assembler
+  - Interpreter
+  - System Calls
+  - Application Programming Interface
+  - Kernel
+  - Shell
+  - JVM
+  - Booting
+- [Multi-programming, Multi-processing, Multi-tasking & Multi-threading](https://www.geeksforgeeks.org/difference-between-multitasking-multithreading-and-multiprocessing/)
+- [Monolothic architecture vs MicroKernel arch](https://stackoverflow.com/questions/4537850/what-is-difference-between-monolithic-and-micro-kernel)
+- [Why Windows kernel is more monolithic & not microkernel?](https://micksmix.wordpress.com/2011/02/20/does-windows-have-a-microkernel-or-monolithic-kernel/)
+- [What happens when we turn on our computer?](https://www.geeksforgeeks.org/what-happens-when-we-turn-on-computer/)
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;"></summary>
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;"></summary>
+  
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;"></summary>
+  
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;"></summary>
+  
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;"></summary>
+  
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;"></summary>
+  
+</details>
+
+<br/>
+
+### 🔰 Other Notes and Resources
 
 #### 🔖Best book for Coding Interviews - [Cracking-The-Coding-Interview](https://mega.nz/folder/KhpUBLLR#cKmpMsctk9hV_p0hUaZG_Q)
 
