@@ -15,10 +15,10 @@
 - [DATA STRUCTURES & ALGORITHMS](#data-structures--algorithms) - [Table of Contents](#table-of-contents)
 
   - [🏆 Roadmap to Dream Placement](#-roadmap-to-dream-placement)
-  - [1️⃣ Operating System](#operating-system-resources)
-  - [2️⃣ Database Management](#operating-system-resources)
-  - [3️⃣ Object Oriented Programming](#operating-system-resources)
-  - [4️⃣ Computer Networks](#operating-system-resources)
+  - [1️⃣ Operating System](#-operating-system)
+  - [2️⃣ Database Management](#-)
+  - [3️⃣ Object Oriented Programming](#-)
+  - [4️⃣ Computer Networks](#-)
   - [🔰Notes and Resources](#notes-and-resources)
 
     - [🔖Best book for Coding Interviews](#best-book-for-coding-interviews)
