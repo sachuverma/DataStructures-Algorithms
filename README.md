@@ -15,7 +15,7 @@
 - [DATA STRUCTURES & ALGORITHMS](#data-structures--algorithms) - [Table of Contents](#table-of-contents)
 
   - [🏆 Roadmap to Dream Placement](#-roadmap-to-dream-placement)
-  - [1️⃣ Operating System](#-operating-system)
+  - [1️⃣ Operating System](#1%EF%B8%8F⃣-operating-system)
   - [2️⃣ Database Management](#-)
   - [3️⃣ Object Oriented Programming](#-)
   - [4️⃣ Computer Networks](#-)
