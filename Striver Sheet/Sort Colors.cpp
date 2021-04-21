@@ -35,27 +35,25 @@ Could you come up with a one-pass algorithm using only O(1) constant space?
 class Solution
 {
 public:
-  void sortColors(vector<int> &nums)
+  void sortColors(vector<int> &arr)
   {
-    int c0 = 0, c1 = 0, c2 = 0;
-    for (auto &i : nums)
+    int i = 0, j = 0, k = arr.size() - 1;
+    int n = arr.size();
+    while (i < k && j <= k)
     {
-      if (i == 0)
-        c0++;
-      else if (i == 1)
-        c1++;
-      else
-        c2++;
-    }
-    int i = 0;
-    while (c0 > 0 || c1 > 0 || i < nums.size())
-    {
-      if (c0-- > 0)
-        nums[i++] = 0;
-      else if (c1-- > 0)
-        nums[i++] = 1;
-      else
-        nums[i++] = 2;
+      if (i < n && arr[i] == 0)
+        i++;
+      j = i;
+      if (j > k)
+        break;
+      while (j < n && arr[j] == 1)
+        j++;
+      if (j > k)
+        break;
+      if (j < n && arr[j] == 0)
+        swap(arr[i++], arr[j]);
+      else if (j < n && arr[j] == 2)
+        swap(arr[j], arr[k--]);
     }
   }
 };
