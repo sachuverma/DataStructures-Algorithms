@@ -146,6 +146,9 @@
 - [Implement Queue using array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1# "view question") - [Cpp Solution](./solutions/Implement%20Queue%20using%20array.cpp)
 - [Implement two stacks in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1# "view question") - [Cpp Solution](./solutions/Implement%20two%20stacks%20in%20an%20array.cpp)
 - [Design a stack with operations on middle element](https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/ "view question") - [Cpp Solution](./solutions/Mid%20Element%20Stack.cpp)
+- [How to efficiently implement k stacks in a single array?](https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/ "view topic")
+- [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1# "view question") - [Cpp Solution](./solutions/Parenthesis%20Checker.cpp)
+- [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1 "view question") - [Cpp Solution](./solutions/Reverse%20a%20string%20using%20Stack.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
