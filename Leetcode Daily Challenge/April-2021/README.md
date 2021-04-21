@@ -22,3 +22,4 @@
 | 18. | [Remove Nth Node From End of List](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3712/)            |      [cpp](./18.%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp)       |
 | 19. | [Combination Sum IV](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3713/)            |      [cpp](./19.%20Combination%20Sum%20IV.cpp)       |
 | 20. | [N-ary Tree Preorder Traversal](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3714/)    |  [cpp](./20.%20N-ary%20Tree%20Preorder%20Traversal.cpp)       |
+| 21. | [Triangle](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3715/)    |  [cpp](./21.%20Triangle.cpp)       |
