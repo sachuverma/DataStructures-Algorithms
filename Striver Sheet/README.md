@@ -8,3 +8,11 @@
 - [Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/) - [Cpp Soultion](./Day-1/Maximum%20Subarray.cpp)
 - [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/) - [Cpp Soultion](./Day-1/Merge%20Intervals.cpp)
 - [Find the duplicate in an array of N+1 integers](https://leetcode.com/problems/find-the-duplicate-number/solution/) - [Cpp Soultion](./Day-1/Find%20the%20Duplicate%20Number.cpp)
+
+### Day 2
+
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - [Cpp Soultion](./Day-2/Set%20Matrix%20Zeroes.cpp)
+- []() - [Cpp Soultion](./Day-2/.cpp)
+- []() - [Cpp Soultion](./Day-2/.cpp)
+- []() - [Cpp Soultion](./Day-2/.cpp)
+- []() - [Cpp Soultion](./Day-2/.cpp)
