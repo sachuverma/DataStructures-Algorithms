@@ -1,5 +1,7 @@
 # STRIVER DSA SHEET
 
+[Sheet Link](https://docs.google.com/document/d/1JLKCaz4n4YtYdQ1bJF1X46BKbxldedb6N1OMiXh9Dmo/edit?usp=sharing)
+
 ### Day 1 (Arrays)
 
 - [Sort an array of 0’s 1’s 2’s without using extra space or sorting algo](https://leetcode.com/problems/sort-colors/) - [Cpp Soultion](./Day-1/Sort%20Colors.cpp)
@@ -16,7 +18,7 @@
 - [Next Permutation](https://leetcode.com/problems/next-permutation/) - [Cpp Soultion](./Day-2/Next%20Permutation.cpp)
 - [Count Inversions in an array](https://www.geeksforgeeks.org/counting-inversions/) - [Cpp Soultion](./Day-2/Count%20Inversions.cpp)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - [Cpp Soultion](./Day-2/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
-- []() - [Cpp Soultion](./Day-2/.cpp)
+- [Rotate Image](https://leetcode.com/problems/rotate-image/) - [Cpp Soultion](./Day-2/Rotate%20Image.cpp)
 
 ###
 
