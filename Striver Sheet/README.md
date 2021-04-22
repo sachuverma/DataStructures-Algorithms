@@ -2,9 +2,9 @@
 
 ### Day 1 (Arrays)
 
-- Sort an array of 0’s 1’s 2’s without using extra space or sorting algo
-- Repeat and Missing Number
-- Merge two sorted Arrays without extra space
-- Kadane’s Algorithm
-- Merge Overlapping Subintervals
-- Find the duplicate in an array of N+1 integers.
+- [Sort an array of 0’s 1’s 2’s without using extra space or sorting algo](https://leetcode.com/problems/sort-colors/) - [Cpp Soultion](./Day-1/Sort%20Colors.cpp)
+- [Repeat and Missing Number](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/) - [Cpp Soultion](./Day-1/Find%20Missing%20And%20Repeating.cpp)
+- [Merge two sorted Arrays without extra space](https://www.geeksforgeeks.org/efficiently-merging-two-sorted-arrays-with-o1-extra-space/) - [Cpp Soultion](./Day-1/Merge%20Two%20Sorted%20Arrays.cpp)
+- [Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/) - [Cpp Soultion](./Day-1/Maximum%20Subarray.cpp)
+- [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/) - [Cpp Soultion](./Day-1/Merge%20Intervals.cpp)
+- [Find the duplicate in an array of N+1 integers](https://leetcode.com/problems/find-the-duplicate-number/solution/) - [Cpp Soultion](./Day-1/Find%20the%20Duplicate%20Number.cpp)
