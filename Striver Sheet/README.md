@@ -15,6 +15,9 @@
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) - [Cpp Soultion](./Day-2/Pascal's%20Triangle.cpp)
 - [Next Permutation](https://leetcode.com/problems/next-permutation/) - [Cpp Soultion](./Day-2/Next%20Permutation.cpp)
 - [Count Inversions in an array](https://www.geeksforgeeks.org/counting-inversions/) - [Cpp Soultion](./Day-2/Count%20Inversions.cpp)
+- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - [Cpp Soultion](./Day-2/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
 - []() - [Cpp Soultion](./Day-2/.cpp)
-- []() - [Cpp Soultion](./Day-2/.cpp)
-- []() - [Cpp Soultion](./Day-2/.cpp)
+
+###
+
+- []() - [Cpp Soultion](./Day-/.cpp)
