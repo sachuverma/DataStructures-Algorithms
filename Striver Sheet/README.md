@@ -14,7 +14,7 @@
 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - [Cpp Soultion](./Day-2/Set%20Matrix%20Zeroes.cpp)
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) - [Cpp Soultion](./Day-2/Pascal's%20Triangle.cpp)
 - [Next Permutation](https://leetcode.com/problems/next-permutation/) - [Cpp Soultion](./Day-2/Next%20Permutation.cpp)
-- []() - [Cpp Soultion](./Day-2/.cpp)
+- [Count Inversions in an array](https://www.geeksforgeeks.org/counting-inversions/) - [Cpp Soultion](./Day-2/Count%20Inversions.cpp)
 - []() - [Cpp Soultion](./Day-2/.cpp)
 - []() - [Cpp Soultion](./Day-2/.cpp)
 - []() - [Cpp Soultion](./Day-2/.cpp)
