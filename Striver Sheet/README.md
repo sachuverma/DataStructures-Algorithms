@@ -27,7 +27,7 @@
 - [Majority Element](https://leetcode.com/problems/majority-element/) - [Cpp Soultion](./Day-3/Majority%20Element.cpp)
 - [Majority Element II](https://leetcode.com/problems/majority-element-ii/) - [Cpp Soultion](./Day-3/Majority%20Element%20II.cpp)
 - [Unique Paths](https://leetcode.com/problems/unique-paths/) - [Cpp Soultion](./Day-3/Unique%20Paths.cpp)
-- []() - [Cpp Soultion](./Day-3/.cpp)
+- [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) - [Cpp Soultion](./Day-3/Reverse%20Pairs.cpp)
 
 ###
 
