@@ -23,8 +23,8 @@
 ### Day 3 (Array/Maths)
 
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - [Cpp Soultion](./Day-3/Search%20a%202D%20Matrix.cpp)
-- []() - [Cpp Soultion](./Day-3/.cpp)
-- []() - [Cpp Soultion](./Day-3/.cpp)
+- [Pow(x, n)](https://leetcode.com/problems/powx-n/) - [Cpp Soultion](./Day-3/Powxn.cpp)
+- [Majority Element](https://leetcode.com/problems/majority-element/) - [Cpp Soultion](./Day-3/Majority%20Element.cpp)
 - []() - [Cpp Soultion](./Day-3/.cpp)
 - []() - [Cpp Soultion](./Day-3/.cpp)
 - []() - [Cpp Soultion](./Day-3/.cpp)
