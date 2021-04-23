@@ -20,6 +20,27 @@
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - [Cpp Soultion](./Day-2/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
 - [Rotate Image](https://leetcode.com/problems/rotate-image/) - [Cpp Soultion](./Day-2/Rotate%20Image.cpp)
 
+### Day 3 (Array/Maths)
+
+- [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - [Cpp Soultion](./Day-3/Search%20a%202D%20Matrix.cpp)
+- []() - [Cpp Soultion](./Day-3/.cpp)
+- []() - [Cpp Soultion](./Day-3/.cpp)
+- []() - [Cpp Soultion](./Day-3/.cpp)
+- []() - [Cpp Soultion](./Day-3/.cpp)
+- []() - [Cpp Soultion](./Day-3/.cpp)
+
+###
+
+- []() - [Cpp Soultion](./Day-/.cpp)
+
+###
+
+- []() - [Cpp Soultion](./Day-/.cpp)
+
+###
+
+- []() - [Cpp Soultion](./Day-/.cpp)
+
 ###
 
 - []() - [Cpp Soultion](./Day-/.cpp)
