@@ -34,7 +34,7 @@
 - [Two Sum](https://leetcode.com/problems/two-sum/) - [Cpp Soultion](./Day-4/Two%20Sum.cpp)
 - [4Sum](https://leetcode.com/problems/4sum/) - [Cpp Soultion](./Day-4/4Sum.cpp)
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - [Cpp Soultion](./Day-4/Longest%20Consecutive%20Sequence.cpp)
-- []() - [Cpp Soultion](./Day-4/.cpp)
+- [Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1#) - [Cpp Soultion](./Day-4/Largest%20subarray%20with%200%20sum.cpp)
 - []() - [Cpp Soultion](./Day-4/.cpp)
 - []() - [Cpp Soultion](./Day-4/.cpp)
 
