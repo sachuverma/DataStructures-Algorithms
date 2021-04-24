@@ -32,7 +32,7 @@
 ###
 
 - [Two Sum](https://leetcode.com/problems/two-sum/) - [Cpp Soultion](./Day-4/Two%20Sum.cpp)
-- []() - [Cpp Soultion](./Day-4/.cpp)
+- [4Sum](https://leetcode.com/problems/4sum/) - [Cpp Soultion](./Day-4/4Sum.cpp)
 - []() - [Cpp Soultion](./Day-4/.cpp)
 - []() - [Cpp Soultion](./Day-4/.cpp)
 - []() - [Cpp Soultion](./Day-4/.cpp)
