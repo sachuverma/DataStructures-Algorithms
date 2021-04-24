@@ -35,7 +35,7 @@
 - [4Sum](https://leetcode.com/problems/4sum/) - [Cpp Soultion](./Day-4/4Sum.cpp)
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - [Cpp Soultion](./Day-4/Longest%20Consecutive%20Sequence.cpp)
 - [Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1#) - [Cpp Soultion](./Day-4/Largest%20subarray%20with%200%20sum.cpp)
-- []() - [Cpp Soultion](./Day-4/.cpp)
+- [Count the number of subarrays having a given XOR](https://www.geeksforgeeks.org/count-number-subarrays-given-xor/)
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - [Cpp Soultion](./Day-4/Longest%20Substring%20Without%20Repeating%20Characters.cpp)
 
 ###
