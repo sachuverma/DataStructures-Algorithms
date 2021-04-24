@@ -29,7 +29,7 @@
 - [Unique Paths](https://leetcode.com/problems/unique-paths/) - [Cpp Soultion](./Day-3/Unique%20Paths.cpp)
 - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) - [Cpp Soultion](./Day-3/Reverse%20Pairs.cpp)
 
-###
+### Day 4 (Hashing)
 
 - [Two Sum](https://leetcode.com/problems/two-sum/) - [Cpp Soultion](./Day-4/Two%20Sum.cpp)
 - [4Sum](https://leetcode.com/problems/4sum/) - [Cpp Soultion](./Day-4/4Sum.cpp)
