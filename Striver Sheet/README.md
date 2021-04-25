@@ -42,7 +42,7 @@
 
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Cpp Soultion](./Day-5/Reverse%20Linked%20List.cpp)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) - [Cpp Soultion](./Day-5/Middle%20of%20the%20Linked%20List.cpp)
-- []() - [Cpp Soultion](./Day-5/.cpp)
+- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - [Cpp Soultion](./Day-5/Merge%20Two%20Sorted%20Lists.cpp)
 - []() - [Cpp Soultion](./Day-5/.cpp)
 - []() - [Cpp Soultion](./Day-5/.cpp)
 - []() - [Cpp Soultion](./Day-5/.cpp)
