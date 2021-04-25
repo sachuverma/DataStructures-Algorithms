@@ -38,14 +38,20 @@
 - [Count the number of subarrays having a given XOR](https://www.geeksforgeeks.org/count-number-subarrays-given-xor/)
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - [Cpp Soultion](./Day-4/Longest%20Substring%20Without%20Repeating%20Characters.cpp)
 
+### Day 5 (LinkedList)
+
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Cpp Soultion](./Day-5/Reverse%20Linked%20List.cpp)
+- []() - [Cpp Soultion](./Day-5/.cpp)
+- []() - [Cpp Soultion](./Day-5/.cpp)
+- []() - [Cpp Soultion](./Day-5/.cpp)
+- []() - [Cpp Soultion](./Day-5/.cpp)
+- []() - [Cpp Soultion](./Day-5/.cpp)
+
 ###
 
 - []() - [Cpp Soultion](./Day-/.cpp)
-
-###
-
 - []() - [Cpp Soultion](./Day-/.cpp)
-
-###
-
+- []() - [Cpp Soultion](./Day-/.cpp)
+- []() - [Cpp Soultion](./Day-/.cpp)
+- []() - [Cpp Soultion](./Day-/.cpp)
 - []() - [Cpp Soultion](./Day-/.cpp)
