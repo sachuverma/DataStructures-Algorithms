@@ -47,9 +47,10 @@
 - [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) - [Cpp Soultion](./Day-5/Delete%20Node%20in%20a%20Linked%20List.cpp)
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - [Cpp Soultion](./Day-5/Add%20Two%20Numbers.cpp)
 
-### Day 6 (More LinkedList)
+### Day 6 (LinkedList 2)
 
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) - [Cpp Soultion](./Day-6/Intersection%20of%20Two%20Linked%20Lists.cpp)
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - [Cpp Soultion](./Day-6/Linked%20List%20Cycle.cpp)
 - []() - [Cpp Soultion](./Day-6/.cpp)
 - []() - [Cpp Soultion](./Day-6/.cpp)
 - []() - [Cpp Soultion](./Day-6/.cpp)
