@@ -55,7 +55,7 @@
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - [Cpp Soultion](./Day-6/Palindrome%20Linked%20List.cpp)
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) - [Cpp Soultion](./Day-6/Linked%20List%20Cycle%20II.cpp)
 - [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#) - [Cpp Soultion](./Day-6/Flattening%20a%20Linked%20List.cpp)
-- []() - [Cpp Soultion](./Day-6/.cpp)
+- [Rotate List](https://leetcode.com/problems/rotate-list/) - [Cpp Soultion](./Day-6/Rotate%20List.cpp)
 
 ###
 
