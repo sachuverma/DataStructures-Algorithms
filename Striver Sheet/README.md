@@ -52,7 +52,7 @@
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) - [Cpp Soultion](./Day-6/Intersection%20of%20Two%20Linked%20Lists.cpp)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - [Cpp Soultion](./Day-6/Linked%20List%20Cycle.cpp)
 - []() - [Cpp Soultion](./Day-6/.cpp)
-- []() - [Cpp Soultion](./Day-6/.cpp)
+- [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - [Cpp Soultion](./Day-6/Palindrome%20Linked%20List.cpp)
 - []() - [Cpp Soultion](./Day-6/.cpp)
 - []() - [Cpp Soultion](./Day-6/.cpp)
 - []() - [Cpp Soultion](./Day-6/.cpp)
