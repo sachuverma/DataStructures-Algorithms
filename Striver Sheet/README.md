@@ -51,7 +51,7 @@
 
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) - [Cpp Soultion](./Day-6/Intersection%20of%20Two%20Linked%20Lists.cpp)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - [Cpp Soultion](./Day-6/Linked%20List%20Cycle.cpp)
-- []() - [Cpp Soultion](./Day-6/.cpp)
+- [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) - [Cpp Soultion](./Day-6/Reverse%20Nodes%20in%20k-Group.cpp)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - [Cpp Soultion](./Day-6/Palindrome%20Linked%20List.cpp)
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) - [Cpp Soultion](./Day-6/Linked%20List%20Cycle%20II.cpp)
 - [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#) - [Cpp Soultion](./Day-6/Flattening%20a%20Linked%20List.cpp)
