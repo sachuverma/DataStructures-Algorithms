@@ -57,6 +57,14 @@
 - [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#) - [Cpp Soultion](./Day-6/Flattening%20a%20Linked%20List.cpp)
 - [Rotate List](https://leetcode.com/problems/rotate-list/) - [Cpp Soultion](./Day-6/Rotate%20List.cpp)
 
+### Day 7 (2 Pointers)
+
+- [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) - [Cpp Soultion](./Day-7/Copy%20List%20ith%20Random%20Pointer.cpp)
+- [3Sum](https://leetcode.com/problems/3sum/) - [Cpp Soultion](./Day-7/3Sum.cpp)
+- []() - [Cpp Soultion](./Day-7/.cpp)
+- []() - [Cpp Soultion](./Day-7/.cpp)
+- []() - [Cpp Soultion](./Day-7/.cpp)
+
 ###
 
 - []() - [Cpp Soultion](./Day-/.cpp)
