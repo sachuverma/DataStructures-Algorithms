@@ -63,7 +63,7 @@
 - [3Sum](https://leetcode.com/problems/3sum/) - [Cpp Soultion](./Day-7/3Sum.cpp)
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - [Cpp Soultion](./Day-7/Trapping%20Rain%20Water.cpp)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [Cpp Soultion](./Day-7/Remove%20Duplicates.cpp)
-- []() - [Cpp Soultion](./Day-7/.cpp)
+- [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) - [Cpp Soultion](./Day-7/Max%20Consecutive%20Ones.cpp)
 
 ###
 
