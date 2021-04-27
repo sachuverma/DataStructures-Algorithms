@@ -61,7 +61,7 @@
 
 - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) - [Cpp Soultion](./Day-7/Copy%20List%20ith%20Random%20Pointer.cpp)
 - [3Sum](https://leetcode.com/problems/3sum/) - [Cpp Soultion](./Day-7/3Sum.cpp)
-- []() - [Cpp Soultion](./Day-7/.cpp)
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - [Cpp Soultion](./Day-7/Trapping%20Rain%20Water.cpp)
 - []() - [Cpp Soultion](./Day-7/.cpp)
 - []() - [Cpp Soultion](./Day-7/.cpp)
 
