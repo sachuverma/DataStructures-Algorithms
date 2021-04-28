@@ -68,7 +68,7 @@
 ### Day 8 (Greedy)
 
 - [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) - [Cpp Soultion](./Day-8/N%20meetings%20in%20one%20room.cpp)
-- []() - [Cpp Soultion](./Day-8/.cpp)
+- [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#) - [Cpp Soultion](./Day-8/Minimum%20Platforms.cpp)
 - []() - [Cpp Soultion](./Day-8/.cpp)
 - []() - [Cpp Soultion](./Day-8/.cpp)
 - []() - [Cpp Soultion](./Day-8/.cpp)
