@@ -71,8 +71,7 @@
 - [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#) - [Cpp Soultion](./Day-8/Minimum%20Platforms.cpp)
 - [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#) - [Cpp Soultion](./Day-8/Job%20Sequencing%20Problem.cpp)
 - [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#) - [Cpp Soultion](./Day-8/Fractional%20Knapsack.cpp)
-- []() - [Cpp Soultion](./Day-8/.cpp)
-- []() - [Cpp Soultion](./Day-8/.cpp)
+- [Greedy Algorithm to find Minimum number of Coins](https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/)
 
 ###
 
