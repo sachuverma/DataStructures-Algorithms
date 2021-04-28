@@ -65,6 +65,15 @@
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [Cpp Soultion](./Day-7/Remove%20Duplicates.cpp)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) - [Cpp Soultion](./Day-7/Max%20Consecutive%20Ones.cpp)
 
+### Day 8 (Greedy)
+
+- [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) - [Cpp Soultion](./Day-8/N%20meetings%20in%20one%20room.cpp)
+- []() - [Cpp Soultion](./Day-8/.cpp)
+- []() - [Cpp Soultion](./Day-8/.cpp)
+- []() - [Cpp Soultion](./Day-8/.cpp)
+- []() - [Cpp Soultion](./Day-8/.cpp)
+- []() - [Cpp Soultion](./Day-8/.cpp)
+
 ###
 
 - []() - [Cpp Soultion](./Day-/.cpp)
