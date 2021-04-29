@@ -73,6 +73,15 @@
 - [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#) - [Cpp Soultion](./Day-8/Fractional%20Knapsack.cpp)
 - [Greedy Algorithm to find Minimum number of Coins](https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/)
 
+### Day 9 (Recursion)
+
+- [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1#) - [Cpp Soultion](./Day-9/Subset%20Sums.cpp)
+- []() - [Cpp Soultion](./Day-9/.cpp)
+- []() - [Cpp Soultion](./Day-9/.cpp)
+- []() - [Cpp Soultion](./Day-9/.cpp)
+- []() - [Cpp Soultion](./Day-9/.cpp)
+- []() - [Cpp Soultion](./Day-9/.cpp)
+
 ###
 
 - []() - [Cpp Soultion](./Day-/.cpp)
