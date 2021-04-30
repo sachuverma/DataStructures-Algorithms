@@ -86,7 +86,7 @@
 
 - [Permutations](https://leetcode.com/problems/permutations/) - [Cpp Soultion](./Day-10/Permutations.cpp)
 - [N-Queens](https://leetcode.com/problems/n-queens-ii/) - [Cpp Soultion](./Day-10/N-Queens.cpp)
-- []() - [Cpp Soultion](./Day-10/.cpp)
+- [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) - [Cpp Soultion](./Day-10/Sudoku%20Solver.cpp)
 - []() - [Cpp Soultion](./Day-10/.cpp)
 - []() - [Cpp Soultion](./Day-10/.cpp)
 - []() - [Cpp Soultion](./Day-10/.cpp)
