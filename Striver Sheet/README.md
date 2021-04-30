@@ -80,7 +80,7 @@
 - [Combination Sum](https://leetcode.com/problems/combination-sum/) - [Cpp Soultion](./Day-9/Combination%20Sum.cpp)
 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) - [Cpp Soultion](./Day-9/Combination%20Sum%20II.cpp)
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) - [Cpp Soultion](./Day-9/Palindrome%20Partitioning.cpp)
-- []() - [Cpp Soultion](./Day-9/.cpp)
+- [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) - [Cpp Soultion](./Day-9/Permutation%20Sequence.cpp)
 
 ### Day 10 (Recursion, Backtrack)
 
