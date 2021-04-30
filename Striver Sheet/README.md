@@ -85,11 +85,11 @@
 ### Day 10 (Recursion, Backtrack)
 
 - [Permutations](https://leetcode.com/problems/permutations/) - [Cpp Soultion](./Day-10/Permutations.cpp)
-- []() - [Cpp Soultion](./Day-/.cpp)
-- []() - [Cpp Soultion](./Day-/.cpp)
-- []() - [Cpp Soultion](./Day-/.cpp)
-- []() - [Cpp Soultion](./Day-/.cpp)
-- []() - [Cpp Soultion](./Day-/.cpp)
+- [N-Queens](https://leetcode.com/problems/n-queens-ii/) - [Cpp Soultion](./Day-10/N-Queens.cpp)
+- []() - [Cpp Soultion](./Day-10/.cpp)
+- []() - [Cpp Soultion](./Day-10/.cpp)
+- []() - [Cpp Soultion](./Day-10/.cpp)
+- []() - [Cpp Soultion](./Day-10/.cpp)
 
 ###
 
