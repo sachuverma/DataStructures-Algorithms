@@ -37,7 +37,6 @@ public:
   {
     vector<int> nums;
     int fact = 1;
-
     for (int i = 1; i < n; ++i)
     {
       nums.push_back(i);
