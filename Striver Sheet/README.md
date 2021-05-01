@@ -95,7 +95,7 @@
 
 - [Calculating n-th real root using binary search](https://www.geeksforgeeks.org/calculating-n-th-real-root-using-binary-search/)
 - [Median in a row-wise sorted Matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1#) - [Cpp Soultion](./Day-11/Median%20in%20a%20row-wise%20sorted%20Matrix.cpp)
-- []() - [Cpp Soultion](./Day-11/.cpp)
+- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) - [Cpp Soultion](./Day-11/Single%20Element%20in%20a%20Sorted%20Array.cpp)
 - []() - [Cpp Soultion](./Day-11/.cpp)
 - []() - [Cpp Soultion](./Day-11/.cpp)
 - []() - [Cpp Soultion](./Day-11/.cpp)
