@@ -87,8 +87,8 @@
 - [Permutations](https://leetcode.com/problems/permutations/) - [Cpp Soultion](./Day-10/Permutations.cpp)
 - [N-Queens](https://leetcode.com/problems/n-queens-ii/) - [Cpp Soultion](./Day-10/N-Queens.cpp)
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) - [Cpp Soultion](./Day-10/Sudoku%20Solver.cpp)
-- []() - [Cpp Soultion](./Day-10/.cpp)
-- []() - [Cpp Soultion](./Day-10/.cpp)
+- [m Coloring Problem](https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/)
+- [Rat in a Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#) - [Cpp Soultion](./Day-10/Rat%20in%20a%20Maze%20Problem.cpp)
 - []() - [Cpp Soultion](./Day-10/.cpp)
 
 ###
