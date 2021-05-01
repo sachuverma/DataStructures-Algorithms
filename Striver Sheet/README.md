@@ -91,6 +91,15 @@
 - [Rat in a Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#) - [Cpp Soultion](./Day-10/Rat%20in%20a%20Maze%20Problem.cpp)
 - [Word Break](https://leetcode.com/problems/word-break/) - [Cpp Soultion](./Day-10/Word%20Break.cpp)
 
+### Day 11 (Divide n Conquer)
+
+- [Calculating n-th real root using binary search](https://www.geeksforgeeks.org/calculating-n-th-real-root-using-binary-search/)
+- [Median in a row-wise sorted Matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1#) - [Cpp Soultion](./Day-11/Median%20in%20a%20row-wise%20sorted%20Matrix.cpp)
+- []() - [Cpp Soultion](./Day-11/.cpp)
+- []() - [Cpp Soultion](./Day-11/.cpp)
+- []() - [Cpp Soultion](./Day-11/.cpp)
+- []() - [Cpp Soultion](./Day-11/.cpp)
+
 ###
 
 - []() - [Cpp Soultion](./Day-/.cpp)
