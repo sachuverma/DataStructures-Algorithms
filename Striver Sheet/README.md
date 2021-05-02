@@ -97,7 +97,7 @@
 - [Median in a row-wise sorted Matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1#) - [Cpp Soultion](./Day-11/Median%20in%20a%20row-wise%20sorted%20Matrix.cpp)
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) - [Cpp Soultion](./Day-11/Single%20Element%20in%20a%20Sorted%20Array.cpp)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - [Cpp Soultion](./Day-11/Search%20in%20Rotated%20Sorted%20Array.cpp)
-- []() - [Cpp Soultion](./Day-11/.cpp)
+- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) - [Cpp Soultion](./Day-11/Median%20of%20Two%20Sorted%20Arrays.cpp)
 - []() - [Cpp Soultion](./Day-11/.cpp)
 
 ###
