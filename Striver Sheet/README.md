@@ -100,6 +100,15 @@
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) - [Cpp Soultion](./Day-11/Median%20of%20Two%20Sorted%20Arrays.cpp)
 - [K-th Element of Two Sorted Arrays](https://www.geeksforgeeks.org/k-th-element-two-sorted-arrays/)
 
+### Day 12 (Bits)
+
+- [Power of Two](https://leetcode.com/problems/power-of-two/) - [Cpp Soultion](./Day-12/Power%20of%20Two.cpp)
+- []() - [Cpp Soultion](./Day-12/.cpp)
+- []() - [Cpp Soultion](./Day-12/.cpp)
+- []() - [Cpp Soultion](./Day-12/.cpp)
+- []() - [Cpp Soultion](./Day-12/.cpp)
+- []() - [Cpp Soultion](./Day-12/.cpp)
+
 ###
 
 - []() - [Cpp Soultion](./Day-/.cpp)
