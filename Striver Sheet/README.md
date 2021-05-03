@@ -117,7 +117,7 @@
 - [Implement Queue using Linked List](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) - [Cpp Soultion](./Day-13/Implement%20Queue%20using%20Linked%20List.cpp)
 - [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1#) - [Cpp Soultion](./Day-13/BFS%20of%20graph.cpp)
 - [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) - [Cpp Soultion](./Day-13/Implement%20Stack%20using%20Queues.cpp)
-- []() - [Cpp Soultion](./Day-13/.cpp)
+- [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) - [Cpp Soultion](./Day-13/Implement%20Queue%20using%20Stacks.cpp)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - [Cpp Soultion](./Day-13/Valid%20Parentheses.cpp)
 - [Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#) - [Cpp Soultion](./Day-13/Next%20Greater%20Element.cpp)
 
