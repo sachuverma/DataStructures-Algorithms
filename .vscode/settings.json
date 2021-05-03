@@ -20,6 +20,8 @@
     "complex": "cpp",
     "iostream": "cpp",
     "cmath": "cpp",
-    "*.tcc": "cpp"
+    "*.tcc": "cpp",
+    "any": "cpp",
+    "type_traits": "cpp"
   }
 }
