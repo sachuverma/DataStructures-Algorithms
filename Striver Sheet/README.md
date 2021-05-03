@@ -118,7 +118,7 @@
 - [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1#) - [Cpp Soultion](./Day-13/BFS%20of%20graph.cpp)
 - []() - [Cpp Soultion](./Day-13/.cpp)
 - []() - [Cpp Soultion](./Day-13/.cpp)
-- []() - [Cpp Soultion](./Day-13/.cpp)
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - [Cpp Soultion](./Day-13/Valid%20Parentheses.cpp)
 - [Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#) - [Cpp Soultion](./Day-13/Next%20Greater%20Element.cpp)
 
 ###
