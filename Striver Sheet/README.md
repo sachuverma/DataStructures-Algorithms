@@ -113,7 +113,7 @@
 
 - [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1#) - [Cpp Soultion](./Day-13/Implement%20stack%20using%20array.cpp)
 - [Implement Queue using array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1#) - [Cpp Soultion](./Day-13/Implement%20Queue%20using%20array.cpp)
-- []() - [Cpp Soultion](./Day-13/.cpp)
+- [Implement Stack using Linked List](https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) - [Cpp Soultion](./Day-13/Implement%20Stack%20using%20Linked%20List.cpp)
 - []() - [Cpp Soultion](./Day-13/.cpp)
 - []() - [Cpp Soultion](./Day-13/.cpp)
 - []() - [Cpp Soultion](./Day-13/.cpp)
