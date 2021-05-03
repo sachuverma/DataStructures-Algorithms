@@ -109,6 +109,15 @@
 - [Find MSB In O(1)](https://www.codingninjas.com/codestudio/problems/find-msb-in-o-1_1112570) - [Cpp Soultion](./Day-12/Find%20MSB%20In%20O1.cpp)
 - [Calculate square of a number without using \*, / and pow()](https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/)
 
+### Day 13 (Stack/Queues)
+
+- [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1#) - [Cpp Soultion](./Day-13/Implement%20stack%20using%20array.cpp)
+- []() - [Cpp Soultion](./Day-13/.cpp)
+- []() - [Cpp Soultion](./Day-13/.cpp)
+- []() - [Cpp Soultion](./Day-13/.cpp)
+- []() - [Cpp Soultion](./Day-13/.cpp)
+- []() - [Cpp Soultion](./Day-13/.cpp)
+
 ###
 
 - []() - [Cpp Soultion](./Day-/.cpp)
