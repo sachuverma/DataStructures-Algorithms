@@ -104,8 +104,8 @@
 
 - [Power of Two](https://leetcode.com/problems/power-of-two/) - [Cpp Soultion](./Day-12/Power%20of%20Two.cpp)
 - [Counting Bits](https://leetcode.com/problems/counting-bits/) - [Cpp Soultion](./Day-12/Counting%20Bits.cpp)
-- []() - [Cpp Soultion](./Day-12/.cpp)
-- []() - [Cpp Soultion](./Day-12/.cpp)
+- [Divide two integers without using multiplication, division and mod operator](https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/)
+- [Subsets](https://leetcode.com/problems/subsets/) - [Cpp Soultion](./Day-12/Subsets.cpp)
 - []() - [Cpp Soultion](./Day-12/.cpp)
 - []() - [Cpp Soultion](./Day-12/.cpp)
 
