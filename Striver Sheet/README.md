@@ -106,8 +106,8 @@
 - [Counting Bits](https://leetcode.com/problems/counting-bits/) - [Cpp Soultion](./Day-12/Counting%20Bits.cpp)
 - [Divide two integers without using multiplication, division and mod operator](https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/)
 - [Subsets](https://leetcode.com/problems/subsets/) - [Cpp Soultion](./Day-12/Subsets.cpp)
-- []() - [Cpp Soultion](./Day-12/.cpp)
-- []() - [Cpp Soultion](./Day-12/.cpp)
+- [Find MSB In O(1)]() - [Cpp Soultion](./Day-12/Find%20MSB%20In%20O1.cpp)
+- [Calculate square of a number without using \*, / and pow()](https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/)
 
 ###
 
