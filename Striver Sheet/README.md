@@ -119,7 +119,7 @@
 - []() - [Cpp Soultion](./Day-13/.cpp)
 - []() - [Cpp Soultion](./Day-13/.cpp)
 - []() - [Cpp Soultion](./Day-13/.cpp)
-- []() - [Cpp Soultion](./Day-13/.cpp)
+- [Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#) - [Cpp Soultion](./Day-13/Next%20Greater%20Element.cpp)
 
 ###
 
