@@ -124,7 +124,7 @@
 ### Day 14 (Miscellaneous)
 
 - [Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/) - [Cpp Soultion](./Day-14/Nearest%20Smaller%20Element.cpp)
-- []() - [Cpp Soultion](./Day-14/.cpp)
+- [LRU Cache](https://leetcode.com/problems/lru-cache/) - [Cpp Soultion](./Day-14/LRU%20Cache.cpp)
 - []() - [Cpp Soultion](./Day-14/.cpp)
 - []() - [Cpp Soultion](./Day-14/.cpp)
 - []() - [Cpp Soultion](./Day-14/.cpp)
