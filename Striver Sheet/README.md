@@ -121,6 +121,15 @@
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - [Cpp Soultion](./Day-13/Valid%20Parentheses.cpp)
 - [Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#) - [Cpp Soultion](./Day-13/Next%20Greater%20Element.cpp)
 
+### Day 14 (Miscellaneous)
+
+- [Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/) - [Cpp Soultion](./Day-14/Nearest%20Smaller%20Element.cpp)
+- []() - [Cpp Soultion](./Day-14/.cpp)
+- []() - [Cpp Soultion](./Day-14/.cpp)
+- []() - [Cpp Soultion](./Day-14/.cpp)
+- []() - [Cpp Soultion](./Day-14/.cpp)
+- []() - [Cpp Soultion](./Day-14/.cpp)
+
 ###
 
 - []() - [Cpp Soultion](./Day-/.cpp)
