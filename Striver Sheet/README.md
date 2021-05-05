@@ -125,7 +125,7 @@
 
 - [Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/) - [Cpp Soultion](./Day-14/Nearest%20Smaller%20Element.cpp)
 - [LRU Cache](https://leetcode.com/problems/lru-cache/) - [Cpp Soultion](./Day-14/LRU%20Cache.cpp)
-- []() - [Cpp Soultion](./Day-14/.cpp)
+- [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) - [Cpp Soultion](./Day-14/Largest%20Rectangle%20in%20Histogram.cpp)
 - []() - [Cpp Soultion](./Day-14/.cpp)
 - []() - [Cpp Soultion](./Day-14/.cpp)
 - []() - [Cpp Soultion](./Day-14/.cpp)
