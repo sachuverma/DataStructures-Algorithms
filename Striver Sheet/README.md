@@ -126,7 +126,7 @@
 - [Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/) - [Cpp Soultion](./Day-14/Nearest%20Smaller%20Element.cpp)
 - [LRU Cache](https://leetcode.com/problems/lru-cache/) - [Cpp Soultion](./Day-14/LRU%20Cache.cpp)
 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) - [Cpp Soultion](./Day-14/Largest%20Rectangle%20in%20Histogram.cpp)
-- []() - [Cpp Soultion](./Day-14/.cpp)
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) - [Cpp Soultion](./Day-14/Sliding%20Window%20Maximum.cpp)
 - [Min Stack](https://leetcode.com/problems/min-stack/) - [Cpp Soultion](./Day-14/Min%20Stack.cpp)
 - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) - [Cpp Soultion](./Day-14/Rotting%20Oranges.cpp)
 
