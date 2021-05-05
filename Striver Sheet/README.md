@@ -128,7 +128,7 @@
 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) - [Cpp Soultion](./Day-14/Largest%20Rectangle%20in%20Histogram.cpp)
 - []() - [Cpp Soultion](./Day-14/.cpp)
 - []() - [Cpp Soultion](./Day-14/.cpp)
-- []() - [Cpp Soultion](./Day-14/.cpp)
+- [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) - [Cpp Soultion](./Day-14/Rotting%20Oranges.cpp)
 
 ###
 
