@@ -147,7 +147,7 @@
 - [KMP Algorithm for Pattern Searching](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
 - [Minimum characters to be added at front to make string palindrome](https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/) - [Cpp Soultion](./Day-16/Valid%20Anagram.cpp)
-- []() - [Cpp Soultion](./Day-16/.cpp)
+- [Count and Say](https://leetcode.com/problems/count-and-say/) - [Cpp Soultion](./Day-16/Count%20and%20Say.cpp)
 - []() - [Cpp Soultion](./Day-16/.cpp)
 
 ###
