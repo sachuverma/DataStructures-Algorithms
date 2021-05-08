@@ -143,10 +143,10 @@
 
 ### Day 16 ()
 
-- []() - [Cpp Soultion](./Day-16/.cpp)
-- []() - [Cpp Soultion](./Day-16/.cpp)
-- []() - [Cpp Soultion](./Day-16/.cpp)
-- []() - [Cpp Soultion](./Day-16/.cpp)
+- [Z algorithm (Linear time pattern searching Algorithm)](https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/)
+- [KMP Algorithm for Pattern Searching](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
+- [Minimum characters to be added at front to make string palindrome](https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/)
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/) - [Cpp Soultion](./Day-16/Valid%20Anagram.cpp)
 - []() - [Cpp Soultion](./Day-16/.cpp)
 - []() - [Cpp Soultion](./Day-16/.cpp)
 
