@@ -141,6 +141,15 @@
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - [Cpp Soultion](./Day-15/Longest%20Common%20Prefix.cpp)
 - [Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
 
+### Day 16 ()
+
+- []() - [Cpp Soultion](./Day-16/.cpp)
+- []() - [Cpp Soultion](./Day-16/.cpp)
+- []() - [Cpp Soultion](./Day-16/.cpp)
+- []() - [Cpp Soultion](./Day-16/.cpp)
+- []() - [Cpp Soultion](./Day-16/.cpp)
+- []() - [Cpp Soultion](./Day-16/.cpp)
+
 ###
 
 - []() - [Cpp Soultion](./Day-/.cpp)
