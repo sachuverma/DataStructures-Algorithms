@@ -150,7 +150,7 @@
 - [Count and Say](https://leetcode.com/problems/count-and-say/) - [Cpp Soultion](./Day-16/Count%20and%20Say.cpp)
 - [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) - [Cpp Soultion](./Day-16/Compare%20Version%20Numbers.cpp)
 
-### Day 17
+### Day 17 (Binary Tree)
 
 - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) - [Cpp Soultion](./Day-17/Binary%20Tree%20Inorder%20Traversal.cpp)
 - [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) - [Cpp Soultion](./Day-17/Binary%20Tree%20Preorder%20Traversal.cpp)
