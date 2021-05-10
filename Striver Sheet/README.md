@@ -163,7 +163,7 @@
 
 - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) - [Cpp Soultion](./Day-18/Binary%20Tree%20Level%20Order%20Traversal.cpp)
 - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) - [Cpp Soultion](./Day-18/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.cpp)
-- []() - [Cpp Soultion](./Day-18/.cpp)
+- [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) - [Cpp Soultion](./Day-18/Diameter%20of%20Binary%20Tree.cpp)
 - []() - [Cpp Soultion](./Day-18/.cpp)
 - []() - [Cpp Soultion](./Day-18/.cpp)
 - []() - [Cpp Soultion](./Day-18/.cpp)
