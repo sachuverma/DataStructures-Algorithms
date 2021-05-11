@@ -12,3 +12,4 @@
 | 8.  | [Super Palindromes](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3736/)                         |                  [cpp](./08.%20Super%20Palindromes.cpp)                  |
 | 9.  | [Construct Target Array With Multiple Sums](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3737/) |  [cpp](./09.%20Construct%20Target%20Array%20With%20Multiple%20Sums.cpp)  |
 | 10. | [Count Primes](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3738/)                              |                    [cpp](./10.%20Count%20Primes.cpp)                     |
+| 11. | [Maximum Points You Can Obtain from Cards](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3739/)  | [cpp](./11.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.cpp)  |
