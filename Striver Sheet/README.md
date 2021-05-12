@@ -182,7 +182,7 @@
 - [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) - [Cpp Soultion](./Day-20/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp)
 - [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) - [Cpp Soultion](./Day-20/Search%20in%20a%20Binary%20Search%20Tree.cpp)
 - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) - [Cpp Soultion](./Day-20/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp)
-- []() - [Cpp Soultion](./Day-20/.cpp)
+- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - [Cpp Soultion](./Day-20/Validate%20Binary%20Search%20Tree.cpp)
 - []() - [Cpp Soultion](./Day-20/.cpp)
 - []() - [Cpp Soultion](./Day-20/.cpp)
 
