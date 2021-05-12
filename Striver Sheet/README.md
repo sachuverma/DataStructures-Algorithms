@@ -184,7 +184,7 @@
 - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) - [Cpp Soultion](./Day-20/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp)
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - [Cpp Soultion](./Day-20/Validate%20Binary%20Search%20Tree.cpp)
 - [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - [Cpp Soultion](./Day-20/Lowest%20Common%20Ancestor%20of%20a%20BST.cpp)
-- []() - [Cpp Soultion](./Day-20/.cpp)
+- [Predecessor and Successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1#) - [Cpp Soultion](./Day-20/Predecessor%20and%20Successor.cpp)
 
 ###
 
