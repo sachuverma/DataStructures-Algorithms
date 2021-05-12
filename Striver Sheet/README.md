@@ -177,6 +177,15 @@
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) - [Cpp Soultion](./Day-19/Symmetric%20Tree.cpp)
 - [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) - [Cpp Soultion](./Day-19/Flatten%20Binary%20Tree%20to%20Linked%20List.cpp)
 
+### Day 20 (Binary Search Tree)
+
+- [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) - [Cpp Soultion](./Day-20/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp)
+- []() - [Cpp Soultion](./Day-20/.cpp)
+- []() - [Cpp Soultion](./Day-20/.cpp)
+- []() - [Cpp Soultion](./Day-20/.cpp)
+- []() - [Cpp Soultion](./Day-20/.cpp)
+- []() - [Cpp Soultion](./Day-20/.cpp)
+
 ###
 
 - []() - [Cpp Soultion](./Day-/.cpp)
