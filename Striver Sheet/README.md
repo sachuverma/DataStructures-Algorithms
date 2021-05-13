@@ -186,6 +186,16 @@
 - [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - [Cpp Soultion](./Day-20/Lowest%20Common%20Ancestor%20of%20a%20BST.cpp)
 - [Predecessor and Successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1#) - [Cpp Soultion](./Day-20/Predecessor%20and%20Successor.cpp)
 
+### Day 21 (Binary Search Tree)
+
+- [Floor and Ceil from a BST](https://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/)
+- [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - [Cpp Soultion](./Day-21/Kth%20Smallest%20Element%20in%20a%20BST.cpp)
+- []() - [Cpp Soultion](./Day-21/.cpp)
+- []() - [Cpp Soultion](./Day-21/.cpp)
+- []() - [Cpp Soultion](./Day-21/.cpp)
+- []() - [Cpp Soultion](./Day-21/.cpp)
+- []() - [Cpp Soultion](./Day-21/.cpp)
+
 ###
 
 - []() - [Cpp Soultion](./Day-/.cpp)
