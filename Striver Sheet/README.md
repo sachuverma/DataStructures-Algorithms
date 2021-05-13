@@ -191,7 +191,7 @@
 - [Floor and Ceil from a BST](https://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/)
 - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - [Cpp Soultion](./Day-21/Kth%20Smallest%20Element%20in%20a%20BST.cpp)
 - [Kth largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) - [Cpp Soultion](./Day-21/Kth%20largest%20element%20in%20BST.cpp)
-- []() - [Cpp Soultion](./Day-21/.cpp)
+- [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) - [Cpp Soultion](./Day-21/Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)
 - []() - [Cpp Soultion](./Day-21/.cpp)
 - []() - [Cpp Soultion](./Day-21/.cpp)
 - []() - [Cpp Soultion](./Day-21/.cpp)
