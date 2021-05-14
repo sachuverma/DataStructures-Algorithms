@@ -202,7 +202,7 @@
 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) - [Cpp Soultion](./Day-22/Find%20Median%20from%20Data%20Stream.cpp)
 - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) - [Cpp Soultion](./Day-22/Kth%20Largest%20Element%20in%20a%20Stream.cpp)
 - [Distinct Numbers in Window](https://www.interviewbit.com/problems/distinct-numbers-in-window/) - [Cpp Soultion](./Day-22/Distinct%20Numbers%20in%20Window.cpp)
-- []() - [Cpp Soultion](./Day-22/.cpp)
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - [Cpp Soultion](./Day-22/Kth%20Largest%20Element%20in%20an%20Array.cpp)
 - []() - [Cpp Soultion](./Day-22/.cpp)
 
 ###
