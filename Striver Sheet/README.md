@@ -200,7 +200,7 @@
 
 - [Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1#) - [Cpp Soultion](./Day-22/Binary%20Tree%20to%20DLL.cpp)
 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) - [Cpp Soultion](./Day-22/Find%20Median%20from%20Data%20Stream.cpp)
-- []() - [Cpp Soultion](./Day-22/.cpp)
+- [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) - [Cpp Soultion](./Day-22/Kth%20Largest%20Element%20in%20a%20Stream.cpp)
 - []() - [Cpp Soultion](./Day-22/.cpp)
 - []() - [Cpp Soultion](./Day-22/.cpp)
 - []() - [Cpp Soultion](./Day-22/.cpp)
