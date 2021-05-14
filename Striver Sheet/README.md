@@ -199,7 +199,7 @@
 ### Day 22 (Mixed Questions)
 
 - [Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1#) - [Cpp Soultion](./Day-22/Binary%20Tree%20to%20DLL.cpp)
-- []() - [Cpp Soultion](./Day-22/.cpp)
+- [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) - [Cpp Soultion](./Day-22/Find%20Median%20from%20Data%20Stream.cpp)
 - []() - [Cpp Soultion](./Day-22/.cpp)
 - []() - [Cpp Soultion](./Day-22/.cpp)
 - []() - [Cpp Soultion](./Day-22/.cpp)
