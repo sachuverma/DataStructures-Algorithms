@@ -58,6 +58,7 @@ public:
 
     while (root->right)
       root = root->right;
+
     root->right = right;
   }
 };
