@@ -196,6 +196,15 @@
 - [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1) - [Cpp Soultion](./Day-21/Largest%20BST.cpp)
 - [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) - [Cpp Soultion](./Day-21/Serialize%20and%20Deserialize%20Binary%20Tree.cpp)
 
+### Day 22 (Mixed Questions)
+
+- [Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1#) - [Cpp Soultion](./Day-22/Binary%20Tree%20to%20DLL.cpp)
+- []() - [Cpp Soultion](./Day-22/.cpp)
+- []() - [Cpp Soultion](./Day-22/.cpp)
+- []() - [Cpp Soultion](./Day-22/.cpp)
+- []() - [Cpp Soultion](./Day-22/.cpp)
+- []() - [Cpp Soultion](./Day-22/.cpp)
+
 ###
 
 - []() - [Cpp Soultion](./Day-/.cpp)
