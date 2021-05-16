@@ -211,6 +211,7 @@
 - [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1#) - [Cpp Soultion](./Day-23/DFS%20of%20Graph.cpp)
 - [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) - [Cpp Soultion](./Day-23/BFS%20of%20graph.cpp)
 - []() - [Cpp Soultion](./Day-23/.cpp)
+- [Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1#) - [Cpp Soultion](./Day-23/Detect%20cycle%20in%20a%20directed%20graph.cpp)
 - []() - [Cpp Soultion](./Day-23/.cpp)
 - []() - [Cpp Soultion](./Day-23/.cpp)
 
