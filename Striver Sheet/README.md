@@ -214,7 +214,7 @@
 - [Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1#) - [Cpp Soultion](./Day-23/Detect%20cycle%20in%20a%20directed%20graph.cpp)
 - [Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1#) - [Cpp Soultion](./Day-23/Topological%20sort.cpp)
 - [Number of Islands](https://leetcode.com/problems/number-of-islands/) - [Cpp Soultion](./Day-23/Number%20of%20Islands.cpp)
-- []() - [Cpp Soultion](./Day-23/.cpp)
+- [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) - [Cpp Soultion](./Day-23/Is%20Graph%20Bipartite.cpp)
 
 ###
 
