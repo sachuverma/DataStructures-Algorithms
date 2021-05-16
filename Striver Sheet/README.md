@@ -212,6 +212,7 @@
 - [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) - [Cpp Soultion](./Day-23/BFS%20of%20graph.cpp)
 - [Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1#) - [Cpp Soultion](./Day-23/Detect%20cycle%20in%20an%20undirected%20graph.cpp)
 - [Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1#) - [Cpp Soultion](./Day-23/Detect%20cycle%20in%20a%20directed%20graph.cpp)
+- [Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1#) - [Cpp Soultion](./Day-23/Topological%20sort.cpp)
 - []() - [Cpp Soultion](./Day-23/.cpp)
 - []() - [Cpp Soultion](./Day-23/.cpp)
 
