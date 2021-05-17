@@ -18,3 +18,4 @@
 | 14. | [Flatten Binary Tree to Linked List](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3742)         |     [cpp](./14.%20Flatten%20Binary%20Tree%20to%20Linked%20List.cpp)      |
 | 15. | [Valid Number](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3744/)                             |                    [cpp](./15.%20Valid%20Number.cpp)                     |
 | 16. | [Binary Tree Cameras](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3745/)                      |                [cpp](./16.%20Binary%20Tree%20Cameras.cpp)                |
+| 17. | [Longest String Chain](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3746/)                     |               [cpp](./17.%20Longest%20String%20Chain.cpp)                |
