@@ -19,3 +19,4 @@
 | 15. | [Valid Number](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3744/)                             |                    [cpp](./15.%20Valid%20Number.cpp)                     |
 | 16. | [Binary Tree Cameras](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3745/)                      |                [cpp](./16.%20Binary%20Tree%20Cameras.cpp)                |
 | 17. | [Longest String Chain](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3746/)                     |               [cpp](./17.%20Longest%20String%20Chain.cpp)                |
+| 18. | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)                                                            |         [cpp](./18.%20Find%20Duplicate%20File%20in%20System.cpp)         |
