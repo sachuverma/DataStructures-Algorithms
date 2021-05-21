@@ -22,3 +22,4 @@
 | 18. | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)                                                            |         [cpp](./18.%20Find%20Duplicate%20File%20in%20System.cpp)         |
 | 19. | [Minimum Moves to Equal Array Elements II](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3748/) | [cpp](./19.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.cpp)  |
 | 20. | [Binary Tree Level Order Traversal](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3749/) | [cpp](./20.%20Binary%20Tree%20Level%20Order%20Traversal.cpp)  |
+| 21. | [Find and Replace Pattern](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3750/) | [cpp](./21.%20Find%20and%20Replace%20Pattern.cpp)  |
