@@ -24,3 +24,4 @@
 | 20. | [Binary Tree Level Order Traversal](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3749/)        |       [cpp](./20.%20Binary%20Tree%20Level%20Order%20Traversal.cpp)       |
 | 21. | [Find and Replace Pattern](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3750/)                 |            [cpp](./21.%20Find%20and%20Replace%20Pattern.cpp)             |
 | 22. | [N-Queens](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3752/)                                 |                       [cpp](./22.%20N-Queens.cpp)                        |
+| 24. | [To Lower Case](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3754/)                            |                   [cpp](./24.%20To%20Lower%20Case.cpp)                   |
