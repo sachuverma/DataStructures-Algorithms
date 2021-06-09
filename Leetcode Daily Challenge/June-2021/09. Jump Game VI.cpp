@@ -33,27 +33,30 @@ Let dp[i] be "the maximum score to reach the end starting at index i". The answe
 
 Hint #2  
 Instead of checking every j for every i, keep track of the smallest dp[i] values in a heap and calculate dp[i] from right to left. When the smallest value in the heap is out of bounds of the current index, remove it and keep checking.
-
 */
 
-class Solution {
+class Solution
+{
 public:
-    int maxResult(vector<int>& nums, int k) {
-      int n = nums.size();
-      vector<int> dp(n, 0);
-      
-      // {max value, index}
-      priority_queue<pair<int,int>> pq;
-      dp[0] = nums[0];
-      pq.push({nums[0], 0});
-      for(int i=1; i<n; ++i){
-        while(pq.size() && pq.top().second < i-k) pq.pop();
-        
-        auto curr = pq.top();
-        dp[i] = curr.first + nums[i];
-        pq.push({dp[i], i});
-      }
-      
-      return dp[n-1];
+  int maxResult(vector<int> &nums, int k)
+  {
+    int n = nums.size();
+    vector<int> dp(n, 0);
+
+    // {max value, index}
+    priority_queue<pair<int, int>> pq;
+    dp[0] = nums[0];
+    pq.push({nums[0], 0});
+    for (int i = 1; i < n; ++i)
+    {
+      while (pq.size() && pq.top().second < i - k)
+        pq.pop();
+
+      auto curr = pq.top();
+      dp[i] = curr.first + nums[i];
+      pq.push({dp[i], i});
     }
+
+    return dp[n - 1];
+  }
 };
