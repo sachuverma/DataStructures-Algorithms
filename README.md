@@ -427,6 +427,8 @@ Gone are the days when there were only few good companies, Now there are a lot o
 
 <br/>
 
+## 2️⃣ Database Management
+
 ### 🔰 Other Notes and Resources
 
 #### 🔖Best book for Coding Interviews - [Cracking-The-Coding-Interview](https://mega.nz/folder/KhpUBLLR#cKmpMsctk9hV_p0hUaZG_Q)
