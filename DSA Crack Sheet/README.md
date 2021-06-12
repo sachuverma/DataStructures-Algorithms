@@ -153,6 +153,7 @@
 - [Arithmetic Expression Evaluation](https://www.geeksforgeeks.org/arithmetic-expression-evalution/ "view topic")
 - [Evaluation of Postfix Expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1# "view question") - [Cpp Solution](./solutions/Evaluation%20of%20Postfix%20Expression.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
+- [Inserting at the end of stack](https://stackoverflow.com/questions/45130465/inserting-at-the-end-of-stack "view topic")
 
 ### Heap
 
