@@ -157,6 +157,7 @@
 - [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1# "view question") - [Cpp Solution](./solutions/Sort%20a%20stack.cpp)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/ "view question") - [Cpp Solution](./solutions/Merge%20Intervals.cpp)
 - [Maximum Rectangular Area in a Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1 "view question") - [Cpp Solution](./solutions/Maximum%20Rectangular%20Area%20in%20a%20Histogram.cpp)
+- [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1# "view question") - [Cpp Solution](./solutions/Valid%20Substring.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
