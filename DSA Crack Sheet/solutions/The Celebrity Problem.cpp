@@ -38,23 +38,43 @@ Constraints:
 
 int celebrity(vector<vector<int>> &M, int n)
 {
-  vector<int> heKnows(n, 0), knownBy(n, 0);
+  stack<int> st;
   for (int i = 0; i < n; ++i)
+    st.push(i);
+
+  while (st.size() > 1)
   {
-    for (int j = 0; j < n; ++j)
-    {
-      if (M[i][j])
-      {
-        knownBy[j]++;
-        heKnows[i]++;
-      }
-    }
+    int i = st.top();
+    st.pop();
+    int j = st.top();
+    st.pop();
+
+    if (M[i][j] && M[j][i])
+      continue;
+    else if (M[i][j])
+      st.push(j);
+    else if (M[j][i])
+      st.push(i);
+    else // dono ek dusre ko nhi jate toh bhi celebrity nhi honge koisa bhi
+      continue;
   }
 
-  for (int i = 0; i < n; ++i)
+  if (st.size())
   {
-    if (heKnows[i] == 0 && knownBy[i] == n - 1)
-      return i;
+    int c = st.top();
+    int a = 0, b = 0;
+
+    for (int i = 0; i < n; ++i)
+    {
+      if (M[i][c])
+        a++;
+      if (M[c][i])
+        b++;
+    }
+
+    if (a == n - 1 && b == 0)
+      return c;
   }
+
   return -1;
 }
