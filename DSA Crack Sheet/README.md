@@ -151,6 +151,7 @@
 - [Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1 "view question") - [Cpp Solution](./solutions/Next%20Greater%20Element.cpp)
 - [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1# "view question") - [Cpp Solution](./solutions/The%20Celebrity%20Problem.cpp)
 - [Arithmetic Expression Evaluation](https://www.geeksforgeeks.org/arithmetic-expression-evalution/ "view topic")
+- [Evaluation of Postfix Expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1# "view question") - [Cpp Solution](./solutions/Evaluation%20of%20Postfix%20Expression.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
