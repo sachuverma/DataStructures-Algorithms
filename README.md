@@ -19,7 +19,7 @@ I have also included the **Placement Ready Roadmap**, from `beginner level -> in
 
 My coding handles:  
 `codeforces` [specialist](https://codeforces.com/profile/sachuverma)  
-`leetcode` [1950+|Knight](https://leetcode.com/anjali-mc)  
+`leetcode` [1950+ | Knight](https://leetcode.com/anjali-mc)  
 `codechef` [4 star]()
 
 #### Table of Contents
@@ -27,7 +27,7 @@ My coding handles:
 - [DATA STRUCTURES & ALGORITHMS](#data-structures--algorithms) - [Table of Contents](#table-of-contents)
   - [🏆 Roadmap to Dream Placement](#-roadmap-to-dream-placement)
   - [1️⃣ Operating System](#1%EF%B8%8F⃣-operating-system)
-  - [2️⃣ Database Management](#-)
+  - [2️⃣ Database Management & Design](#-)
   - [3️⃣ Object Oriented Programming](#-)
   - [4️⃣ Computer Networks](#-)
   - [🔰Notes and Resources](#other-notes-and-resources)
@@ -440,12 +440,215 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
 
 <br/>
 
-### 2️⃣ Database Management
+### 2️⃣ Database Management & Design
+
+Tech Gaints: They usually ask only a bit about normalization, ACID properties(imp.) ans SQP queries & interview is done
+
+Start Ups: They do focus on system design a lot ans in between questions on DBMS are frequently asked
+So, we need to be 100% prepared for it & best way is to follow the System Design Primer (resource given below)
+Questions always revolves around the type of DB, why this DB, why not that DB, how to scale, SQL vs NoSQL, your familiarity level with those DBs, etc
 
 <details open>
-  <summary style="font-size:1.15rem;">Overview</summary>
+  <summary style="font-size:1.15rem;">Resources</summary>
 
-- [Quick Notes to Follow](https://mega.nz/file/pEpRUIQQ#ArZTGmmvMpygGuoOL6rokFesY7IJVTDJCPUQ_VsLR4U)
+- [System Design Primer (Database Section)](https://github.com/donnemartin/system-design-primer#database)
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Introduction</summary>
+
+- [What is Database?](https://www.javatpoint.com/what-is-database)
+- [What is DBMS?](https://www.guru99.com/what-is-dbms.html)
+- [Why do we need DBMS?](https://www.geeksforgeeks.org/need-for-dbms/)
+- [File management system vs DBMS](https://www.javatpoint.com/dbms-vs-files-system)
+- [What is Database Admin & it's functions?](https://practice.geeksforgeeks.org/problems/what-are-the-functions-of-a-dba)
+- [Database Tier-2/Tier-3 Architecture](https://www.geeksforgeeks.org/difference-between-two-tier-and-three-tier-database-architecture/)
+- [Database Language](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
+  - DCL
+  - DDL
+  - DML
+  - TCL
+- [Important Terms](https://whatisdbms.com/instances-schema-and-sub-schema-in-dbms-with-examples/)
+  - Instance
+  - Schema
+  - Sub-Schema
+- How DBMS is implemented?)
+- [What is Data abstraction in DBMS?](https://afteracademy.com/blog/what-is-data-abstraction-in-dbms-and-what-are-its-three-levels)
+- [3 level of Data Abstraction](https://afteracademy.com/blog/what-is-data-abstraction-in-dbms-and-what-are-its-three-levels)
+- [What is Referectial Integrity](https://www.tutorialspoint.com/Referential-Integrity-Rule-in-RDBMS)
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">RDBMS</summary>
+
+- [What is RDBMS & how it is stored in memory?](https://www.quora.com/How-does-a-relational-DBMS-internally-store-its-data-In-what-type-of-data-structure-How-does-it-offer-the-rapid-retrieval-without-loading-the-entire-database-into-the-main-memory-I-have-heard-many-DBMS-use-B-trees)
+- What is meaning of word "Relational" in RDBMS?
+- [Degree of Relation](https://www.relationaldbdesign.com/database-design/module6/three-relationship-types.php)
+  - 1:1
+  - 1:M
+  - M:M
+- [Keys](https://www.geeksforgeeks.org/types-of-keys-in-relational-model-candidate-super-primary-alternate-and-foreign/)
+  - Primary Key
+  - Foreign Key
+  - Candidate Key
+  - Alternate Key
+  - Super Key
+  - Secondary Key
+- [Databse Schema](https://www.tutorialspoint.com/dbms/dbms_data_schemas.htm)
+  - Physical Databse Schema
+  - Logical Databse Schema
+- [Schema Diagrams](https://www.geeksforgeeks.org/mapping-from-er-model-to-relational-model/)
+  - Relational Model
+  - ER Diagram
+- [Relational Operations](https://www.guru99.com/relational-algebra-dbms.html)
+  - Select
+  - Project
+  - Union
+  - Set Different
+  - Cartesian Product
+  - Rename
+- SQL
+  - [What is SQL](https://www.w3schools.com/sql/sql_intro.asp)
+  - [SQL vs MySQL](https://www.upgrad.com/blog/sql-vs-mysql/)
+  - [Important Keywords](https://www.educba.com/sql-keywords/)
+  - [CheatSheet: SQL](https://www.educba.com/cheat-sheet-sql/?source=leftnav)
+  - [Composite key in SQL](https://www.educba.com/composite-key-in-sql/?source=leftnav)
+  - [Join & it's types](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/)
+    - Inner Join
+    - Left Join
+    - Right Join
+    - Full Join
+    - Self Join
+  - [What is View](https://www.geeksforgeeks.org/sql-views/)
+  - [What is trigger](https://www.geeksforgeeks.org/sql-trigger-student-database/)
+  - [Unique & Primary key in SQL](https://www.geeksforgeeks.org/difference-between-primary-key-and-unique-key/)
+  - [What is SQL Injection?](https://www.w3schools.com/sql/sql_injection.asp)
+  - [Delete vs Truncate](https://www.geeksforgeeks.org/difference-between-delete-and-truncate/)
+  - [SQL Privileges](https://www.geeksforgeeks.org/mysql-grant-revoke-privileges/)
+  - [What do you mean by Subquery](https://www.tutorialspoint.com/sql/sql-sub-queries.htm)
+  - [What is difference between clustered and non-clustered indexes?](https://www.guru99.com/clustered-vs-non-clustered-index.html)
+  - [What is a Cursor?](https://www.geeksforgeeks.org/what-is-cursor-in-sql/)
+  - Query Emaples
+    - Write an SQL query to get third maximum salary of an employee from a table named employee_table
+    - Write a SQL query to find names of employee start with 'A'
+    - How can you create an empty table from an existing table?
+    - How to fetch common records from two tables?
+    - How to fetch alternate records from a table?
+    - What is command used to fetch first 5 characters of the string?
+    - Which operator is used in query pattern matching?
+- [What is Index in DBMS & it's types](https://www.guru99.com/indexing-in-database.html)
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Relational Database Design</summary>
+
+- [Features of Good Relationsl Design](https://www.microfocus.com/documentation/xdbc/win20/GUID-82D58958-278F-482C-B76F-AAF94A28DCCF.html)
+- [What is Functional Dependency?](https://www.guru99.com/dbms-functional-dependency.html)
+  - Trivial
+  - Non-Trivial
+  - Fully-Functional Dependency
+  - Partial
+  - Transitive
+- [What is Normalisation?](https://www.guru99.com/database-normalization.html)
+- [Purpose of Normalisation?](https://medium.com/@bbrumm/what-is-the-purpose-of-database-normalisation-8070b2948d70)
+- [What are 3 anomalies resolved by normalisation?](https://dba.stackexchange.com/questions/194631/how-does-normalization-fix-the-three-types-of-update-anomalies)
+- Types of Normalisation? (Purpose and Steps to Convert?)
+  - [1NF](https://www.geeksforgeeks.org/first-normal-form-1nf/)
+  - [2NF](https://www.geeksforgeeks.org/second-normal-form-2nf/)
+  - [3NF](https://www.geeksforgeeks.org/third-normal-form-3nf/)
+  - [BCNF](https://www.geeksforgeeks.org/boyce-codd-normal-form-bcnf/)
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Storage and File Structure</summary>
+
+- [Storage System](https://www.tutorialspoint.com/dbms/dbms_storage_system.htm)
+- [File Structure](https://www.tutorialspoint.com/dbms/dbms_file_structure.htm)
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Transaction Management</summary>
+
+- [What is a transaction?](https://www.tutorialspoint.com/dbms/dbms_transaction.htm)
+  - [State of Transaction](https://www.gatevidyalay.com/transaction-states-in-dbms/)
+- [IMP Terms](https://www.studytonight.com/dbms/tcl-command.php)
+  - Commit
+  - Rollback
+  - Savepoint
+- [ACID Properties](https://www.geeksforgeeks.org/acid-properties-in-dbms/)
+- [How to Implement Atomicity in Trsactions?](https://ashutoshtripathi.com/2017/11/27/implementation-of-atomicity-and-durability-using-shadow-copy/)
+  - Problem of Concurrent Transaction?
+    - Lost Update
+    - Dirty Read
+    - Unpredictable Read
+    - Incorrect Summary
+  - Advantages
+    - Reduced Wai Time
+    - High Throughput
+    - High resource utilisation
+- [Concurrent Trnsaction?](https://www.geeksforgeeks.org/concurrency-problems-in-dbms-transactions/)
+- Schedule
+  - [Type](https://www.geeksforgeeks.org/types-of-schedules-in-dbms/)
+    - Serial
+    - Complete
+    - Recoverable
+    - Cascadeless
+    - Strict
+  - [What is Conflict Operation?](https://www.javatpoint.com/dbms-conflict-serializable-schedule)
+  - How to find wether Schedules are conflicting or not
+- [Concurrency Control](https://www.tutorialspoint.com/dbms/dbms_concurrency_control.htm)
+  - Purpose?
+    - Shared Lock
+    - Exclusive Lock
+  - 2-Phase Locking PRotocal (important)
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Deadlock</summary>
+
+- [What is Deadlock?](https://www.geeksforgeeks.org/deadlock-in-dbms/)
+  - Examples?
+- Deadlock Detection
+- How to prevent Deadlock (already in OS Topics)
+  - Mutual Exclusion
+  - Hold and Wait
+  - No PreEmption
+  - Circular Wait
+- [Other Techniques to prevent Deadlock](https://www.geeksforgeeks.org/introduction-to-timestamp-and-deadlock-prevention-schemes-in-dbms/)
+  - use Timestamp
+  - Wait-Die Scheme
+  - Wound-Wait Scheme
+  - Timeout Based Scheme
+- [What is Starvation and it's reasons?](https://www.geeksforgeeks.org/starvation-in-dbms/)
+- [Deadlock recovery](https://www.geeksforgeeks.org/recovery-from-deadlock-in-operating-system/)
+  - Selection of Victim
+  - Roll Back
+  - Starvation
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Must Do (for system Design Interview)</summary>
+
+- SQL vs NoSQL
+  - [Resources to Follow](https://www.mongodb.com/nosql-explained/nosql-vs-sql)
+  - [Which Modern Databse is Right for your use case?](https://www.xplenty.com/blog/which-database/)
+- [Scaling Patterns](https://www.freecodecamp.org/news/understanding-database-scaling-patterns/)
+- [CAP Theorem](https://www.analyticsvidhya.com/blog/2020/08/a-beginners-guide-to-cap-theorem-for-data-engineering/)
+- [Scaling RDBMS and NoSQL](https://betterprogramming.pub/scaling-sql-nosql-databases-1121b24506df)
+- [What DB to use](http://jlamere.github.io/databases/)
+- [In-memory Database](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
+- [Graph Database](https://neo4j.com/developer/graph-database/)
+- [In-depth Indexing (optional)](https://www.freecodecamp.org/news/database-indexing-at-a-glance-bb50809d48bd/)
+- [Master Slave](https://www.datadriveninvestor.com/2020/05/28/the-master-slave-database-concept-for-beginners/)
+- [Master Slave vs Master Master](https://intellipaat.com/community/6605/master-master-vs-master-slave-database-architecture)
+- [ACID vs BASE](https://www.dataversity.net/acid-vs-base-the-shifting-ph-of-database-transaction-processing/)
 
 </details>
 
