@@ -149,6 +149,7 @@
 - [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1 "view question") - [Cpp Solution](./solutions/Reverse%20a%20string%20using%20Stack.cpp)
 - [Special Stack](https://practice.geeksforgeeks.org/problems/special-stack/1# "view question") - [Cpp Solution](./solutions/Special%20Stack.cpp)
 - [Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1 "view question") - [Cpp Solution](./solutions/Next%20Greater%20Element.cpp)
+- [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1# "view question") - [Cpp Solution](./solutions/The%20Celebrity%20Problem.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
