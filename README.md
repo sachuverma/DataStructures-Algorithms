@@ -31,13 +31,15 @@
 
 <br />
 
-## [100+ Top Product Based Companies](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9NdApRf4TW1I/view?usp=sharing)
+## 100+ Top Product Based Companies
 
-Gone are the days when there were only few good companies, Now there are a lot of companies which:
+Gone are the days when there were only few good companies, Now there are a lot of companies which:  
+`Pay Exceptionally Well`  
+`Good Work Life`  
+`Great Projects/Learning`  
+Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9NdApRf4TW1I/view?usp=sharing), and decide where you want to land.
 
-- Pay Exceptionally Well
-- Good Work Life
-- Great Projects/Learning
+<br/>
 
 ## 🏆 Roadmap to Dream Placement
 
@@ -531,7 +533,8 @@ A problem is added here each day.
 
 ## 🏆Sources
 
-Other coding websites, `hackerearth`, `gfg`, `leetcode`, `codechef`, `codeforces`
+Other coding websites, `hackerearth`, `gfg`, `leetcode`, `codechef`, `codeforces`  
+Youtube channels, `love babbar`, `take you forward`,
 
 <!-- CONTRIBUTING -->
 
@@ -555,7 +558,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🏆Contact
 
-Project Link: [https://github.com/sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms)
+Project Link: [https://github.com/sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms)  
 Sachin Verma : [sachinverma53121@gmail.com](sachinverma53121.gmail.com)
 
 Drop a ⭐ if you like my work😄

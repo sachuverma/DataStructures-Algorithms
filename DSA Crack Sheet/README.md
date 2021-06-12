@@ -120,7 +120,6 @@
 - [AGGRCOW - Aggressive cows](https://www.spoj.com/problems/AGGRCOW/ "view question") - [Cpp Solution](./solutions/AGGRCOW%20-%20Aggressive%20cows.cpp)
 - [Allocate minimum number of pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1# "view question") - [Cpp Solution](./solutions/Allocate%20minimum%20number%20of%20pages.cpp)
 - [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ "view question") - [Cpp Solution](./solutions/Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp)
-- []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Linked-List
 
@@ -138,7 +137,6 @@
 - [Word Break - Part 2](https://practice.geeksforgeeks.org/problems/word-break-part-23249/1# "view question") - [Cpp Solution](./solutions/Word%20Break%20-%20Part%202.cpp)
 - [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/ "view question") - [Cpp Solution](./solutions/Remove%20Invalid%20Parentheses.cpp)
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/ "view question") - [Cpp Solution](./solutions/Sudoku%20Solver.cpp)
-- []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Stacks & Queues
 
@@ -149,6 +147,7 @@
 - [How to efficiently implement k stacks in a single array?](https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/ "view topic")
 - [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1# "view question") - [Cpp Solution](./solutions/Parenthesis%20Checker.cpp)
 - [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1 "view question") - [Cpp Solution](./solutions/Reverse%20a%20string%20using%20Stack.cpp)
+- [Special Stack](https://practice.geeksforgeeks.org/problems/special-stack/1# "view question") - [Cpp Solution](./solutions/Special%20Stack.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
