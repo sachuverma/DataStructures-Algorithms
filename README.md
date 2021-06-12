@@ -428,13 +428,34 @@ Gone are the days when there were only few good companies, Now there are a lot o
 
 ### 2️⃣ Database Management
 
+<details open>
+  <summary style="font-size:1.15rem;">Overview</summary>
+
+- [Quick Notes to Follow](https://mega.nz/file/pEpRUIQQ#ArZTGmmvMpygGuoOL6rokFesY7IJVTDJCPUQ_VsLR4U)
+
+</details>
+
 <br/>
 
 ### 3️⃣ Object Oriented Programming
 
+<details open>
+  <summary style="font-size:1.15rem;">Overview</summary>
+
+- [Quick Notes to Follow]()
+
+</details>
+
 <br/>
 
 ### 4️⃣ Computer Networks
+
+<details open>
+  <summary style="font-size:1.15rem;">Overview</summary>
+
+- [Quick Notes to Follow]()
+
+</details>
 
 <br/>
 
@@ -444,7 +465,7 @@ Gone are the days when there were only few good companies, Now there are a lot o
 
 Urls for other Notes, and Reading Resources picked from different editorials.
 
-<details>
+<details open>
   <summary>View Resources/Articles</summary>
 
 - [📘 30 Days SDE Sheet](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
