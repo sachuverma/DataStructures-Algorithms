@@ -154,6 +154,7 @@
 - [Evaluation of Postfix Expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1# "view question") - [Cpp Solution](./solutions/Evaluation%20of%20Postfix%20Expression.cpp)
 - [Inserting at the end of stack](https://stackoverflow.com/questions/45130465/inserting-at-the-end-of-stack "view topic")
 - [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/ "view topic")
+- [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1# "view question") - [Cpp Solution](./solutions/Sort%20a%20stack.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
