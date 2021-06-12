@@ -13,20 +13,17 @@
 #### Table of Contents
 
 - [DATA STRUCTURES & ALGORITHMS](#data-structures--algorithms) - [Table of Contents](#table-of-contents)
-
   - [🏆 Roadmap to Dream Placement](#-roadmap-to-dream-placement)
   - [1️⃣ Operating System](#1%EF%B8%8F⃣-operating-system)
   - [2️⃣ Database Management](#-)
   - [3️⃣ Object Oriented Programming](#-)
   - [4️⃣ Computer Networks](#-)
   - [🔰Notes and Resources](#notes-and-resources)
-
     - [🔖Best book for Coding Interviews](#best-book-for-coding-interviews)
     - [🔰DSA Crack Sheet](#dsa-crack-sheet)
     - [🔰Top Interview Preparation Questions](#top-interview-preparation-questions)
     - [🔰Companywise Interview Questions](#companywise-interview-questions)
     - [🔰Leetcode Daily Challenges](#leetcode-daily-challenges)
-
   - [🏆Sources](#sources)
   - [🏆Contributing](#contributing)
   - [🏆License](#license)
@@ -158,7 +155,7 @@ Gone are the days when there were only few good companies, Now there are a lot o
 
 <br />
 
-## 1️⃣ Operating System
+### 1️⃣ Operating System
 
 <details>
   <summary style="font-size:1.15rem;">Overview</summary>
@@ -427,7 +424,17 @@ Gone are the days when there were only few good companies, Now there are a lot o
 
 <br/>
 
-## 2️⃣ Database Management
+### 2️⃣ Database Management
+
+<br/>
+
+### 3️⃣ Object Oriented Programming
+
+<br/>
+
+### 4️⃣ Computer Networks
+
+<br/>
 
 ### 🔰 Other Notes and Resources
 
@@ -479,35 +486,21 @@ Data Structures and Algorithms Cracks Sheet contains most necessary questions to
 
 This is LeetCode's official curated list of Top classic interview questions to help you land your dream job. Our top interview questions are divided into the following series:
 
-- Easy Collection
-- Medium Collection
-- Hard Collection  
-  to help you master Data Structure & Algorithms and improve your coding skills.
-
-Just like any other skills, coding interview is one area where you can greatly improve with deliberate practice.
-
-Most of the classic interview questions have multiple solution approaches. For the best practice result, we strongly advise you to go through this list at least a second time, or even better - a third time.
-
-- [x] By the second attempt, you may discover some new tricks or new methods.
-
-- [x] By the third time, you should find that your code appear to be more concise compared to your first attempt. If so, congratulations!
-
 Remember: Deliberate practice does not mean looking for answers and memorizing it. You won't go very far with that approach. The more you are able to solve a problem yourself without any reference to answers, the more you will improve.
 <br />
 
 ### [🔰Companywise Interview Questions](./Companywise%20Questions)
 
 It is containing the list of company wise questions available on leetcode premium.
-Every pdf file corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. The list of questions within each pdf is further sorted by their frequency, so the most popular question for a specific company is at the top.
+Every pdf file corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. The list of questions within each pdf is further sorted by their frequency, so the most popular question for a specific company is at the top.  
 [Download All PDFs](https://mega.nz/folder/HkoglB7C#o2K_WMwTKFgdk_powwR9-g)
 
 <!-- ### [Question List](./Companywise%20Questions)   -->
-
 <br />
 
 ### [🔰Leetcode Daily Challenges](./Leetcode%20Daily%20Challenge)
 
-This Challenge is beginner-friendly. It consists of daily problems given by Leetcode.
+This Challenge is beginner-friendly. It consists of daily problems given by Leetcode.  
 A problem is added here each day.
 
 <br />
@@ -515,7 +508,7 @@ A problem is added here each day.
 
 ## 🏆Sources
 
-Other coding websites
+Other coding websites, `hackerearth`, `gfg`, `leetcode`, `codechef`, `codeforces`
 
 <!-- CONTRIBUTING -->
 
@@ -540,7 +533,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 🏆Contact
 
 Project Link: [https://github.com/sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms)
-
 Sachin Verma : [sachinverma53121@gmail.com](sachinverma53121.gmail.com)
 
 Drop a ⭐ if you like my work😄
