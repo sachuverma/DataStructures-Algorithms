@@ -10,6 +10,16 @@
 
 `Resources and Solutions` `^_^`
 
+I am Sachin Verma, an aspiring Web Developer and Competitive Programmer.  
+I have compiled many useful links for **Data Structures and Algorithms** questions and their solutions.  
+I have also listed the **Theory Subjects**, which are often ignored by students but must have vast knowledge of it to help them in their interviews
+I have also included the **Placement Ready Roadmap**, from `beginner level -> interview ready candidate`
+
+My coding handles:  
+`codeforces` [specialist](https://codeforces.com/profile/sachuverma)
+`leetcode` [1950+|Knight](https://leetcode.com/anjali-mc)
+`codechef` [4 star]()
+
 #### Table of Contents
 
 - [DATA STRUCTURES & ALGORITHMS](#data-structures--algorithms) - [Table of Contents](#table-of-contents)
