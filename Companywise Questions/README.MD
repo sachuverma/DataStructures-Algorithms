@@ -71,22 +71,22 @@
 
 ## JPMC
 
-- []() | Map, Array
-- []() | DFS, BFS, Binary Trees
-- []() | Dynamic Programming
-- []() | Heap, Dynamic Programming
+- [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Map, Array
+- [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | DFS, BFS, Binary Trees
+- [Number of distinct subsequences](https://leetcode.com/discuss/interview-question/algorithms/124943/number-of-distinct-subsequences) | Dynamic Programming
+- [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | Heap, Dynamic Programming
 
 ## Morgan Stanley
 
-- []() | Hashmap
-- []() | Dynamic Programming
-- []() | Maths
-- []() | Arrays, Linear Time Sorting
-- []() | DFS, BFS, DSU
-- []() | Array
-- []() | Dynamic Programming
-- []() | BFS
-- []() | Bit Manipulation
+- [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Hashmap
+- [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Dynamic Programming
+- [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | Maths
+- [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Arrays, Linear Time Sorting
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/) | DFS, BFS, DSU
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Array
+- [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Dynamic Programming
+- [Bus Routes](https://leetcode.com/problems/bus-routes/) | BFS
+- [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Bit Manipulation
 
 ## Paypal
 
