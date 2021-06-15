@@ -160,6 +160,7 @@
 - [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1# "view question") - [Cpp Solution](./solutions/Valid%20Substring.cpp)
 - [Expression contains redundant bracket or not](https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/ "view topic")
 - [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1# "view question") - [Cpp Solution](./solutions/Stack%20using%20two%20queues.cpp)
+- [Implement Stack and Queue using Deque](https://www.geeksforgeeks.org/implement-stack-queue-using-deque/ "view topic")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
