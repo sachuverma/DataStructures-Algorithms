@@ -162,6 +162,7 @@
 - [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1# "view question") - [Cpp Solution](./solutions/Stack%20using%20two%20queues.cpp)
 - [Implement Stack and Queue using Deque](https://www.geeksforgeeks.org/implement-stack-queue-using-deque/ "view topic")
 - [Stack Permutations (Check if an array is stack permutation of other)](https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/ "view topic")
+- [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1# "view question") - [Cpp Solution](./solutions/Queue%20using%20two%20Stacks.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
