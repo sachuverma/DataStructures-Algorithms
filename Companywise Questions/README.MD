@@ -60,14 +60,14 @@
 
 ## Microsoft
 
-- []() | 2 Pointers
-- []() | Binary Search
-- []() | Deque
-- []() | Maths
-- []() | Dynamic Programming
-- []() | Greedy, 2 Pointer
-- []() | Stack
-- []() | Tree
+- [Min Adj Swaps to Make Palindrome](https://leetcode.com/discuss/interview-question/351783/) | 2 Pointers
+- [Maximum value at index k](https://leetcode.com/discuss/interview-question/969033/Microsoft-or-Phone-Interview-or-Maximum-value-at-index-k) | Binary Search
+- [Microsoft Campus Hiring Coding Test Online](https://leetcode.com/discuss/interview-question/344216/microsoft-campus-hiring-coding-test-online) | Deque
+- [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | Maths
+- [Find the maximum product of two non overlapping palindromic subsequences](https://stackoverflow.com/questions/53663721/find-the-maximum-product-of-two-non-overlapping-palindromic-subsequences) | Dynamic Programming
+- [Activate Fountain](https://leetcode.com/discuss/interview-question/363036/walmart-oa-2019-activate-fountains) | Greedy, 2 Pointer
+- [Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/) | Stack
+- [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Tree
 
 ## JPMC
 
