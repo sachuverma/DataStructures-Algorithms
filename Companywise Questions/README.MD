@@ -50,13 +50,13 @@
 
 ## Flipkart
 
-- []() | Arrays
-- []() | String Manipulation
-- []() | Binary Search
-- []() | Kruskal, MST, DSU
-- []() | Arrays, Sorting
-- []() | BFS
-- []() | Graph, Floyd Warshall
+- [Next Permutation](https://leetcode.com/problems/next-permutation/) | Arrays
+- [Binary numbers](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/the-code-generator-9d3f9afa/) | String Manipulation
+- [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | Binary Search
+- [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Kruskal, MST, DSU
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Arrays, Sorting
+- [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | BFS
+- [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Graph, Floyd Warshall
 
 ## Microsoft
 
