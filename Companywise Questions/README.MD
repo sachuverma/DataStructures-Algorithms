@@ -90,39 +90,57 @@
 
 ## Paypal
 
-- []() | Dynamic Programming
-- []() | Brute Force
-- []() | BFS, DFS
-- []() | Map
-- []() | BFS
-- []() | Math, Map
-- []() | 2 Pointer, Arrays
-- []() | Bit Manipulation
+- [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | Dynamic Programming
+- [Split the array](https://leetcode.com/discuss/interview-question/775767/need-help-with-this-interview-question) | Brute Force
+- [Minimum-Knight-Moves](https://wentao-shao.gitbook.io/leetcode/graph-search/1197.minimum-knight-moves) | BFS, DFS
+- [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | Map
+- [Office Building placement](https://leetcode.com/discuss/interview-question/221639/) | BFS
+- [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | Math, Map
+- [Remove Element](https://leetcode.com/problems/remove-element/) | 2 Pointer, Arrays
+- [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | Bit Manipulation
 
 ## Phone Pe
 
-- []() | Arrays, Dynamic Programming
-- []() | Dynamic Programming
-- []() | Sliding Window
-- []() | Strings
-- []() | Map
+- [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | Arrays, Dynamic Programming
+- [Median of all non-empty subset sums](https://www.geeksforgeeks.org/median-of-all-non-empty-subset-sums/) | Dynamic Programming
+- [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | Sliding Window
+- [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) | Strings
+- [Brick Wall](https://leetcode.com/problems/brick-wall/) | Map
 
 ## SAP Labs
 
-- []() |
+- [Sorted Arrangements](https://leetcode.com/discuss/interview-question/371225/Sorted-Arrangements-or-Infosys-Specialist-Programmer-or-On-campus-hackerrank) | Segment Tree
+- [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Sliding Window, Strings
+- [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) | Prefix Sum
+- [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Dynamic Programming
+- [City Attractions | Can you make Palindrome](https://leetcode.com/discuss/interview-question/515737/sap-labs-oa) | DFS
+- [Maximal Square](https://leetcode.com/problems/maximal-square/) | Dynamic Programming
+- [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | String
+- [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | DP, Dynamic Programming
 
 ## Swiggy
 
-- []() |
+- [Prison Break](https://leetcode.com/discuss/interview-question/1002082/twillio-oa-prison-break) | Arrays
+- [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Dynamic Programming
+- [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | Dynamic Programming
+- [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | Binary Search
+- [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Greedy
 
 ## VM Ware
 
-- []() |
+- [Coin Change](https://leetcode.com/problems/coin-change/) | Dynamic Programming, Arrays
+- [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Arrays
+- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 2 Pointers
 
 ## Walmart Labs
 
-- []() |
+- [Longest subsequence which matches the regex 0*1*0*1*](https://leetcode.com/discuss/interview-question/412580/longest-subsequence-which-matches-the-regex-0101) | Dynamic Programming
+- [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Strings, Stack, Greedy
+- [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | Bit Manipulation
+- [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | Greedy
 
 ## Wells Fargo
 
-- []() |
+- [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | Maths, Dynamic Programming
+- [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Slding Window, Strings
+- [House Robber](https://leetcode.com/problems/house-robber/) | Dynamic Programming
