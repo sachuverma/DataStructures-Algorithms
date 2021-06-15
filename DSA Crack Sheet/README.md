@@ -161,6 +161,7 @@
 - [Expression contains redundant bracket or not](https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/ "view topic")
 - [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1# "view question") - [Cpp Solution](./solutions/Stack%20using%20two%20queues.cpp)
 - [Implement Stack and Queue using Deque](https://www.geeksforgeeks.org/implement-stack-queue-using-deque/ "view topic")
+- [Stack Permutations (Check if an array is stack permutation of other)](https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/ "view topic")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
