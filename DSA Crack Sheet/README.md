@@ -158,6 +158,7 @@
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/ "view question") - [Cpp Solution](./solutions/Merge%20Intervals.cpp)
 - [Maximum Rectangular Area in a Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1 "view question") - [Cpp Solution](./solutions/Maximum%20Rectangular%20Area%20in%20a%20Histogram.cpp)
 - [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1# "view question") - [Cpp Solution](./solutions/Valid%20Substring.cpp)
+- [Expression contains redundant bracket or not](https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/ "view topic")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
