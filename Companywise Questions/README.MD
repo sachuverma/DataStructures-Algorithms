@@ -30,10 +30,16 @@
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |
 - [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) |
 
-### Amazon
+### Cisco
 
-- []() |
+- [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |
+- [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) |
+- [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) |
+- [Course Schedule](https://leetcode.com/problems/course-schedule/) |
+- [Minesweeper](https://leetcode.com/problems/minesweeper/) |
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 
-### Amazon
+###
 
 - []() |
