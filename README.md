@@ -22,6 +22,10 @@ My coding handles:
 `leetcode` [2000+ | Knight](https://leetcode.com/anjali-mc)  
 `codechef` [4 star]()
 
+My social media handles:
+[LinkedIn](https://www.linkedin.com/in/sachuverma/)
+[Instagram](https://www.instagram.com/sachuverma_/)
+
 #### Table of Contents
 
 - [DATA STRUCTURES & ALGORITHMS](#data-structures--algorithms) - [Table of Contents](#table-of-contents)
