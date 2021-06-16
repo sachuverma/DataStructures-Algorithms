@@ -19,7 +19,7 @@ I have also included the **Placement Ready Roadmap**, from `beginner level -> in
 
 My coding handles:  
 `codeforces` [specialist](https://codeforces.com/profile/sachuverma)  
-`leetcode` [1950+ | Knight](https://leetcode.com/anjali-mc)  
+`leetcode` [2000+ | Knight](https://leetcode.com/anjali-mc)  
 `codechef` [4 star]()
 
 #### Table of Contents
@@ -656,10 +656,189 @@ Questions always revolves around the type of DB, why this DB, why not that DB, h
 
 ### 3️⃣ Object Oriented Programming
 
+What to expect from these resources,
+
+- To the point for your Interview Preparation
+- Sufficient for Academics
+
+<details open>
+  <summary style="font-size:1.15rem;">Resources</summary>
+
+- [C++](https://www.javatpoint.com/cpp-oops-concepts)
+- [Java](https://www.javatpoint.com/java-oops-concepts)
+
+</details>
+
 <details open>
   <summary style="font-size:1.15rem;">Overview</summary>
 
-- [Quick Notes to Follow]()
+- [What is Object Oriented Programming?](https://www.w3schools.com/cpp/cpp_oop.asp)
+  - Object oriented programming is about creating objects that contain both data and functions
+- [How Object Oriented Programming is related to the real world?](https://fdhgjhjhukj.medium.com/object-oriented-programming-with-real-world-example-63f69f917d62)
+  - Example
+- [Why to study OOPS?](https://www.c-sharpcorner.com/forums/why-we-need-oops-in-programming-language)
+- [Limitation of OOPS](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/CS101-2.1.2-AdvantagesDisadvantagesOfOOP-FINAL.pdf)
+- When we say that 'X' language is object oriented programming language, then what does we mean by that ?
+  - Your Homework
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Pillars of OOPS</summary>
+
+- [What is a Class?](https://www.guru99.com/java-oops-class-objects.html)
+  - [Difference between Structure & Class](https://www.geeksforgeeks.org/structure-vs-class-in-cpp/)
+  - [Similarity between Structure & Class](https://practice.geeksforgeeks.org/problems/what-are-similarities-between-a-class-and-a-structure)
+    - When to use Structure over class?
+  - [Access Modifiers](https://www.javatpoint.com/access-modifiers)
+    - Public
+    - Private
+    - Protected
+    - Friend
+      - Protected Friend
+  - [Member Function](https://www.studytonight.com/cpp/types-of-member-function.php)
+    - Inside Class Function
+    - Outside Class Function
+  - [What is Constructor?](https://www.geeksforgeeks.org/constructors-c/)
+    - Default Constructor
+    - Parameterised Constructor
+    - Copy Constructor
+      - [What is Deep/Shallow Copy?](https://www.geeksforgeeks.org/difference-between-shallow-and-deep-copy-of-a-class/)
+      - [Copy Constructor vs Assignment Operator](https://www.geeksforgeeks.org/copy-constructor-vs-assignment-operator-in-c/)
+    - [Virtual Constructor](https://www.tutorialspoint.com/virtual-constructor-in-cplusplus)
+    - [Virtual Copy Constructor](https://www.tutorialspoint.com/virtual-copy-constructor-in-cplusplus)
+    - [How constructors are different from a normal member function?](https://iq.opengenus.org/constructor-cpp/)
+    - [Can we have more than one constructor in a class?](https://stackoverflow.com/questions/37517522/why-would-you-need-to-use-more-than-one-constructor)
+      - Constructor Overloading
+  - [Destructor](https://www.geeksforgeeks.org/destructors-c/)
+    - [Private Destructor](https://www.geeksforgeeks.org/private-destructor/)
+    - [Virtual Destructor](https://www.geeksforgeeks.org/virtual-destructor/)
+    - [Pure Virtual Destructor](https://www.geeksforgeeks.org/pure-virtual-destructor-c/)
+    - [How destructors are different from a normal member function?](https://www.tutorialspoint.com/destructors-in-cplusplus)
+    - [Can there be more than one destructor in a class?](https://stackoverflow.com/questions/21934810/why-a-class-has-only-one-destructor/21934951)
+    - [When do we need to write a user-defined destructor?](https://stackoverflow.com/questions/22491174/when-do-we-need-to-define-destructors)
+    - Can a destructor be virtual?
+      - [When to use it?](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors)
+- What is an Object?
+  - [Class vs Object](https://www.javatpoint.com/difference-between-object-and-class)
+- [Real world analogy of Class and Object?](https://www.c-sharpcorner.com/blogs/real-life-examples-of-object-oriented-programming1)
+- Important Keywords
+  - [Static](https://www.youth4work.com/Talent/Core-Java/Forum/119567-wat-is-the-use-of-a-static-keyword?yFast=On)
+  - [Virtual](https://www.codeproject.com/Questions/270054/why-virtual-keyword-is-used)
+  - [Abstract](https://www.tutorialspoint.com/abstract-keyword-in-Java)
+  - [Final](https://www.javatpoint.com/final-keyword)
+  - [Explicit](https://www.geeksforgeeks.org/g-fact-93/)
+  - [this](https://www.javatpoint.com/this-keyword)
+  - [new](https://www.javatpoint.com/new-keyword-in-java)
+  - [const](https://stackoverflow.com/questions/7428358/why-const-keyword-is-not-used-in-java)
+  - [super](https://www.javatpoint.com/super-keyword)
+- Features of OOPS
+  - Polymorphism
+    - [What?](https://www.javatpoint.com/runtime-polymorphism-in-java)
+    - [Need?](https://stackoverflow.com/questions/11064409/why-to-use-polymorphism)
+    - Categorisation
+      - [Function/Operator Overloading](https://www.javatpoint.com/cpp-overloading)
+        - [Compiletime Polymorphism](https://www.dineshonjava.com/compile-time-polymorphism-in-java/)
+        - [What function can't be overloaded in C++?](https://www.geeksforgeeks.org/function-overloading-in-c/)
+        - [What are all operators that can't be overloaded?](https://www.tutorialspoint.com/operators-that-cannot-be-overloaded-in-cplusplus)
+      - [Function Overriding](https://www.javatpoint.com/runtime-polymorphism-in-java)
+        - Runtime Polymorphism
+    - [Virtual Function](https://www.javatpoint.com/cpp-virtual-function)
+    - [Virtual Class](https://www.geeksforgeeks.org/virtual-base-class-in-c/)
+    - [Derived Class](https://www.techopedia.com/definition/3780/derived-class)
+    - [Can virtual function be set private?](https://www.geeksforgeeks.org/can-virtual-functions-be-private-in-c/)
+    - [Inline Virtual Function](https://stackoverflow.com/questions/733737/are-inline-virtual-functions-really-a-non-sense)
+    - [Abstract Class](https://www.javatpoint.com/abstract-class-in-java)
+    - [Pure Virtual Function](https://www.geeksforgeeks.org/pure-virtual-functions-and-abstract-classes/)
+    - [Pure Virtual Destructor](https://stackoverflow.com/questions/1219607/why-do-we-need-a-pure-virtual-destructor-in-c)
+  - Inheritance
+    - [What is Inheritance?](https://www.javatpoint.com/inheritance-in-java)
+      - Sub Class
+      - Super Class
+      - Reusability
+    - [Why/Need of Inheritance?](https://www.youth4work.com/Talent/Core-Java/Forum/121637-what-is-the-need-of-inheritance?yFast=On)
+    - [Can Object Oriented Programming exist without Inheritance?](https://yourbasic.org/golang/inheritance-object-oriented/)
+    - [Types of Inheritance](https://www.studytonight.com/cpp/types-of-inheritance.php)
+      - Single Inheritance
+      - Multiple Inheritance
+      - Hierarchical Inheritance
+      - Multilevel Inheritance
+      - Hybrid/Virtual Inheritance
+    - [Real Life Example of Multiple Inheritance](https://www.quora.com/What-are-the-real-world-examples-of-multiple-inheritance-in-C++)
+    - [What are the limitations of Inheritance?](https://practice.geeksforgeeks.org/problems/what-are-advantages-and-disadvantages-of-using-inheritance)
+    - [What is Sealed Modifier?](https://www.c-sharpcorner.com/interview-question/what-is-sealed-modifiers)
+    - [How can we call the base method without creating an instance?](https://stackoverflow.com/questions/10173827/how-to-invoke-parent-class-method-without-creating-object-of-it)
+    - [What is the difference between new and override?](https://stackoverflow.com/questions/6576206/what-is-the-difference-between-the-override-and-new-keywords-in-c)
+    - [Why Java does not support Multiple Inheritance?](https://stackoverflow.com/questions/2515477/why-is-there-no-multiple-inheritance-in-java-but-implementing-multiple-interfac)
+    - [What is diamond problem in case of multiple inheritance in Java?](https://www.tutorialspoint.com/what-is-diamond-problem-in-case-of-multiple-inheritance-in-java)
+    - If a class A inherits from class B, then what all is inherited from Parent class?
+      - Explore Every Combination
+    - [Object Slicing](https://stackoverflow.com/questions/274626/what-is-object-slicing)
+    - [How to hide base class methods/functions?](https://stackoverflow.com/questions/2589146/overload-and-hide-methods-in-java)
+    - Friend Function/Class.Inline Function
+    - Local Class/Nested Class.Simulating Final Class
+    - [Does Overloading works with Inheritance?](https://www.geeksforgeeks.org/does-overloading-work-with-inheritance/)
+    - [Difference between polymorphism and inheritance?](https://www.geeksforgeeks.org/difference-between-inheritance-and-polymorphism/)
+    - [Generalisation vs Aggregation vs Composition](https://javapapers.com/oops/association-aggregation-composition-abstraction-generalization-realization-dependency/)
+  - Encapsulation
+    - [What?](https://www.javatpoint.com/encapsulation)
+      - Combo of Data-hiding & Abstraction
+    - [Advantages/Needs?](https://www.javatpoint.com/q/7216/use-of-encapsulation-in-java)
+    - [How to achieve?](https://www.quora.com/How-do-we-achieve-encapsulation-in-java)
+    - [Code/implementation Example](https://beginnersbook.com/2013/05/encapsulation-in-java/)
+    - [Real World Example](https://www.sitesbay.com/java/java-encapsulation)
+  - Abstraction
+    - [What?](https://www.javatpoint.com/javascript-oops-abstraction)
+      - Implementation hiding
+    - When to use?
+    - [How to achieve?](https://www.javatpoint.com/how-to-achieve-abstraction-in-java)
+      - C++
+        - Access Specifiers
+        - header Files
+      - Java
+        - Interfaces
+        - Abstract Classes
+    - [Encapsulation vs Abstraction](https://stackoverflow.com/questions/12072980/encapsulation-vs-abstraction-real-world-example)
+      - Example
+    - [What are the differences between interfaces and abstract classes?](https://www.javatpoint.com/difference-between-abstract-class-and-interface)
+- [Dynamic Binding](https://www.javatpoint.com/static-binding-and-dynamic-binding)
+- [Message Passing](https://www.panonit.com/blog/overview-message-passing-object-oriented-programming)
+- Object-oriented design interview questions
+  - [Design a hash map](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/hash_table/hash_map.ipynb)
+  - [Design a LRU cache](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/lru_cache/lru_cache.ipynb)
+  - [Design a call center](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/call_center/call_center.ipynb)
+  - [Design a deck of cards](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb)
+  - [Design a parking lot](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/parking_lot/parking_lot.ipynb)
+  - [Design an online chat](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/online_chat/online_chat.ipynb)
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Misc</summary>
+
+- [C vs C++ vs Java](https://www.edureka.co/blog/difference-between-c-c-and-java)
+- [Difference between procedural programming and OOPs?](https://www.geeksforgeeks.org/differences-between-procedural-and-object-oriented-programming/)
+- [Why Java is not a Purely Object Oriented Language?](https://www.geeksforgeeks.org/java-not-purely-object-oriented-language/)
+- [Is an array a primitive type or an object in Java?](https://www.geeksforgeeks.org/array-primitive-type-object-java/)
+- [What is early and late binding?](https://stackoverflow.com/questions/10580/what-is-the-difference-between-early-and-late-binding)
+- [What is the default access modifier in a calss?](https://stackoverflow.com/questions/3499572/what-is-the-default-access-modifier-of-a-class)
+- [How many instances can be created for an abstract class?](https://www.quora.com/Can-we-create-instance-to-abstract-class)
+- [Define Garbage collection? How does it works](https://stackify.com/what-is-java-garbage-collection/)
+- [Define manipulators](https://www.geeksforgeeks.org/manipulators-in-c-with-examples/)
+- [What fo you mean by finally block?](https://www.javatpoint.com/finally-block-in-exception-handling)
+- [What is a final variable?](https://www.educative.io/edpresso/what-is-the-final-keyword-in-java)
+- [What is meant by an exception?](http://www.iitk.ac.in/esc101/05Aug/tutorial/essential/exceptions/definition.html)
+- [Is an error basically the same as an exception?](https://www.quora.com/What-is-the-difference-between-error-and-an-exception)
+- Exception handling?
+  - [try catch](https://beginnersbook.com/2013/04/try-catch-in-java/)
+- [What is the method 'finalize' used for?](https://www.javatpoint.com/java-object-finalize-method)
+- [What is a token?](https://www.geeksforgeeks.org/cc-tokens/)
+- [What are the three arguments of a ternary operator?](https://www.freecodecamp.org/news/c-ternary-operator/)
+- [Describe the concept of enum](https://www.geeksforgeeks.org/enumeration-enum-c/)
+- [Basic understanding of Design Patterns](https://www.javatpoint.com/singleton-design-pattern-in-java)
+- Is it possible for a class to inherit the constructor of it's base class?
+- [When should I use a struct instead of a class?](https://stackoverflow.com/questions/85553/when-should-i-use-a-struct-instead-of-a-class)
+- [Cohesion vs Coupling](https://stackoverflow.com/questions/3085285/difference-between-cohesion-and-coupling)
 
 </details>
 
