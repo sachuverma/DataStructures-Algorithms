@@ -123,6 +123,9 @@
 
 ### Linked-List
 
+- [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1# "view question") - [Cpp Solution](./solutions/Reverse%20a%20linked%20list.cpp)
+- []( "view question") - [Cpp Solution](./solutions/.cpp)
+
 ### Binary Tree
 
 ### Binary Search Tree
@@ -178,6 +181,7 @@
 - [Sum of minimum and maximum elements of all subarrays of size k](https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/ "view topic")
 - [Game with String](https://practice.geeksforgeeks.org/problems/game-with-string4100/1# "view question") - [Cpp Solution](./solutions/Game%20with%20String.cpp)
 - [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1# "view question") - [Cpp Solution](./solutions/First%20non-repeating%20character%20in%20a%20stream.cpp)
+- [Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1 "view question") - [Cpp Solution](./solutions/Next%20Greater%20Element.cpp)
 - [Next Smaller Element](https://www.geeksforgeeks.org/next-smaller-element/ "view topic")
 
 ### Heap
