@@ -167,6 +167,7 @@
 - [Circular Queue](https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/ "view topic")
 - [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1# "view question") - [Cpp Solution](./solutions/LRU%20Cache.cpp)
 - [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1# "view question") - [Cpp Solution](./solutions/Queue%20Reversal.cpp)
+- [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1# "view question") - [Cpp Solution](./solutions/Reverse%20First%20K%20elements%20of%20Queue.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
