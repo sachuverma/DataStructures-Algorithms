@@ -171,6 +171,7 @@
 - [Interleave the first half of the queue with second half](https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/ "view topic")
 - [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1# "view question") - [Cpp Solution](./solutions/Circular%20tour.cpp)
 - [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1 "view question") - [Cpp Solution](./solutions/Rotten%20Oranges.cpp)
+- [Distance of nearest cell having 1](https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1# "view question") - [Cpp Solution](./solutions/Distance%20of%20nearest%20cell%20having%201.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
