@@ -34,7 +34,7 @@ Constraints:
 
 string FirstNonRepeating(string A)
 {
-  list<char> dq, temp;
+  list<char> dll, temp;
   vector<int> repeated(26, 0);
   vector<list<char>::iterator> ptrs(26, temp.begin());
   string ans;
@@ -43,19 +43,19 @@ string FirstNonRepeating(string A)
   {
     if (!repeated[i - 'a'] && ptrs[i - 'a'] == temp.begin())
     {
-      dq.push_back(i);
-      auto it = dq.end();
+      dll.push_back(i);
+      auto it = dll.end();
       it--;
       ptrs[i - 'a'] = it;
     }
     else if (!repeated[i - 'a'] && ptrs[i - 'a'] != temp.begin())
     {
-      dq.erase(ptrs[i - 'a']);
+      dll.erase(ptrs[i - 'a']);
       repeated[i - 'a'] = 1;
     }
 
-    if (dq.size())
-      ans.push_back(dq.front());
+    if (dll.size())
+      ans.push_back(dll.front());
     else
       ans.push_back('#');
   }
