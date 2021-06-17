@@ -166,6 +166,7 @@
 - [How to efficiently implement k Queues in a single array?](https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/ "view topic")
 - [Circular Queue](https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/ "view topic")
 - [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1# "view question") - [Cpp Solution](./solutions/LRU%20Cache.cpp)
+- [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1# "view question") - [Cpp Solution](./solutions/Queue%20Reversal.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
