@@ -170,6 +170,7 @@
 - [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1# "view question") - [Cpp Solution](./solutions/Reverse%20First%20K%20elements%20of%20Queue.cpp)
 - [Interleave the first half of the queue with second half](https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/ "view topic")
 - [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1# "view question") - [Cpp Solution](./solutions/Circular%20tour.cpp)
+- [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1 "view question") - [Cpp Solution](./solutions/Rotten%20Oranges.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
