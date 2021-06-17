@@ -175,6 +175,8 @@
 - [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1# "view question") - [Cpp Solution](./solutions/First%20negative%20integer%20in%20every%20window%20of%20size%20k.cpp)
 - [Check if all levels of two trees are anagrams or not](https://www.geeksforgeeks.org/check-if-all-levels-of-two-trees-are-anagrams-or-not/ "view topic")
 - [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1 "view question") - [Cpp Solution](./solutions/Maximum%20of%20all%20subarrays%20of%20size%20k.cpp)
+- [Sum of minimum and maximum elements of all subarrays of size k](https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/ "view topic")
+- [Game with String](https://practice.geeksforgeeks.org/problems/game-with-string4100/1# "view question") - [Cpp Solution](./solutions/Game%20with%20String.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
