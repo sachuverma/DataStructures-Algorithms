@@ -177,6 +177,7 @@
 - [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1 "view question") - [Cpp Solution](./solutions/Maximum%20of%20all%20subarrays%20of%20size%20k.cpp)
 - [Sum of minimum and maximum elements of all subarrays of size k](https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/ "view topic")
 - [Game with String](https://practice.geeksforgeeks.org/problems/game-with-string4100/1# "view question") - [Cpp Solution](./solutions/Game%20with%20String.cpp)
+- [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1# "view question") - [Cpp Solution](./solutions/First%20non-repeating%20character%20in%20a%20stream.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
