@@ -43,7 +43,6 @@ public:
       }
       j++;
     }
-
     return ans;
   }
 };
