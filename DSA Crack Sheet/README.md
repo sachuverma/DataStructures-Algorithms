@@ -168,6 +168,8 @@
 - [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1# "view question") - [Cpp Solution](./solutions/LRU%20Cache.cpp)
 - [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1# "view question") - [Cpp Solution](./solutions/Queue%20Reversal.cpp)
 - [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1# "view question") - [Cpp Solution](./solutions/Reverse%20First%20K%20elements%20of%20Queue.cpp)
+- [Interleave the first half of the queue with second half](https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/ "view topic")
+- [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1# "view question") - [Cpp Solution](./solutions/Circular%20tour.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
