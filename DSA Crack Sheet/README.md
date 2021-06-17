@@ -129,6 +129,7 @@
 - [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1# "view question") - [Cpp Solution](./solutions/Remove%20loop%20in%20Linked%20List.cpp)
 - [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/ "view topic")
 - [Remove duplicate element from sorted Linked List](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1# "view question") - [Cpp Solution](./solutions/Remove%20duplicate%20element%20from%20sorted%20Linked%20List.cpp)
+- [Remove duplicates from an unsorted linked list](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1# "view question") - [Cpp Solution](./solutions/Remove%20duplicates%20from%20an%20unsorted%20linked%20list.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Tree
