@@ -164,6 +164,8 @@
 - [Stack Permutations (Check if an array is stack permutation of other)](https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/ "view topic")
 - [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1# "view question") - [Cpp Solution](./solutions/Queue%20using%20two%20Stacks.cpp)
 - [How to efficiently implement k Queues in a single array?](https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/ "view topic")
+- [Circular Queue](https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/ "view topic")
+- [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1# "view question") - [Cpp Solution](./solutions/LRU%20Cache.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Heap
