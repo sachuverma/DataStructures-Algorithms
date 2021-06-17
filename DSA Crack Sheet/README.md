@@ -133,6 +133,7 @@
 - [Move last element to front of a given Linked List](https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/ "view topic")
 - [Add 1 to a number represented as linked list](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1# "view question") - [Cpp Solution](./solutions/Add%201%20to%20a%20number%20represented%20as%20linked%20list.cpp)
 - [Add two numbers represented by linked lists](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1# "view question") - [Cpp Solution](./solutions/Add%20two%20numbers%20represented%20by%20linked%20lists.cpp)
+- [Intersection of two sorted Linked lists](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1# "view question") - [Cpp Solution](./solutions/Intersection%20of%20two%20sorted%20Linked%20lists.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Tree
