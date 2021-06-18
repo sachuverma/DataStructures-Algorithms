@@ -136,7 +136,7 @@
 - [Intersection of two sorted Linked lists](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1# "view question") - [Cpp Solution](./solutions/Intersection%20of%20two%20sorted%20Linked%20lists.cpp)
 - [Intersection Point in Y Shapped Linked Lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1 "view question") - [Cpp Solution](./solutions/Intersection%20Point%20in%20Y%20Shapped%20Linked%20Lists.cpp)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/ "view question") - [Cpp Solution](./solutions/Middle%20of%20the%20Linked%20List.cpp)
-- []( "view question") - [Cpp Solution](./solutions/.cpp)
+- [Merge Sort for Linked List](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1# "view question") - [Cpp Solution](./solutions/Merge%20Sort%20for%20Linked%20List.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Tree
