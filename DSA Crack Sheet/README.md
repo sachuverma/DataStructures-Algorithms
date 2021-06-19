@@ -143,6 +143,8 @@
 - [Check if Linked List is Palindrome](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1# "view question") - [Cpp Solution](./solutions/Check%20if%20Linked%20List%20is%20Palindrome.cpp)
 - [Deletion from a Circular Linked List](https://www.geeksforgeeks.org/deletion-circular-linked-list/ "view post")
 - [Reverse a Doubly Linked List](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1# "view question") - [Cpp Solution](./solutions/Reverse%20a%20Doubly%20Linked%20List.cpp)
+- [Find pairs with given sum in doubly linked list](https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/ "view post")
+- [Count triplets in a sorted doubly linked list whose sum is equal to a given value x](https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/ "view post")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Tree
