@@ -483,6 +483,8 @@ A problem is added here each day.
   <summary><span style="font-size:1.15rem;"> <a href="https://www.os-book.com/OS9/slide-dir/index.html">For College Exams</a></span></summary>
 </details>
 
+<br />
+
 ### 2️⃣ Database Management & Design
 
 Tech Gaints: They usually ask only a bit about normalization, ACID properties(imp.) ans SQP queries & interview is done
@@ -695,6 +697,8 @@ Questions always revolves around the type of DB, why this DB, why not that DB, h
 
 </details>
 
+<br />
+
 ### 3️⃣ Object Oriented Programming
 
 What to expect from these resources,
@@ -883,6 +887,8 @@ What to expect from these resources,
 
 </details>
 
+<br />
+
 ### 4️⃣ Computer Networks
 
 <details open>
@@ -892,6 +898,7 @@ What to expect from these resources,
 
 </details>
 
+<br />
 <br/>
 
 ## 🏆 Other Notes and Resources
