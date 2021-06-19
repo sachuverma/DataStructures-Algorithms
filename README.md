@@ -929,8 +929,6 @@ Urls for other Notes, and Reading Resources picked from different editorials.
 
 <br />
 
-<br />
-
 ## 🏆 Sources
 
 Other coding websites, `hackerearth`, `gfg`, `leetcode`, `codechef`, `codeforces`  
