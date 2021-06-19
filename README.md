@@ -37,6 +37,7 @@ My social media handles:
   - [🔰Notes and Resources](#other-notes-and-resources)
     - [🔖Best book for Coding Interviews](#best-book-for-coding-interviews)
     - [🔰DSA Crack Sheet](#dsa-crack-sheet)
+    - [🔰Striver SDE Sheet](#striver-sde-sheet)
     - [🔰Top Interview Preparation Questions](#top-interview-preparation-questions)
     - [🔰Companywise Interview Questions](#companywise-interview-questions)
     - [🔰Leetcode Daily Challenges](#leetcode-daily-challenges)
@@ -886,22 +887,30 @@ Urls for other Notes, and Reading Resources picked from different editorials.
 <details>
   <summary>Notes/Question/Explanations</summary>
   
-- [📒 Dynamic Programming and Bit Masking](./Resources/Notes/Dynamic%20Programming%20and%20Bit%20Masking.md)
-- [📒 Disjoint Set Union (Union Find)](./Resources/Notes/Disjoint%20Set%20Union.md)
-- [📒 Ternary Search](./Resources/Notes/Ternary%20Search.md)
-- [📒 Binary Search for Beginners (leetcode)](https://leetcode.com/discuss/general-discussion/691825/Binary-Search-for-Beginners-Problems-or-Patterns-or-Sample-solutions)
-- [📕 Dynamic Programming (questions)](./Resources/Questions/Dynamic-Programming.md)
-- [📕 Union Find (questions)](./Resources/Questions/Union-Find.md)
-- [📕 Ternary Search (questions)](./Resources/Questions/Ternary-Search.md)
+- [📒 Segment Tree | HackerEarth](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/)
+- [📕 Dynamic Programming | HackerEarth)](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)
+- [📒 Disjoint Set Union (Union Find) | HackerEarth](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)
+- [📕 Ternary Search | HackerEarth](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial/)
+- [📒 Binary Search for Beginners | Leetcode](https://leetcode.com/discuss/general-discussion/691825/Binary-Search-for-Beginners-Problems-or-Patterns-or-Sample-solutions)
 </details>
 
 <br />
 
+<p>
+Remember: Deliberate practice does not mean looking for answers and memorizing it. You won't go very far with that approach. The more you are able to solve a problem yourself without any reference to answers, the more you will improve.
+</p>
+
 ### [🔰DSA Crack Sheet](./DSA%20Crack%20Sheet)
 
-Data Structures and Algorithms Cracks Sheet contains most necessary questions to learn and grasp about most common and important DS and Algos
+Data Structures and Algorithms Cracks Sheet (created by @lovebabbar) contains most necessary questions to learn and grasp about most common and important DS and Algos
 
-  <!-- ### [Questions List](./DSA%20Crack%20Sheet) -->
+<br />
+
+### [🔰Striver SDE Sheet](./Striver%20Sheet)
+
+Software Developer Engineer Sheet (created by @striver) contains asked during interwies by good product based companies.
+
+The sheet is divided in 30 parts to be completed in a month to get ready for interview at a good company
 
 <br />
 
@@ -909,14 +918,16 @@ Data Structures and Algorithms Cracks Sheet contains most necessary questions to
 
 This is LeetCode's official curated list of Top classic interview questions to help you land your dream job. Our top interview questions are divided into the following series:
 
-Remember: Deliberate practice does not mean looking for answers and memorizing it. You won't go very far with that approach. The more you are able to solve a problem yourself without any reference to answers, the more you will improve.
 <br />
 
 ### [🔰Companywise Interview Questions](./Companywise%20Questions)
 
-It is containing the list of company wise questions available on leetcode premium.
-Every pdf file corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. The list of questions within each pdf is further sorted by their frequency, so the most popular question for a specific company is at the top.  
-[Download All PDFs](https://mega.nz/folder/HkoglB7C#o2K_WMwTKFgdk_powwR9-g)
+It is containing the list of most asked company wise questions available on Leetcode.
+
+> [Download Full PDFs](https://mega.nz/folder/HkoglB7C#o2K_WMwTKFgdk_powwR9-g)
+
+Every pdf file corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags.
+The list of questions within each pdf is further sorted by their frequency, so the most popular question for a specific company is at the top.
 
 <!-- ### [Question List](./Companywise%20Questions)   -->
 <br />
