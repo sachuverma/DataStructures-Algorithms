@@ -157,6 +157,7 @@
 - [Multiply two linked lists](https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1# "view question") - [Cpp Solution](./solutions/Multiply%20two%20linked%20lists.cpp)
 - [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1# "view question") - [Cpp Solution](./solutions/Delete%20nodes%20having%20greater%20value%20on%20right.cpp)
 - [Segregate even and odd nodes in a Link List](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1 "view question") - [Cpp Solution](./solutions/Segregate%20even%20and%20odd%20nodes%20in%20a%20Link%20List.cpp)
+- [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1# "view question") - [Cpp Solution](./solutions/Nth%20node%20from%20end%20of%20linked%20list.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Tree
