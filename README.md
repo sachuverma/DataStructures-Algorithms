@@ -62,8 +62,6 @@ Gone are the days when there were only few good companies, Now there are a lot o
 `Great Projects/Learning`  
 Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9NdApRf4TW1I/view?usp=sharing), and decide where you want to land.
 
-<br/>
-
 ### 2️⃣ Language, Data Structures, CP
 
 <details open>
@@ -190,21 +188,15 @@ Remember: Deliberate practice does not mean looking for answers and memorizing i
 
 Data Structures and Algorithms Cracks Sheet (created by @lovebabbar) contains most necessary questions to learn and grasp about most common and important DS and Algos
 
-<br />
-
 ### [🔰Striver SDE Sheet](./Striver%20Sheet)
 
 Software Developer Engineer Sheet (created by @striver) contains asked during interwies by good product based companies.
 
 The sheet is divided in 30 parts to be completed in a month to get ready for interview at a good company
 
-<br />
-
 ### [🔰Top Interview Preparation Questions](./Leetcode%20Top%20Interview%20Questions)
 
 This is LeetCode's official curated list of Top classic interview questions to help you land your dream job. Our top interview questions are divided into the following series:
-
-<br />
 
 ### [🔰Companywise Interview Questions](./Companywise%20Questions)
 
@@ -214,9 +206,6 @@ It is containing the list of most asked company wise questions available on Leet
 
 Every pdf file corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags.
 The list of questions within each pdf is further sorted by their frequency, so the most popular question for a specific company is at the top.
-
-<!-- ### [Question List](./Companywise%20Questions)   -->
-<br />
 
 ### [🔰Leetcode Daily Challenges](./Leetcode%20Daily%20Challenge)
 
@@ -494,8 +483,6 @@ A problem is added here each day.
   <summary><span style="font-size:1.15rem;"> <a href="https://www.os-book.com/OS9/slide-dir/index.html">For College Exams</a></span></summary>
 </details>
 
-<br/>
-
 ### 2️⃣ Database Management & Design
 
 Tech Gaints: They usually ask only a bit about normalization, ACID properties(imp.) ans SQP queries & interview is done
@@ -708,8 +695,6 @@ Questions always revolves around the type of DB, why this DB, why not that DB, h
 
 </details>
 
-<br/>
-
 ### 3️⃣ Object Oriented Programming
 
 What to expect from these resources,
@@ -898,14 +883,12 @@ What to expect from these resources,
 
 </details>
 
-<br/>
-
 ### 4️⃣ Computer Networks
 
 <details open>
   <summary style="font-size:1.15rem;">Overview</summary>
 
-- [Quick Notes to Follow]()
+- [Coming Soon :)]()
 
 </details>
 
