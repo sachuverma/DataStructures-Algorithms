@@ -898,7 +898,6 @@ What to expect from these resources,
 
 </details>
 
-<br />
 <br/>
 
 ## 🏆 Other Notes and Resources
