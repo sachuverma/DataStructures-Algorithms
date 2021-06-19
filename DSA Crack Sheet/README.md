@@ -145,6 +145,9 @@
 - [Reverse a Doubly Linked List](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1# "view question") - [Cpp Solution](./solutions/Reverse%20a%20Doubly%20Linked%20List.cpp)
 - [Find pairs with given sum in doubly linked list](https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/ "view post")
 - [Count triplets in a sorted doubly linked list whose sum is equal to a given value x](https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/ "view post")
+- [Sort a k sorted doubly linked list](https://www.geeksforgeeks.org/sort-k-sorted-doubly-linked-list/ "view post")
+- [Rotate Doubly linked list by N nodes](https://www.geeksforgeeks.org/rotate-doubly-linked-list-n-nodes/ "view post")
+- [Reverse a doubly linked list in groups of given size](https://www.geeksforgeeks.org/reverse-doubly-linked-list-groups-given-size/ "view post")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Tree
