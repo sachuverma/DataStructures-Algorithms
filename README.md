@@ -40,15 +40,15 @@ My social media handles:
     - [🔰 Leetcode Daily Challenges](#leetcode-daily-challenges)
   - [🏆 Theory Subjects](#-theory-subjects)
     - [1️⃣ Operating System](#1%EF%B8%8F⃣-operating-system)
-    - [2️⃣ Database Management & Design](#2%EF%B8%8F⃣-database-management)
+    - [2️⃣ Database Management & Design](#2%EF%B8%8F⃣-database-management--design)
     - [3️⃣ Object Oriented Programming](#3%EF%B8%8F⃣-object-oriented-programming)
     - [4️⃣ Computer Networks](#4%EF%B8%8F⃣-computer-networks)
   - [🏆 Notes and Resources](#-other-notes-and-resources)
     - [🔖Best book for Coding Interviews](#best-book-for-coding-interviews---cracking-the-coding-interview)
-  - [🏆Sources](#sources)
-  - [🏆Contributing](#contributing)
-  - [🏆License](#license)
-  - [🏆Contact](#contact)
+  - [🏆 Sources](#-sources)
+  - [🏆 Contributing](#-contributing)
+  - [🏆 License](#-license)
+  - [🏆 Contact](#-contact)
 
 <br />
 
@@ -948,14 +948,14 @@ Urls for other Notes, and Reading Resources picked from different editorials.
 
 <br />
 
-## 🏆Sources
+## 🏆 Sources
 
 Other coding websites, `hackerearth`, `gfg`, `leetcode`, `codechef`, `codeforces`  
 Youtube channels, `love babbar`, `take you forward`,
 
 <!-- CONTRIBUTING -->
 
-## 🏆Contributing
+## 🏆 Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -967,13 +967,13 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- LICENSE -->
 
-## 🏆License
+## 🏆 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 
-## 🏆Contact
+## 🏆 Contact
 
 Project Link: [https://github.com/sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms)  
 Sachin Verma : [sachinverma53121@gmail.com](sachinverma53121.gmail.com)
