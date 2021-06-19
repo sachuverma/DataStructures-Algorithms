@@ -155,6 +155,7 @@
 - [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1# "view question") - [Cpp Solution](./solutions/Clone%20a%20linked%20list%20with%20next%20and%20random%20pointer.cpp)
 - [Merge K sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1# "view question") - [Cpp Solution](./solutions/Merge%20K%20sorted%20linked%20lists.cpp)
 - [Multiply two linked lists](https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1# "view question") - [Cpp Solution](./solutions/Multiply%20two%20linked%20lists.cpp)
+- [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1# "view question") - [Cpp Solution](./solutions/Delete%20nodes%20having%20greater%20value%20on%20right.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Tree
