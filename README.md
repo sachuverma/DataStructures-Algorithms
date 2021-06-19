@@ -29,18 +29,22 @@ My social media handles:
 #### Table of Contents
 
 - [DATA STRUCTURES & ALGORITHMS](#data-structures--algorithms) - [Table of Contents](#table-of-contents)
-  - [🏆 Roadmap to Dream Placement](#-roadmap-to-dream-placement)
-  - [1️⃣ Operating System](#1%EF%B8%8F⃣-operating-system)
-  - [2️⃣ Database Management & Design](#2%EF%B8%8F⃣-database-management)
-  - [3️⃣ Object Oriented Programming](#3%EF%B8%8F⃣-object-oriented-programming)
-  - [4️⃣ Computer Networks](#4%EF%B8%8F⃣-computer-networks)
-  - [🔰Notes and Resources](#other-notes-and-resources)
+  - [🏆 Roadmap to Dream Placement](#roadmap-to-dream-placement)
+    - [1️⃣ 100+ Top Product Based Companies](#1%EF%B8%8F⃣100+-Top-Product-Based-Companies)
+    - [2️⃣ Language, Data Structures, CP](#2%EF%B8%8F⃣Language,-Data-Structures,-CP)
+  - [🏆 DSA Practice Resources](#dsa-practice-resources)
+    - [🔰 DSA Crack Sheet](#dsa-crack-sheet)
+    - [🔰 Striver SDE Sheet](#striver-sde-sheet)
+    - [🔰 Top Interview Preparation Questions](#top-interview-preparation-questions)
+    - [🔰 Companywise Interview Questions](#companywise-interview-questions)
+    - [🔰 Leetcode Daily Challenges](#leetcode-daily-challenges)
+  - [🏆 Theory Subjects](#theory-subjects)
+    - [1️⃣ Operating System](#1%EF%B8%8F⃣-operating-system)
+    - [2️⃣ Database Management & Design](#2%EF%B8%8F⃣-database-management)
+    - [3️⃣ Object Oriented Programming](#3%EF%B8%8F⃣-object-oriented-programming)
+    - [4️⃣ Computer Networks](#4%EF%B8%8F⃣-computer-networks)
+  - [🏆 Notes and Resources](#other-notes-and-resources)
     - [🔖Best book for Coding Interviews](#best-book-for-coding-interviews)
-    - [🔰DSA Crack Sheet](#dsa-crack-sheet)
-    - [🔰Striver SDE Sheet](#striver-sde-sheet)
-    - [🔰Top Interview Preparation Questions](#top-interview-preparation-questions)
-    - [🔰Companywise Interview Questions](#companywise-interview-questions)
-    - [🔰Leetcode Daily Challenges](#leetcode-daily-challenges)
   - [🏆Sources](#sources)
   - [🏆Contributing](#contributing)
   - [🏆License](#license)
@@ -48,7 +52,9 @@ My social media handles:
 
 <br />
 
-## 100+ Top Product Based Companies
+## 🏆 Roadmap to Dream Placement
+
+### 1️⃣ 100+ Top Product Based Companies
 
 Gone are the days when there were only few good companies, Now there are a lot of companies which:  
 `Pay Exceptionally Well`  
@@ -58,9 +64,7 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
 
 <br/>
 
-## 🏆 Roadmap to Dream Placement
-
-### 0️⃣ Language, Data Structures, CP
+### 2️⃣ Language, Data Structures, CP
 
 <details open>
   <summary style="font-size:1.15rem;">Language</summary>
@@ -175,6 +179,53 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
 </details>
 
 <br />
+
+## 🏆 DSA Practice Resources
+
+<p>
+Remember: Deliberate practice does not mean looking for answers and memorizing it. You won't go very far with that approach. The more you are able to solve a problem yourself without any reference to answers, the more you will improve.
+</p>
+
+### [🔰DSA Crack Sheet](./DSA%20Crack%20Sheet)
+
+Data Structures and Algorithms Cracks Sheet (created by @lovebabbar) contains most necessary questions to learn and grasp about most common and important DS and Algos
+
+<br />
+
+### [🔰Striver SDE Sheet](./Striver%20Sheet)
+
+Software Developer Engineer Sheet (created by @striver) contains asked during interwies by good product based companies.
+
+The sheet is divided in 30 parts to be completed in a month to get ready for interview at a good company
+
+<br />
+
+### [🔰Top Interview Preparation Questions](./Leetcode%20Top%20Interview%20Questions)
+
+This is LeetCode's official curated list of Top classic interview questions to help you land your dream job. Our top interview questions are divided into the following series:
+
+<br />
+
+### [🔰Companywise Interview Questions](./Companywise%20Questions)
+
+It is containing the list of most asked company wise questions available on Leetcode.
+
+> [Download Full PDFs](https://mega.nz/folder/HkoglB7C#o2K_WMwTKFgdk_powwR9-g)
+
+Every pdf file corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags.
+The list of questions within each pdf is further sorted by their frequency, so the most popular question for a specific company is at the top.
+
+<!-- ### [Question List](./Companywise%20Questions)   -->
+<br />
+
+### [🔰Leetcode Daily Challenges](./Leetcode%20Daily%20Challenge)
+
+This Challenge is beginner-friendly. It consists of daily problems given by Leetcode.  
+A problem is added here each day.
+
+<br />
+
+## 🏆 Theory Subjects
 
 ### 1️⃣ Operating System
 
@@ -860,7 +911,7 @@ What to expect from these resources,
 
 <br/>
 
-### 🔰 Other Notes and Resources
+## 🏆 Other Notes and Resources
 
 #### 🔖Best book for Coding Interviews - [Cracking-The-Coding-Interview](https://mega.nz/folder/KhpUBLLR#cKmpMsctk9hV_p0hUaZG_Q)
 
@@ -869,7 +920,6 @@ Urls for other Notes, and Reading Resources picked from different editorials.
 <details open>
   <summary>View Resources/Articles</summary>
 
-- [📘 30 Days SDE Sheet](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
 - [📘 CPP Data Structures, Algorithms, and STL Sheet](./Resources/Articles/CPP-STL.md)
 - [📘 CPP Syntax Cheet Sheet](./Resources/Articles/CPP-SYNTAX.md)
 </details>
@@ -896,48 +946,6 @@ Urls for other Notes, and Reading Resources picked from different editorials.
 
 <br />
 
-<p>
-Remember: Deliberate practice does not mean looking for answers and memorizing it. You won't go very far with that approach. The more you are able to solve a problem yourself without any reference to answers, the more you will improve.
-</p>
-
-### [🔰DSA Crack Sheet](./DSA%20Crack%20Sheet)
-
-Data Structures and Algorithms Cracks Sheet (created by @lovebabbar) contains most necessary questions to learn and grasp about most common and important DS and Algos
-
-<br />
-
-### [🔰Striver SDE Sheet](./Striver%20Sheet)
-
-Software Developer Engineer Sheet (created by @striver) contains asked during interwies by good product based companies.
-
-The sheet is divided in 30 parts to be completed in a month to get ready for interview at a good company
-
-<br />
-
-### [🔰Top Interview Preparation Questions](./Leetcode%20Top%20Interview%20Questions)
-
-This is LeetCode's official curated list of Top classic interview questions to help you land your dream job. Our top interview questions are divided into the following series:
-
-<br />
-
-### [🔰Companywise Interview Questions](./Companywise%20Questions)
-
-It is containing the list of most asked company wise questions available on Leetcode.
-
-> [Download Full PDFs](https://mega.nz/folder/HkoglB7C#o2K_WMwTKFgdk_powwR9-g)
-
-Every pdf file corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags.
-The list of questions within each pdf is further sorted by their frequency, so the most popular question for a specific company is at the top.
-
-<!-- ### [Question List](./Companywise%20Questions)   -->
-<br />
-
-### [🔰Leetcode Daily Challenges](./Leetcode%20Daily%20Challenge)
-
-This Challenge is beginner-friendly. It consists of daily problems given by Leetcode.  
-A problem is added here each day.
-
-<br />
 <br />
 
 ## 🏆Sources
