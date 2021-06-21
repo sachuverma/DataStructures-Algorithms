@@ -164,6 +164,7 @@
 
 - [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1 "view question") - [Cpp Solution](./solutions/Level%20order%20traversal.cpp)
 - [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1# "view question") - [Cpp Solution](./solutions/Reverse%20Level%20Order%20Traversal.cpp)
+- [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1 "view question") - [Cpp Solution](./solutions/Height%20of%20Binary%20Tree.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Search Tree
