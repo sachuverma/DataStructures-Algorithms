@@ -162,6 +162,7 @@
 
 ### Binary Tree
 
+- [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1 "view question") - [Cpp Solution](./solutions/Level%20order%20traversal.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Search Tree
