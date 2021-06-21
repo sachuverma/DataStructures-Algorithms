@@ -166,6 +166,10 @@
 - [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1# "view question") - [Cpp Solution](./solutions/Reverse%20Level%20Order%20Traversal.cpp)
 - [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1 "view question") - [Cpp Solution](./solutions/Height%20of%20Binary%20Tree.cpp)
 - [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1# "view question") - [Cpp Solution](./solutions/Diameter%20of%20Binary%20Tree.cpp)
+- [Create a mirror tree from the given binary tree](https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/ "view post")
+- [Inorder Tree Traversal – Iterative and Recursive](https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/ "view post")
+- [Preorder Tree Traversal – Iterative and Recursive](https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/ "view post")
+- [Postorder Tree Traversal – Iterative and Recursive](https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/ "view post")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Search Tree
