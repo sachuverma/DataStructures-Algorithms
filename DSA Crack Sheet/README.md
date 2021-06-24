@@ -191,6 +191,7 @@
 - [Check if a given graph is tree or not](https://www.geeksforgeeks.org/check-given-graph-tree/ "view post")
 - [Find largest subtree sum in a tree](https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/ "view post")
 - [Maximum sum of nodes in Binary tree such that no two are adjacent](https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/ "view post")
+- [Print all k-sum paths in a binary tree](https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/ "view topic")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Search Tree
