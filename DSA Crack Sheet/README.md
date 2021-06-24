@@ -196,9 +196,11 @@
 - [Min distance between two given nodes of a Binary Tree](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1# "view question") - [Cpp Solution](./solutions/Min%20distance%20between%20two%20given%20nodes%20of%20a%20Binary%20Tree.cpp)
 - [Kth ancestor of a node in binary tree](https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/ "view post")
 - [Duplicate Subtrees](https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1# "view question") - [Cpp Solution](./solutions/Duplicate%20Subtrees.cpp)
-- []( "view question") - [Cpp Solution](./solutions/.cpp)
+- [Check if Tree is Isomorphic](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1# "view question") - [Cpp Solution](./solutions/Check%20if%20Tree%20is%20Isomorphic.cpp)
 
 ### Binary Search Tree
+
+- []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Greedy Method
 
