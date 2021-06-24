@@ -218,7 +218,7 @@ A problem is added here each day.
 
 ### 1️⃣ Operating System
 
-<details open>
+<details>
   <summary style="font-size:1.15rem;">Overview</summary>
 
 - [Quick Notes to Follow](https://mega.nz/file/pEpRUIQQ#ArZTGmmvMpygGuoOL6rokFesY7IJVTDJCPUQ_VsLR4U)
@@ -493,7 +493,7 @@ Start Ups: They do focus on system design a lot ans in between questions on DBMS
 So, we need to be 100% prepared for it & best way is to follow the System Design Primer (resource given below)
 Questions always revolves around the type of DB, why this DB, why not that DB, how to scale, SQL vs NoSQL, your familiarity level with those DBs, etc
 
-<details open>
+<details>
   <summary style="font-size:1.15rem;">Resources</summary>
 
 - [System Design Primer (Database Section)](https://github.com/donnemartin/system-design-primer#database)
@@ -706,7 +706,7 @@ What to expect from these resources,
 - To the point for your Interview Preparation
 - Sufficient for Academics
 
-<details open>
+<details>
   <summary style="font-size:1.15rem;">Resources</summary>
 
 - [C++](https://www.javatpoint.com/cpp-oops-concepts)
@@ -714,7 +714,7 @@ What to expect from these resources,
 
 </details>
 
-<details open>
+<details>
   <summary style="font-size:1.15rem;">Overview</summary>
 
 - [What is Object Oriented Programming?](https://www.w3schools.com/cpp/cpp_oop.asp)
