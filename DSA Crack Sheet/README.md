@@ -172,6 +172,7 @@
 - [Postorder Tree Traversal – Iterative and Recursive](https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/ "view post")
 - [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1# "view question") - [Cpp Solution](./solutions/Left%20View%20of%20Binary%20Tree.cpp)
 - [Right View of Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1 "view question") - [Cpp Solution](./solutions/Right%20View%20of%20Binary%20Tree.cpp)
+- [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1 "view question") - [Cpp Solution](./solutions/Top%20View%20of%20Binary%20Tree.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Search Tree
