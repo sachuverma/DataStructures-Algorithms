@@ -182,6 +182,8 @@
 - [Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1 "view question") - [Cpp Solution](./solutions/Binary%20Tree%20to%20DLL.cpp)
 - [Transform to Sum Tree](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1 "view question") - [Cpp Solution](./solutions/Transform%20to%20Sum%20Tree.cpp)
 - [Construct Tree from Inorder & Preorder](https://practice.geeksforgeeks.org/problems/construct-tree-1/1 "view question") - [Cpp Solution](./solutions/Construct%20Tree%20from%20Inorder%20&%20Preorder.cpp)
+- [Minimum swap required to convert binary tree to binary search tree](https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/ "view question")
+- [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1 "view question") - [Cpp Solution](./solutions/Sum%20Tree.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Search Tree
