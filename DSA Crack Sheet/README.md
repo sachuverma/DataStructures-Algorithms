@@ -180,6 +180,7 @@
 - [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1 "view question") - [Cpp Solution](./solutions/Boundary%20Traversal%20of%20binary%20tree.cpp)
 - [Construct Binary Tree from String with bracket representation](https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/ "view post")
 - [Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1 "view question") - [Cpp Solution](./solutions/Binary%20Tree%20to%20DLL.cpp)
+- [Transform to Sum Tree](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1 "view question") - [Cpp Solution](./solutions/Transform%20to%20Sum%20Tree.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Search Tree
