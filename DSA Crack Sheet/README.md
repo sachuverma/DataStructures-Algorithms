@@ -192,6 +192,7 @@
 - [Find largest subtree sum in a tree](https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/ "view post")
 - [Maximum sum of nodes in Binary tree such that no two are adjacent](https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/ "view post")
 - [Print all k-sum paths in a binary tree](https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/ "view topic")
+- [Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1# "view question") - [Cpp Solution](./solutions/Lowest%20Common%20Ancestor%20in%20a%20Binary%20Tree.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Search Tree
