@@ -185,6 +185,7 @@
 - [Minimum swap required to convert binary tree to binary search tree](https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/ "view question")
 - [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1 "view question") - [Cpp Solution](./solutions/Sum%20Tree.cpp)
 - [Leaf at same level](https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1 "view question") - [Cpp Solution](./solutions/Leaf%20at%20same%20level.cpp)
+- [Duplicate subtree in Binary Tree](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1# "view question") - [Cpp Solution](./solutions/Duplicate%20subtree%20in%20Binary%20Tree.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Search Tree
