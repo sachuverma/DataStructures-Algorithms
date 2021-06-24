@@ -184,6 +184,7 @@
 - [Construct Tree from Inorder & Preorder](https://practice.geeksforgeeks.org/problems/construct-tree-1/1 "view question") - [Cpp Solution](./solutions/Construct%20Tree%20from%20Inorder%20&%20Preorder.cpp)
 - [Minimum swap required to convert binary tree to binary search tree](https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/ "view question")
 - [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1 "view question") - [Cpp Solution](./solutions/Sum%20Tree.cpp)
+- [Leaf at same level](https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1 "view question") - [Cpp Solution](./solutions/Leaf%20at%20same%20level.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Search Tree
