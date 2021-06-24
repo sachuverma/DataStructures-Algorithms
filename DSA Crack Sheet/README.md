@@ -195,6 +195,7 @@
 - [Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1# "view question") - [Cpp Solution](./solutions/Lowest%20Common%20Ancestor%20in%20a%20Binary%20Tree.cpp)
 - [Min distance between two given nodes of a Binary Tree](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1# "view question") - [Cpp Solution](./solutions/Min%20distance%20between%20two%20given%20nodes%20of%20a%20Binary%20Tree.cpp)
 - [Kth ancestor of a node in binary tree](https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/ "view post")
+- [Duplicate Subtrees](https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1# "view question") - [Cpp Solution](./solutions/Duplicate%20Subtrees.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Search Tree
