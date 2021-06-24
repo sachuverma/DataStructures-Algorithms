@@ -174,6 +174,7 @@
 - [Right View of Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1 "view question") - [Cpp Solution](./solutions/Right%20View%20of%20Binary%20Tree.cpp)
 - [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1 "view question") - [Cpp Solution](./solutions/Top%20View%20of%20Binary%20Tree.cpp)
 - [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1# "view question") - [Cpp Solution](./solutions/Bottom%20View%20of%20Binary%20Tree.cpp)
+- [ZigZag Tree Traversal](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1 "view question") - [Cpp Solution](./solutions/ZigZag%20Tree%20Traversal.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Search Tree
