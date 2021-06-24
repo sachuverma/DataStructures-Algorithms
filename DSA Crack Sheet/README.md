@@ -181,6 +181,7 @@
 - [Construct Binary Tree from String with bracket representation](https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/ "view post")
 - [Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1 "view question") - [Cpp Solution](./solutions/Binary%20Tree%20to%20DLL.cpp)
 - [Transform to Sum Tree](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1 "view question") - [Cpp Solution](./solutions/Transform%20to%20Sum%20Tree.cpp)
+- [Construct Tree from Inorder & Preorder](https://practice.geeksforgeeks.org/problems/construct-tree-1/1 "view question") - [Cpp Solution](./solutions/Construct%20Tree%20from%20Inorder%20&%20Preorder.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Search Tree
