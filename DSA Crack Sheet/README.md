@@ -178,6 +178,7 @@
 - [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1# "view question") - [Cpp Solution](./solutions/Check%20for%20Balanced%20Tree.cpp)
 - [Diagonal Traversal of Binary Tree](https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1 "view question") - [Cpp Solution](./solutions/Diagonal%20Traversal%20of%20Binary%20Tree.cpp)
 - [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1 "view question") - [Cpp Solution](./solutions/Boundary%20Traversal%20of%20binary%20tree.cpp)
+- [Construct Binary Tree from String with bracket representation](https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/ "view post")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Search Tree
