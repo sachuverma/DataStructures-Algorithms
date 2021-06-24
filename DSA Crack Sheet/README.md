@@ -188,6 +188,9 @@
 - [Duplicate subtree in Binary Tree](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1# "view question") - [Cpp Solution](./solutions/Duplicate%20subtree%20in%20Binary%20Tree.cpp)
 - [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree1528/1 "view question") - [Cpp Solution](./solutions/Check%20Mirror%20in%20N-ary%20tree.cpp)
 - [Sum of the Longest Bloodline of a Tree (Sum of nodes on the longest path from root to leaf node)](https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1# "view question") - [Cpp Solution](./solutions/Sum%20of%20the%20Longest%20Bloodline%20of%20a%20Tree.cpp)
+- [Check if a given graph is tree or not](https://www.geeksforgeeks.org/check-given-graph-tree/ "view post")
+- [Find largest subtree sum in a tree](https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/ "view post")
+- [Maximum sum of nodes in Binary tree such that no two are adjacent](https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/ "view post")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Binary Search Tree
