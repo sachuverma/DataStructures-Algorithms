@@ -200,6 +200,8 @@
 
 ### Binary Search Tree
 
+- [Binary Search Tree (Search and Insertion)](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/ "view post")
+- [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/submissions/ "view question") - [Cpp Solution](./solutions/Delete%20Node%20in%20a%20BST.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Greedy Method
