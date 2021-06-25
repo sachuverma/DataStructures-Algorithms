@@ -205,6 +205,7 @@
 - [Minimum element in BST](https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1# "view question") - [Cpp Solution](./solutions/Minimum%20element%20in%20BST.cpp)
 - [Predecessor and Successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1 "view question") - [Cpp Solution](./solutions/Predecessor%20and%20Successor.cpp)
 - [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1 "view question") - [Cpp Solution](./solutions/Check%20for%20BST.cpp)
+- [Populate Inorder Successor for all nodes](https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1# "view question") - [Cpp Solution](./solutions/Populate%20Inorder%20Successor%20for%20all%20nodes.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Greedy Method
