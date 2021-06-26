@@ -207,6 +207,8 @@
 - [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1 "view question") - [Cpp Solution](./solutions/Check%20for%20BST.cpp)
 - [Populate Inorder Successor for all nodes](https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1# "view question") - [Cpp Solution](./solutions/Populate%20Inorder%20Successor%20for%20all%20nodes.cpp)
 - [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1# "view question") - [Cpp Solution](./solutions/Lowest%20Common%20Ancestor%20in%20a%20BST.cpp)
+- [Construct BST from given preorder traversal](https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/ "view post")
+- [Binary Tree to BST](https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1# "view question") - [Cpp Solution](./solutions/Binary%20Tree%20to%20BST.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Greedy Method
