@@ -209,6 +209,7 @@
 - [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1# "view question") - [Cpp Solution](./solutions/Lowest%20Common%20Ancestor%20in%20a%20BST.cpp)
 - [Construct BST from given preorder traversal](https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/ "view post")
 - [Binary Tree to BST](https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1# "view question") - [Cpp Solution](./solutions/Binary%20Tree%20to%20BST.cpp)
+- [Convert a normal BST to Balanced BST](https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/ "view topic")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Greedy Method
