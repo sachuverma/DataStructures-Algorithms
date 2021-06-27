@@ -10,16 +10,16 @@
 
 `Resources and Solutions` `^_^`
 
-<!-- I am _Sachin Verma_ a student of Netaji Subhas Institute of Technology, Delhi,  
+<!-- I am _Sachin Verma_ a student of Netaji Subhas Institute of Technology, Delhi,
 an aspiring **Web Developer** and **Competitive Programmer**. -->
 
 I have compiled many useful links for **Data Structures and Algorithms** questions and their solutions.  
 I have also listed the **Theory Subjects**, which are often ignored by students but must have vast knowledge of it to help them in their interviews.  
 I have also included the **Placement Ready Roadmap**, from `beginner level -> interview ready candidate`
 
-<!-- My coding handles:  
-`codeforces` [specialist](https://codeforces.com/profile/sachuverma)  
-`leetcode` [2000+ | Knight](https://leetcode.com/anjali-mc)  
+<!-- My coding handles:
+`codeforces` [specialist](https://codeforces.com/profile/sachuverma)
+`leetcode` [2000+ | Knight](https://leetcode.com/anjali-mc)
 `codechef` [4 star]()
 
 My social media handles:
@@ -215,6 +215,116 @@ A problem is added here each day.
 <br />
 
 ## 🏆 Theory Subjects
+
+These must-do questions should be done after studying these subjects  
+If you don't have much time left for interviews, then you can directly look at them
+
+<h3>MUST-DO Questions for Interviews
+(DBMS, CN and OS) </h3>
+
+<details>
+<summary style="font-size:1.15rem;">Operating System: </summary>
+
+- What is the main purpose of an operating system? Discuss different types?
+- What is a socket, kernel and monolithic kernel ?
+- Difference between process and program and thread? Different types of process.
+- Define virtual memory, thrashing, threads.
+- What is RAID ? Different types.
+- What is a deadlock ? Different conditions to achieve a deadlock.
+- What is fragmentation? Types of fragmentation.
+- What is spooling ?
+- What is semaphore and mutex (Differences might be asked)? Define Binary semaphore.
+- Belady’s Anomaly
+- Starving and Aging in OS
+- Why does trashing occur?
+- What is paging and why do we need it?
+- Demand Paging, Segmentation
+- Real Time Operating System, types of RTOS.
+- Difference between main memory and secondary memory.
+- Dynamic Binding
+- FCFS Scheduling
+- SJF Scheduling
+- SRTF Scheduling
+- LRTF Scheduling
+- Priority Scheduling
+- Round Robin Scheduling
+- Producer Consumer Problem
+- Banker’s Algorithm
+- Explain Cache
+- Diff between direct mapping and associative mapping
+- Diff between multitasking and multiprocessing
+
+</details>
+
+<details>
+<summary style="font-size:1.15rem;">DBMS: </summary>
+
+- What is DBMS ? Mention advantages..
+- What is Database?
+- What is a database system?
+- What is RDBMS ? Properties..
+- Types of database languages
+- ACID properties (VVVVV IMP)
+- Difference between vertical and horizontal scaling
+- What is sharding
+- Keys in DBMS
+- Types of relationship
+- Data abstraction in DBMS, three levels of it
+- Indexing in DBMS
+- What is DDL (Data Definition Language)
+- What is DML (Data Manipulation Language)
+- What is normalization ? Types of them ..
+- What is denormalization ?
+- What is functional dependency ?
+- E-R Model ?
+- Conflict Serializability in DBMS ..
+- Explain Normal forms in DBMS
+- What is CCP ? (Concurrency Control Protocols)
+- Entity, Entity Type, Entity Set, Weak Entity Set..
+- What are SQL commands ? Types of them..
+- Nested Queries in SQL ?
+- What is JOIN .. Explain types of JOINs
+- Inner and Outer Join
+- Practice sql queries from leetcode
+- Diff between 2 tier and 3 tier architecture
+- Diff between TRUNCATE and DELETE command ..
+- Difference between Intension and Extension in a DataBase
+- Difference between share lock and exclusive lock, definition of lock
+
+</details>
+
+<details>
+<summary style="font-size:1.15rem;">Compute Networks: </summary>
+
+- Define network
+- What do you mean by network topology, and explain types of them
+- Define bandwidth, node and link ?
+- Explain TCP model ..
+- Layers of OSI model
+- Significance of Data Link Layer
+- Define gateway, difference between gateway and router ..
+- What does ping command do ?
+- What is DNS, DNS forwarder, NIC, ?
+- What is MAC address ?
+- What is IP address, private IP address, public IP address, APIPA ?
+- Difference between IPv4 and IPv6
+- What is subnet ?
+- Firewalls
+- Different type of delays
+- 3 way handshaking
+- Server-side load balancer
+- RSA Algorithm
+- What is HTTP and HTTPS protocol ?
+- What is SMTP protocol ?
+- TCP and UDP protocol, prepare differences
+- What happens when you enter “google.com” (very very famous question)
+- Hub vs Switch
+- VPN, advantages and disadvantages of it
+- LAN
+
+</details>
+
+<br />
 
 ### 1️⃣ Operating System
 
