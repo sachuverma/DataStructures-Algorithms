@@ -210,6 +210,7 @@
 - [Construct BST from given preorder traversal](https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/ "view post")
 - [Binary Tree to BST](https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1# "view question") - [Cpp Solution](./solutions/Binary%20Tree%20to%20BST.cpp)
 - [Convert a normal BST to Balanced BST](https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/ "view topic")
+- [Merge Two Balanced Binary Search Trees](https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/ "view post")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Greedy Method
