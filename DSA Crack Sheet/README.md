@@ -219,6 +219,8 @@
 - [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1# "view question") - [Cpp Solution](./solutions/Count%20BST%20nodes%20that%20lie%20in%20a%20given%20range.cpp)
 - [Replace every element with the least greater element on its right](https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/ "view question")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
+- [Preorder to BST](https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1# "view question") - [Cpp Solution](./solutions/Preorder%20to%20BST.cpp)
+- []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Greedy Method
 
