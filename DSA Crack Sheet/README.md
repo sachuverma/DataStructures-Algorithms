@@ -213,6 +213,7 @@
 - [Merge Two Balanced Binary Search Trees](https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/ "view post")
 - [Kth largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1# "view question") - [Cpp Solution](./solutions/Kth%20largest%20element%20in%20BST.cpp)
 - [k-th smallest element in BST](https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1 "view question") - [Cpp Solution](./solutions/k-th%20smallest%20element%20in%20BST.cpp)
+- [Brothers From Different Roots](https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1# "view question") - [Cpp Solution](./solutions/Brothers%20From%20Different%20Roots.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Greedy Method
