@@ -217,6 +217,7 @@
 - [Inorder Tree Traversal without recursion and without stack!](https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/ "view post")
 - [Find median of BST in O(n) time and O(1) space](https://www.geeksforgeeks.org/find-median-bst-time-o1-space/ "view post")
 - [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1# "view question") - [Cpp Solution](./solutions/Count%20BST%20nodes%20that%20lie%20in%20a%20given%20range.cpp)
+- [Replace every element with the least greater element on its right](https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/ "view question")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Greedy Method
