@@ -214,6 +214,8 @@
 - [Kth largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1# "view question") - [Cpp Solution](./solutions/Kth%20largest%20element%20in%20BST.cpp)
 - [k-th smallest element in BST](https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1 "view question") - [Cpp Solution](./solutions/k-th%20smallest%20element%20in%20BST.cpp)
 - [Brothers From Different Roots](https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1# "view question") - [Cpp Solution](./solutions/Brothers%20From%20Different%20Roots.cpp)
+- [Inorder Tree Traversal without recursion and without stack!](https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/ "view post")
+- [Find median of BST in O(n) time and O(1) space](https://www.geeksforgeeks.org/find-median-bst-time-o1-space/ "view post")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Greedy Method
