@@ -221,9 +221,12 @@
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 - [Preorder to BST](https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1# "view question") - [Cpp Solution](./solutions/Preorder%20to%20BST.cpp)
 - [Check whether BST contains Dead End](https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1 "view question") - [Cpp Solution](./solutions/Check%20whether%20BST%20contains%20Dead%20End.cpp)
-- []( "view question") - [Cpp Solution](./solutions/.cpp)
+- [Flatten BST to sorted list](https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/ "view post")
+- [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1# "view question") - [Cpp Solution](./solutions/Largest%20BST.cpp)
 
 ### Greedy Method
+
+- []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Backtracking
 
