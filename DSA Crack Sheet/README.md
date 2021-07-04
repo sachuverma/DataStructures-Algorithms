@@ -282,6 +282,7 @@
 
 ### Heap
 
+- [Building Heap from Array](https://www.geeksforgeeks.org/building-heap-from-array/ "view post")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Graphs
