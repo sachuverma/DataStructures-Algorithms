@@ -629,8 +629,7 @@ Questions always revolves around the type of DB, why this DB, why not that DB, h
   - Schema
   - Sub-Schema
 - How DBMS is implemented?)
-- [What is Data abstraction in DBMS?](https://afteracademy.com/blog/what-is-data-abstraction-in-dbms-and-what-are-its-three-levels)
-- [3 level of Data Abstraction](https://afteracademy.com/blog/what-is-data-abstraction-in-dbms-and-what-are-its-three-levels)
+- [What is Data abstraction in DBMS? & 3 level of Data Abstraction](https://afteracademy.com/blog/what-is-data-abstraction-in-dbms-and-what-are-its-three-levels)
 - [What is Referectial Integrity](https://www.tutorialspoint.com/Referential-Integrity-Rule-in-RDBMS)
 
 </details>
