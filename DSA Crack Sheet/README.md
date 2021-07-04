@@ -283,7 +283,7 @@
 ### Heap
 
 - [Building Heap from Array](https://www.geeksforgeeks.org/building-heap-from-array/ "view post")
-- []( "view question") - [Cpp Solution](./solutions/.cpp)
+- [Heap Sort](https://practice.geeksforgeeks.org/problems/heap-sort/1# "view question") - [Cpp Solution](./solutions/Heap%20Sort.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Graphs
