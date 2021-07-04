@@ -284,6 +284,8 @@
 
 - [Building Heap from Array](https://www.geeksforgeeks.org/building-heap-from-array/ "view post")
 - [Heap Sort](https://practice.geeksforgeeks.org/problems/heap-sort/1# "view question") - [Cpp Solution](./solutions/Heap%20Sort.cpp)
+- [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1# "view question") - [Cpp Solution](./solutions/Maximum%20of%20all%20subarrays%20of%20size%20k.cpp)
+- [k largest elements](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1# "view question") - [Cpp Solution](./solutions/k%20largest%20elements.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Graphs
