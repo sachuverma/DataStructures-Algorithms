@@ -287,6 +287,7 @@
 - [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1# "view question") - [Cpp Solution](./solutions/Maximum%20of%20all%20subarrays%20of%20size%20k.cpp)
 - [k largest elements](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1# "view question") - [Cpp Solution](./solutions/k%20largest%20elements.cpp)
 - [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1# "view question") - [Cpp Solution](./solutions/Kth%20smallest%20element.cpp)
+- [Merge k Sorted Arrays](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1# "view question") - [Cpp Solution](./solutions/Merge%20k%20Sorted%20Arrays.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Graphs
