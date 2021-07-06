@@ -288,6 +288,7 @@
 - [k largest elements](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1# "view question") - [Cpp Solution](./solutions/k%20largest%20elements.cpp)
 - [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1# "view question") - [Cpp Solution](./solutions/Kth%20smallest%20element.cpp)
 - [Merge k Sorted Arrays](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1# "view question") - [Cpp Solution](./solutions/Merge%20k%20Sorted%20Arrays.cpp)
+- [Merge two binary Max heaps](https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1 "view question") - [Cpp Solution](./solutions/Merge%20two%20binary%20Max%20heaps.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Graphs
