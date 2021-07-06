@@ -295,6 +295,7 @@
 - [Smallest range in K lists](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1# "view question") - [Cpp Solution](./solutions/Smallest%20range%20in%20K%20lists.cpp)
 - [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1# "view question") - [Cpp Solution](./solutions/Find%20median%20in%20a%20stream.cpp)
 - [Is Binary Tree Heap](https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1# "view question") - [Cpp Solution](./solutions/Is%20Binary%20Tree%20Heap.cpp)
+- [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1 "view question") - [Cpp Solution](./solutions/Minimum%20Cost%20of%20ropes.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Graphs
