@@ -297,6 +297,7 @@
 - [Is Binary Tree Heap](https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1# "view question") - [Cpp Solution](./solutions/Is%20Binary%20Tree%20Heap.cpp)
 - [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1 "view question") - [Cpp Solution](./solutions/Minimum%20Cost%20of%20ropes.cpp)
 - [Convert BST to Min Heap](https://www.geeksforgeeks.org/convert-bst-min-heap/ "view post")
+- [Convert min Heap to max Heap](https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/ "view post")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Graphs
