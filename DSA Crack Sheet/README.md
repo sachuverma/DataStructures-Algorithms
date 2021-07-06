@@ -292,6 +292,7 @@
 - [K-th Largest Sum Contiguous Subarray](https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/ "view post")
 - [Reorganize String](https://leetcode.com/problems/reorganize-string/ "view question") - [Cpp Solution](./solutions/Reorganize%20String.cpp)
 - [Merge K sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1# "view question") - [Cpp Solution](./solutions/Merge%20K%20sorted%20linked%20lists.cpp)
+- [Smallest range in K lists](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1# "view question") - [Cpp Solution](./solutions/Smallest%20range%20in%20K%20lists.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Graphs
