@@ -291,6 +291,7 @@
 - [Merge two binary Max heaps](https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1 "view question") - [Cpp Solution](./solutions/Merge%20two%20binary%20Max%20heaps.cpp)
 - [K-th Largest Sum Contiguous Subarray](https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/ "view post")
 - [Reorganize String](https://leetcode.com/problems/reorganize-string/ "view question") - [Cpp Solution](./solutions/Reorganize%20String.cpp)
+- [Merge K sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1# "view question") - [Cpp Solution](./solutions/Merge%20K%20sorted%20linked%20lists.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Graphs
