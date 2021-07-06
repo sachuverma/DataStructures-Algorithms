@@ -298,6 +298,8 @@
 - [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1 "view question") - [Cpp Solution](./solutions/Minimum%20Cost%20of%20ropes.cpp)
 - [Convert BST to Min Heap](https://www.geeksforgeeks.org/convert-bst-min-heap/ "view post")
 - [Convert min Heap to max Heap](https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/ "view post")
+- [Rearrange characters](https://practice.geeksforgeeks.org/problems/rearrange-characters4649/1/# "view question") - [Cpp Solution](./solutions/Rearrange%20characters.cpp)
+- [Minimum sum](https://practice.geeksforgeeks.org/problems/minimum-sum4058/1# "view question") - [Cpp Solution](./solutions/Minimum%20sum.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Graphs
