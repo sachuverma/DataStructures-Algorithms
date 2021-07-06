@@ -293,6 +293,7 @@
 - [Reorganize String](https://leetcode.com/problems/reorganize-string/ "view question") - [Cpp Solution](./solutions/Reorganize%20String.cpp)
 - [Merge K sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1# "view question") - [Cpp Solution](./solutions/Merge%20K%20sorted%20linked%20lists.cpp)
 - [Smallest range in K lists](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1# "view question") - [Cpp Solution](./solutions/Smallest%20range%20in%20K%20lists.cpp)
+- [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1# "view question") - [Cpp Solution](./solutions/Find%20median%20in%20a%20stream.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Graphs
