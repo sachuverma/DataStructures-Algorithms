@@ -236,6 +236,8 @@
 - [Word Break - Part 2](https://practice.geeksforgeeks.org/problems/word-break-part-23249/1# "view question") - [Cpp Solution](./solutions/Word%20Break%20-%20Part%202.cpp)
 - [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/ "view question") - [Cpp Solution](./solutions/Remove%20Invalid%20Parentheses.cpp)
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/ "view question") - [Cpp Solution](./solutions/Sudoku%20Solver.cpp)
+- [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/ "view question") - [Cpp Solution](./solutions/Remove%20Invalid%20Parentheses.cpp)
+- []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Stacks & Queues
 
