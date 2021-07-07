@@ -238,6 +238,7 @@
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/ "view question") - [Cpp Solution](./solutions/Sudoku%20Solver.cpp)
 - [M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1# "view question") - [Cpp Solution](./solutions/M-Coloring%20Problem.cpp)
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/ "view question") - [Cpp Solution](./solutions/Palindrome%20Partitioning.cpp)
+- [Partition Equal Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1# "view question") - [Cpp Solution](./solutions/Partition%20Equal%20Subset%20Sum.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Stacks & Queues
