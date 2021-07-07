@@ -1001,11 +1001,149 @@ What to expect from these resources,
 
 ### 4️⃣ Computer Networks
 
-<details open>
+<details>
   <summary style="font-size:1.15rem;">Overview</summary>
 
-- [Coming Soon :)]()
+- Basics
+  - [What is Computer Networking](https://www.cisco.com/c/en_in/solutions/enterprise-networks/what-is-computer-networking.html)
+  - Basic Terms
+    - [Client](https://learntomato.flashrouters.com/what-is-a-client-what-is-a-server-what-is-a-host/)
+    - [Server](https://learntomato.flashrouters.com/what-is-a-client-what-is-a-server-what-is-a-host/)
+    - [Peer](https://softwareengineering.stackexchange.com/questions/274116/what-is-a-peer-in-computer-network)
+    - [Host](https://learntomato.flashrouters.com/what-is-a-client-what-is-a-server-what-is-a-host/)
+    - [Bandwidth](https://searchnetworking.techtarget.com/definition/bandwidth)
+    - [Jitter](https://www.ringcentral.com/us/en/blog/what-is-jitter/)
+    - [Packet](https://www.cloudflare.com/en-in/learning/network-layer/what-is-a-packet/)
+    - [Frame](https://www.techopedia.com/definition/27175/frame-networking)
+    - [Local Host](https://www.geeksforgeeks.org/what-is-local-host/)
+    - [Bit Rate](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:connecting-networks/a/bit-rate-bandwidth-and-latency)
+    - [Noise](https://tutsmaster.org/what-is-noise-types-of-noises-in-network/)
+    - [Attenuation](https://www.comptia.org/content/guides/what-is-attenuation#:~:text=Definition%20of%20Attenuation%20in%20Networking,to%20become%20distorted%20or%20indiscernible.&text=Radio%20signals)
+    - [Distortion](https://www.computerhope.com/jargon/d/distorti.htm#:~:text=Updated%3A%2010%2F04%2F2017,cables%20such%20as%20network%20cables.)
+  - What is Web?
+    - [Difference between Web vs Internet](https://www.geeksforgeeks.org/whats-difference-internet-web/#:~:text=The%20Internet%20is%20a%20global,on%20top%20of%20that%20infrastructure.)
+  - [Type of transmission Media](https://www.geeksforgeeks.org/types-transmission-media/)
+  - [Computer Network Devices](https://www.certiology.com/computing/computer-networking/network-devices.html)
+  - [Unicast, BroadCast and MultiCast](https://www.geeksforgeeks.org/difference-between-unicast-broadcast-and-multicast-in-computer-network/)
+  - [Networking Topology](https://www.guru99.com/type-of-network-topology.html)
+    - Mesh
+    - Star
+    - Bus
+    - Ring
+    - Tree
+  - [LAN vs MAN vs WAN](https://www.geeksforgeeks.org/difference-between-lan-man-and-wan/)
 
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">OSI Model</summary>
+
+- [What](https://www.forcepoint.com/cyber-edu/osi-model)
+- Different Layers
+  - PDNTSPA
+    - Physicsl
+    - Data Link
+      - [What is Ethernet?](https://www.linksys.com/us/r/resource-center/basics/whats-ethernet/)
+      - [Extranet vs Intranet vs Internet](https://www.geeksforgeeks.org/difference-between-internet-intranet-and-extranet/)
+      - [Virtual ckt vs Datagram Network](https://www.geeksforgeeks.org/differences-between-virtual-circuits-and-datagram-networks/)
+      - [Switch & it's types](https://www.geeksforgeeks.org/types-of-switches-in-computer-network/)
+      - [What is Virtual LAN?](https://www.guru99.com/vlan-definition-types-advantages.html)
+      - [Basics of Wifi](https://www.geeksforgeeks.org/basics-of-wi-fi/)
+    - Network
+      - [IP Addressing?](https://www.kaspersky.com/resource-center/definitions/what-is-an-ip-address)
+      - [IPv4 vs IPv6](https://www.guru99.com/difference-ipv4-vs-ipv6.html)
+      - [Supernet](https://www.geeksforgeeks.org/supernetting-in-network-layer/)
+      - [Types of Routing](https://www.geeksforgeeks.org/types-of-routing/)
+        - Static
+        - Default
+        - Dynamic
+      - [Network Address Translation](https://www.geeksforgeeks.org/network-address-translation-nat/)
+      - [WPA vs WPS](https://www.quora.com/What-is-the-difference-between-WPS-and-WPA-in-WiFi)
+      - [LiFi vs WiFi](https://www.geeksforgeeks.org/difference-between-lifi-and-wifi/)
+      - [What is ACL[AccessList]?](https://www.geeksforgeeks.org/access-lists-acl/)
+      - [AAA in networking (imp)](https://www.geeksforgeeks.org/computer-network-aaa-authentication-authorization-and-accounting/)
+      - [SONET](https://www.geeksforgeeks.org/synchronous-optical-network-sonet/)
+    - Transport
+      - [TCP Connection Setup](https://www.geeksforgeeks.org/tcp-connection-establishment/)
+      - [3-way Handshake](https://www.geeksforgeeks.org/tcp-3-way-handshake-process/)
+      - [UDP](https://www.geeksforgeeks.org/user-datagram-protocol-udp/)
+      - [Peer2Peer Sharing](https://www.geeksforgeeks.org/p2ppeer-to-peer-file-sharing/)
+      - [Congestion in Computer Networks](https://www.geeksforgeeks.org/congestion-control-in-computer-networks/)
+      - [Error Control](https://www.geeksforgeeks.org/error-control-in-tcp/)
+    - Session
+    - Presentation
+    - Application
+      - [Protocols in Application Layer](https://www.geeksforgeeks.org/protocols-application-layer/)
+      - [DNS](https://www.geeksforgeeks.org/domain-name-system-dns-in-application-layer/)
+      - [Why does DNS uses UDP and not TCP?](https://www.geeksforgeeks.org/why-does-dns-use-udp-and-not-tcp/)
+      - [Address Resolution in DNS](https://www.geeksforgeeks.org/address-resolution-in-dns-domain-name-server/)
+      - [DNS Spoofing or DNS Cache poisoning](https://www.geeksforgeeks.org/dns-spoofing-or-dns-cache-poisoning/)
+      - [Types of DNS Attacks](https://www.geeksforgeeks.org/types-of-dns-attacks-and-tactics-for-security/)
+      - [Difference in http and https](https://www.geeksforgeeks.org/difference-between-http-and-https/)
+      - [How DHCP server dynamically assigns IP addresses to a host](https://www.geeksforgeeks.org/how-dhcp-server-dynamically-assigns-ip-address-to-a-host/)
+- [How a Packet travels? (V.V.V.Imp)](https://www.practicalnetworking.net/series/packet-traveling/packet-traveling/)
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Misc & System Design</summary>
+
+- [Common Networking Commands:](https://www.educba.com/networking-commands/)
+  - ping
+  - netstat
+  - tracert
+  - ipconfig
+  - nslookup
+  - route
+  - pathping
+  - netDiag
+  - hostname
+  - arp
+- [Difference in http and https](https://www.geeksforgeeks.org/difference-between-http-and-https/)
+- [What is API Gateway?](https://www.youtube.com/watch?v=hYgP0cBORVg)
+- [SSL/TLS](https://www.ssl.com/faqs/faq-what-is-ssl/)
+- [Reverse Proxy?](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/)
+- [Load Balancer](https://www.nginx.com/resources/glossary/load-balancing/)
+- [ARP, Address Resolution Protocol](https://www.practicalnetworking.net/series/arp/traditional-arp/)
+- [Horizontal vs Vertical Scaling](https://www.redswitches.com/blog/difference-between-horizontal-vertical-scaling/)
+- [Caching & How does a website is cached](https://www.cloudflare.com/en-in/learning/cdn/what-is-caching/)
+- [What is VIP in Computer Networks](https://learningnetwork.cisco.com/s/question/0D53i00000KsxEZ/what-is-a-vip-virtual-ip)
+- [REST API vs HTTP API](https://www.baeldung.com/cs/rest-vs-http)
+- [What is a container in computer networks](https://www.vmware.com/topics/glossary/content/container-networking#:~:text=Container%20Networking%20is%20an%20emerging,concept%20to%20a%20virtual%20machine.&text=All%20applications%20inside%20the%20container,available%20inside%20the%20container%20only.)
+- [Containerisation vs Virtualisation](https://www.burwood.com/blog-archive/containerization-vs-virtualization#:~:text=Virtualization%20enables%20you%20to%20run,single%20virtual%20machine%20or%20server.)
+- [Performance vs Scalability](https://www.dynatrace.com/news/blog/performance-vs-scalability/#:~:text=Performance%20refers%20to%20the%20capability,a%20certain%20amount%20of%20data.&text=Scalability%20referes%20to%20the%20characteristic,performance%20by%20adding%20additional%20ressources.)
+- [Latency vs Throughput](https://www.comparitech.com/net-admin/latency-vs-throughput/#:~:text=Latency%20indicates%20how%20long%20it,a%20specific%20period%20of%20time.)
+- [2G vs 3G vs 4G vs 5G](http://net-informations.com/q/diff/generations.html)
+- [How a VPN works?](https://www.kaspersky.com/resource-center/definitions/what-is-a-vpn)
+- [Gateway vs Router](https://www.geeksforgeeks.org/difference-between-router-and-gateway/)
+- [NIC and MAC Address](https://securityxploded.com/basics-nic-mac-and-arp-tutorial.php)
+- [Public vs Private IP Address](https://www.geeksforgeeks.org/difference-between-private-and-public-ip-addresses/)
+- [What is Multiplexing](https://www.javatpoint.com/multiplexing-in-computer-network)
+- [Modem vs Router](https://www.youtube.com/watch?v=1-gDIlH8-fs)
+- [How Bluetooth Works](https://www.tutorialspoint.com/wireless_communication/wireless_communication_bluetooth.htm)
+- [How Hotspot Works](https://www.netspotapp.com/hardware/wifi-hotspot/)
+- [How Email Works](https://www.tutorialspoint.com/internet_technologies/e_mail_working.htm#:~:text=Email%20working%20follows%20the%20client%20server%20approach.&text=Person%20A%20composes%20the%20messages,area%20designated%20for%20person%20B.)
+- [How file transfer works](https://www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/)
+- [How ATM works](https://www.geeksforgeeks.org/asynchronous-transfer-mode-atm-in-computer-network/)
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Security</summary>
+
+- [What is Firewall?](https://www.checkpoint.com/cyber-hub/network-security/what-is-firewall/)
+- [Types of Firewall](https://www.javatpoint.com/types-of-firewall)
+- [Possible attacks on Firewall](https://www.geeksforgeeks.org/types-of-firewall-and-possible-attacks/)
+- [Basic Network Attacks](https://www.geeksforgeeks.org/basic-network-attacks-in-computer-network/)
+- [Denial of Service and Prevention](https://www.geeksforgeeks.org/deniel-service-prevention/)
+- [Digital Signature & Certificates](https://www.geeksforgeeks.org/digital-signatures-certificates/)
+- Terms to know:
+  - [Cryptography](https://www.csoonline.com/article/3583976/what-is-cryptography-how-algorithms-keep-information-secret-and-safe.html)
+  - [Symmetrics Key](https://www.cryptomathic.com/news-events/blog/symmetric-key-encryption-why-where-and-how-its-used-in-banking#:~:text=Symmetric%20encryption%20is%20a%20type,used%20in%20the%20decryption%20process.)
+  - [Assymetrics Key](https://cheapsslsecurity.com/blog/what-is-asymmetric-encryption-understand-with-simple-examples/)
+  - [Hashing](https://www.thesslstore.com/blog/difference-encryption-hashing-salting/)
+  - [Cryptanalysis](https://www.geeksforgeeks.org/cryptanalysis-and-types-of-attacks/)
+  - AES/DES/RSA/MD5 hashing
+- [Active & Passive attack in Infosec](https://www.geeksforgeeks.org/active-and-passive-attacks-in-information-security/)
+- [Types of Email Attacks](https://www.geeksforgeeks.org/types-of-email-attacks/)
 </details>
 
 <br/>
