@@ -237,6 +237,7 @@
 - [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/ "view question") - [Cpp Solution](./solutions/Remove%20Invalid%20Parentheses.cpp)
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/ "view question") - [Cpp Solution](./solutions/Sudoku%20Solver.cpp)
 - [M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1# "view question") - [Cpp Solution](./solutions/M-Coloring%20Problem.cpp)
+- [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/ "view question") - [Cpp Solution](./solutions/Palindrome%20Partitioning.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Stacks & Queues
