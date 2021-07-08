@@ -247,6 +247,7 @@
 - [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1 "view question") - [Cpp Solution](./solutions/Permutations%20of%20a%20given%20string.cpp)
 - [Find if there is a path of more than k length from a source](https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/ "view post")
 - [Longest Possible Route in a Matrix with Hurdles](https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/ "view post")
+- [Print all possible paths from top left to bottom right of a mXn matrix](https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/ "view post")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Stacks & Queues
