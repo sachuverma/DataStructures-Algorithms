@@ -243,6 +243,7 @@
 - [Tug of War](https://www.geeksforgeeks.org/tug-of-war/ "view post")
 - [Find shortest safe route in a path with landmines](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/ "view post")
 - [Combination Sum](https://practice.geeksforgeeks.org/problems/combination-sum-1587115620/1# "view question") - [Cpp Solution](./solutions/Combination%20Sum.cpp)
+- [Largest number in K swaps](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1# "view question") - [Cpp Solution](./solutions/Largest%20number%20in%20K%20swaps.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Stacks & Queues
