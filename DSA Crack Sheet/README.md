@@ -242,6 +242,7 @@
 - [The Knight’s tour problem](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/ "view post")
 - [Tug of War](https://www.geeksforgeeks.org/tug-of-war/ "view post")
 - [Find shortest safe route in a path with landmines](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/ "view post")
+- [Combination Sum](https://practice.geeksforgeeks.org/problems/combination-sum-1587115620/1# "view question") - [Cpp Solution](./solutions/Combination%20Sum.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Stacks & Queues
