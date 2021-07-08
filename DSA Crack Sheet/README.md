@@ -240,6 +240,8 @@
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/ "view question") - [Cpp Solution](./solutions/Palindrome%20Partitioning.cpp)
 - [Partition Equal Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1# "view question") - [Cpp Solution](./solutions/Partition%20Equal%20Subset%20Sum.cpp)
 - [The Knight’s tour problem](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/ "view post")
+- [Tug of War](https://www.geeksforgeeks.org/tug-of-war/ "view post")
+- [Find shortest safe route in a path with landmines](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/ "view post")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Stacks & Queues
