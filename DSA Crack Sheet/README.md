@@ -246,6 +246,7 @@
 - [Largest number in K swaps](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1# "view question") - [Cpp Solution](./solutions/Largest%20number%20in%20K%20swaps.cpp)
 - [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1 "view question") - [Cpp Solution](./solutions/Permutations%20of%20a%20given%20string.cpp)
 - [Find if there is a path of more than k length from a source](https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/ "view post")
+- [Longest Possible Route in a Matrix with Hurdles](https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/ "view post")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Stacks & Queues
