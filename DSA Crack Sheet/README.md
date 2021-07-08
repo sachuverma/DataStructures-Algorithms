@@ -248,6 +248,7 @@
 - [Find if there is a path of more than k length from a source](https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/ "view post")
 - [Longest Possible Route in a Matrix with Hurdles](https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/ "view post")
 - [Print all possible paths from top left to bottom right of a mXn matrix](https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/ "view post")
+- [Partition array to K subsets](https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1# "view question") - [Cpp Solution](./solutions/Partition%20array%20to%20K%20subsets.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Stacks & Queues
