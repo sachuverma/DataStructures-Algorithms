@@ -226,6 +226,7 @@
 
 ### Greedy Method
 
+- [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1# "view question") - [Cpp Solution](./solutions/N%20meetings%20in%20one%20room.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Backtracking
