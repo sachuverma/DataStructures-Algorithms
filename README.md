@@ -1150,7 +1150,16 @@ What to expect from these resources,
 
 ## 🏆 Other Notes and Resources
 
-#### 🔖Best book for Coding Interviews - [Cracking-The-Coding-Interview](https://mega.nz/folder/KhpUBLLR#cKmpMsctk9hV_p0hUaZG_Q)
+#### 🔖Best book for Coding Interviews - [Cracking-The-Coding-Interview](https://mega.nz/folder/KhpUBLLR#cKmpMsctk9hV_p0hUaZG_Q) | [Link 2](https://mega.nz/file/JJQRXQYR#b0EeBTHvGcPnvD-j8kuItzmgCnh1kZj32DDGIVQpFv0)
+
+##### Some other helpful books
+
+- [CSES Competitive Programming Handbook](https://mega.nz/file/ZQIX1IjY#6S8FY39nLdRScbEL9uL0J_2wGWkvmYCQeibC5UrU81k)
+- [Problem Solving Strategies](https://mega.nz/file/sER3mQoI#eCsgS89O3voBhcSAFmZNdZTvQREZ3o5cQrWQNyFZuNY)
+- [Programming Challenges](https://mega.nz/file/lAJnxaqD#srD7jyEPzm9X0LlvlDtkFzzfoid_dpeeYXFFCeTEU-0)
+- [Concrete Maths](https://mega.nz/file/NAYTAAhA#Kow_caWhfOdb3R-P1YrY6j3Ap7mckktfNLKBZWcpxh4)
+- [Algorithms Design Strategies](https://mega.nz/file/9EQFmIgR#h-fZvrDN2bJN7Br-13m9NnlkfEhxzMxz0yzLAGqsfLY)
+- [The Algorithms Design Manual](https://mega.nz/file/pJpHjKoK#LpZe3G-NnoEBKjBgjYXhH2nRCWpsaLKJfkpNy5EqGX0)
 
 Urls for other Notes, and Reading Resources picked from different editorials.
 
