@@ -12,3 +12,4 @@
 | 9.  | [Longest Increasing Subsequence](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/609/week-2-july-8th-july-14th/3808/)         |         [cpp](./09.%20Longest%20Increasing%20Subsequence.cpp)          |
 | 10.  | [Decode Ways II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/609/week-2-july-8th-july-14th/3809/)         |         [cpp](./10.%20Decode%20Ways%20II.cpp)          |
 | 11.  | [Find Median from Data Stream](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/609/week-2-july-8th-july-14th/3810/)         |         [cpp](./11.%20Find%20Median%20from%20Data%20Stream.cpp)          |
+| 12.  | [Isomorphic Strings](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/609/week-2-july-8th-july-14th/3811/)         |         [cpp](./12.%20Isomorphic%20Strings.cpp)          |
