@@ -228,6 +228,7 @@
 
 - [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1# "view question") - [Cpp Solution](./solutions/N%20meetings%20in%20one%20room.cpp)
 - [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1# "view question") - [Cpp Solution](./solutions/Job%20Sequencing%20Problem.cpp)
+- [Huffman Encoding](https://practice.geeksforgeeks.org/problems/huffman-encoding3345/1 "view question") - [Cpp Solution](./solutions/Huffman%20Encoding.cpp)
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Backtracking
