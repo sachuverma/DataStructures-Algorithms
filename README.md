@@ -1173,6 +1173,7 @@ Urls for other Notes, and Reading Resources picked from different editorials.
 <details>
   <summary>Last Minute Notes</summary>
 
+- [📙 Operating System (apni kaksha notes)](https://drive.google.com/file/d/1B_kmekdghu-sO8-eXZ1kc4Xx_YtB8BPM/view)
 - [📙 Last Minute Notes – Operating Systems](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
 - [📙 Last Minute Notes – Computer Networks](https://www.geeksforgeeks.org/last-minute-notes-computer-network/)
 - [📙 Last Minute Notes – DBMS](https://www.geeksforgeeks.org/last-minute-notes-dbms/)
