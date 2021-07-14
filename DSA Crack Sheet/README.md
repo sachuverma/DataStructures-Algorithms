@@ -231,6 +231,7 @@
 - [Huffman Encoding](https://practice.geeksforgeeks.org/problems/huffman-encoding3345/1 "view question") - [Cpp Solution](./solutions/Huffman%20Encoding.cpp)
 - [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1# "view question") - [Cpp Solution](./solutions/Fractional%20Knapsack.cpp)
 - [Choose and Swap](https://practice.geeksforgeeks.org/problems/choose-and-swap0531/1# "view question") - [Cpp Solution](./solutions/Choose%20and%20Swap.cpp)
+- [Greedy Algorithm to find Minimum number of Coins](https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/ "view post")
 - []( "view question") - [Cpp Solution](./solutions/.cpp)
 
 ### Backtracking
