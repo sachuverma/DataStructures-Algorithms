@@ -17,3 +17,4 @@
 | 14. | [Custom Sort String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/609/week-2-july-8th-july-14th/3813/)                     |               [cpp](./14.%20Custom%20Sort%20String.cpp)                |
 | 15. | [Valid Triangle Number](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3815/)                     |               [cpp](./15.%20Valid%20Triangle%20Number.cpp)                |
 | 16. | [4Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3816/)                     |               [cpp](./16.%204Sum.cpp)                |
+| 18. | [Reverse Nodes in k-Group](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3818/)                     |               [cpp](./18.%20Reverse%20Nodes%20in%20k-Group.cpp)                |
