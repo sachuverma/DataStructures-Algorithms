@@ -20,3 +20,4 @@
 | 18. | [Reverse Nodes in k-Group](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3818/)                        |                [cpp](./18.%20Reverse%20Nodes%20in%20k-Group.cpp)                |
 | 19. | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3819/) | [cpp](./19.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp) |
 | 20. | [Shuffle an Array](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3820/) | [cpp](./20.%20Shuffle%20an%20Array.cpp) |
+| 21. | [Push Dominoes](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3821/) | [cpp](./21.%20Push%20Dominoes.cpp) |
