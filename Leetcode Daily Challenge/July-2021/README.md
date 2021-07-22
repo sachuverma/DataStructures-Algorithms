@@ -21,3 +21,4 @@
 | 19. | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3819/) | [cpp](./19.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp) |
 | 20. | [Shuffle an Array](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3820/) | [cpp](./20.%20Shuffle%20an%20Array.cpp) |
 | 21. | [Push Dominoes](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3821/) | [cpp](./21.%20Push%20Dominoes.cpp) |
+| 22. | [Partition Array into Disjoint Intervals](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3823/) | [cpp](./22.%20Partition%20Array%20into%20Disjoint%20Intervals.cpp) |
