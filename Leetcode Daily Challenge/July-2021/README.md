@@ -22,3 +22,5 @@
 | 20. | [Shuffle an Array](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3820/) | [cpp](./20.%20Shuffle%20an%20Array.cpp) |
 | 21. | [Push Dominoes](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3821/) | [cpp](./21.%20Push%20Dominoes.cpp) |
 | 22. | [Partition Array into Disjoint Intervals](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3823/) | [cpp](./22.%20Partition%20Array%20into%20Disjoint%20Intervals.cpp) |
+| 23. | [Binary Tree Pruning](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3824/) | [cpp](./23.%20Binary%20Tree%20Pruning.cpp) | 
+| 24. | [Word Ladder II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3825/) | [cpp](./24.%20Word%20Ladder%20II.cpp) | 
