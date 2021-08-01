@@ -56,13 +56,18 @@ My social media handles:
 
 ### 1️⃣ 100+ Top Product Based Companies
 
-Gone are the days when there were only few good companies, Now there are a lot of companies which:  
+People only chase after **FAANG**, because that's what is hyped up but now there are a lot of companies which:  
 `Pay Exceptionally Well`  
 `Good Work Life`  
 `Great Projects/Learning`  
 Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9NdApRf4TW1I/view?usp=sharing), and decide where you want to land.
 
 ### 2️⃣ Language, Data Structures, CP
+
+- Guide to how to start coding if you have zero knowledge about this field
+- Only way to become good at something is practice, an expert was once a nubie too
+- Only consistency matter, coding once a week for 10 hours is not benificial, rather coding 1 hour each day will benifit you more.
+- Reading/Learning/Practice resources are also listed below
 
 <details open>
   <summary style="font-size:1.15rem;">Language</summary>
