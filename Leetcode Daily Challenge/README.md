@@ -15,3 +15,4 @@
 - [May](./May-2021)
 - [June](./June-2021)
 - [July](./July-2021)
+- [August](./August-2021)
