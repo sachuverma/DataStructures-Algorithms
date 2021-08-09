@@ -10,3 +10,4 @@
 | 5.  | [Stone Game](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3870/)           |       [cpp](./05.%20Stone%20Game.cpp)       |
 | 6.  | [N-ary Tree Level Order Traversal](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3871/)           |       [cpp](./06.%20N-ary%20Tree%20Level%20Order%20Traversal.cpp)       |
 | 7.  | [Palindrome Partitioning II](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3872/)           |       [cpp](./07.%20Palindrome%20Partitioning%20II.cpp)       |
+| 9.  | [Add Strings](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3875/)           |       [cpp](./09.%20Add%20Strings.cpp)       |
