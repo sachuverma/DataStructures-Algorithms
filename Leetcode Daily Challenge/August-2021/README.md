@@ -12,3 +12,4 @@
 | 7.  | [Palindrome Partitioning II](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3872/)               |        [cpp](./07.%20Palindrome%20Partitioning%20II.cpp)        |
 | 9.  | [Add Strings](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3875/)                             |                [cpp](./09.%20Add%20Strings.cpp)                 |
 | 10. | [Flip String to Monotone Increasing](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3876/)      |  [cpp](./10.%20Flip%20String%20to%20Monotone%20Increasing.cpp)  |
+| 12. | [Group Anagrams](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3887/)                          |               [cpp](./12.%20Group%20Anagrams.cpp)               |
