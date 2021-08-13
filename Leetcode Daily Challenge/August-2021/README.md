@@ -15,3 +15,4 @@
 | 10. | [Flip String to Monotone Increasing](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3876/)      |  [cpp](./10.%20Flip%20String%20to%20Monotone%20Increasing.cpp)  |
 | 11. | [Array of Doubled Pairs](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3877/)                  |         [cpp](./11.%20Array%20of%20Doubled%20Pairs.cpp)         |
 | 12. | [Group Anagrams](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3887/)                          |               [cpp](./12.%20Group%20Anagrams.cpp)               |
+| 13. | [Set Matrix Zeroes](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3888/)                          |               [cpp](./13.%20Set%20Matrix%20Zeroes.cpp)               |
