@@ -19,3 +19,4 @@
 | 15. | [Minimum Window Substring](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3891/)               |         [cpp](./15.%20Minimum%20Window%20Substring.cpp)         |
 | 16. | [Range Sum Query - Immutable](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3892/)            |     [cpp](./16.%20Range%20Sum%20Query%20-%20Immutable.cpp)      |
 | 17. | [Count Good Nodes in Binary Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3899/)        |  [cpp](./17.%20Count%20Good%20Nodes%20in%20Binary%20Tree.cpp)   |
+| 18. | [Decode Ways](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3902/)        |  [cpp](./18.%20Decode%20Ways.cpp)   |
