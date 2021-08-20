@@ -21,3 +21,4 @@
 | 17. | [Count Good Nodes in Binary Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3899/)         |     [cpp](./17.%20Count%20Good%20Nodes%20in%20Binary%20Tree.cpp)     |
 | 18. | [Decode Ways](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3902/)                             |                   [cpp](./18.%20Decode%20Ways.cpp)                   |
 | 19. | [Maximum Product of Splitted Binary Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3903/) | [cpp](./19.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.cpp) |
+| 20. | [Valid Sudoku](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3904/)                            |                  [cpp](./20.%20Valid%20Sudoku.cpp)                   |
