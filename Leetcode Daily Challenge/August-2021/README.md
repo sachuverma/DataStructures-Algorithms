@@ -30,5 +30,5 @@
 | 26. | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3920/) | [cpp](./26.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.cpp) |
 | 27. | [Longest Uncommon Subsequence II](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3921/) | [cpp](./27.%20Longest%20Uncommon%20Subsequence%20II.cpp) |
 | 28. | [Maximum Profit in Job Scheduling](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3950/) | [cpp](./28.%20Maximum%20Profit%20in%20Job%20Scheduling.cpp) |
-| 28. | []() | [cpp](./28.%20.cpp) |
-| 28. | []() | [cpp](./28.%20.cpp) |
+|  | [Equal Tree Partition](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/617/week-5-august-29th-august-31st/3955/) | [cpp](./Equal%20Tree%20Partition.cpp) |
+| 29. | []() | [cpp](./29.%20.cpp) |
