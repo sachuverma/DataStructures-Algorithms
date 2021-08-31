@@ -35,3 +35,20 @@ n == nums.length
 All the integers of nums are unique.
 nums is sorted and rotated between 1 and n times.
 */
+
+class Solution {
+public:
+    int findMin(vector<int>& A) {
+        int left = 0, right = A.size()-1;
+        while(left <= right) {
+            int mid = (left + right) / 2;
+            if(mid-1 >= 0 && mid+1 < A.size() && A[mid] <= A[mid-1] && A[mid] <= A[mid+1]) return A[mid];
+            
+            if(A[mid] > A[right]) left = mid + 1;
+            else right = mid - 1;
+        }
+        
+        return A[left];
+    }
+};
+
