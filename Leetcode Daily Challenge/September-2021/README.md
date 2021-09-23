@@ -19,3 +19,4 @@
 | 21.  | [Max Consecutive Ones](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3982/) | [cpp](./21.%20Max%20Consecutive%20Ones.cpp) |
 |   | [Shortest Distance from All Buildings](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/639/week-4-september-22nd-september-28th/3983/) | [cpp](./Shortest%20Distance%20from%20All%20Buildings.cpp) |
 | 22.  | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/639/week-4-september-22nd-september-28th/3984/) | [cpp](./22.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.cpp) |
+| 23.  | [Break a Palindrome](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/639/week-4-september-22nd-september-28th/3985/) | [cpp](./23.%20Break%20a%20Palindrome.cpp) |
