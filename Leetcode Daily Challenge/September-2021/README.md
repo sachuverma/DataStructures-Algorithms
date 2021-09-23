@@ -15,3 +15,4 @@
 | 15.  | [Longest Turbulent Subarray](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3976/) | [cpp](./15.%20Longest%20Turbulent%20Subarray.cpp) |
 | 16.  | [Spiral Matrix](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3977/) | [cpp](./16.%20Spiral%20Matrix.cpp) |
 | 17.  | [Intersection of Two Arrays II](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3978/) | [cpp](./17.%20Intersection%20of%20Two%20Arrays%20II.cpp) |
+| 20.  | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3981/) | [cpp](./20.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.cpp) |
