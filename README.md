@@ -33,6 +33,7 @@ My social media handles:
     - [1️⃣ 100+ Top Product Based Companies](#1%EF%B8%8F⃣-100-top-product-based-companies)
     - [2️⃣ Language, Data Structures, CP](#2%EF%B8%8F⃣-language-data-structures-cp)
   - [🏆 DSA Practice Resources](#-dsa-practice-resources)
+    - [🔰 Leetcode Study Plan](#leetcode-study-plan)
     - [🔰 DSA Crack Sheet](#dsa-crack-sheet)
     - [🔰 Striver SDE Sheet](#striver-sde-sheet)
     - [🔰 Top Interview Preparation Questions](#top-interview-preparation-questions)
@@ -188,6 +189,8 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
 <p>
 Remember: Deliberate practice does not mean looking for answers and memorizing it. You won't go very far with that approach. The more you are able to solve a problem yourself without any reference to answers, the more you will improve.
 </p>
+
+### [🔰Leetcode Study Plan](./Leetcode%20Study%20Plan)
 
 ### [🔰DSA Crack Sheet](./DSA%20Crack%20Sheet)
 
