@@ -14,3 +14,4 @@
 |   | [Minimize Max Distance to Gas Station](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3975/) | [cpp](./Minimize%20Max%20Distance%20to%20Gas%20Station.cpp) |
 | 15.  | [Longest Turbulent Subarray](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3976/) | [cpp](./15.%20Longest%20Turbulent%20Subarray.cpp) |
 | 16.  | [Spiral Matrix](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3977/) | [cpp](./16.%20Spiral%20Matrix.cpp) |
+| 17.  | [Intersection of Two Arrays II](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3978/) | [cpp](./17.%20Intersection%20of%20Two%20Arrays%20II.cpp) |
