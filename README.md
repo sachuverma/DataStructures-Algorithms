@@ -609,7 +609,7 @@ Tech Gaints: They usually ask only a bit about normalization, ACID properties(im
 
 Start Ups: They do focus on system design a lot ans in between questions on DBMS are frequently asked
 So, we need to be 100% prepared for it & best way is to follow the System Design Primer (resource given below)
-Questions always revolves around the type of DB, why this DB, why not that DB, how to scale, SQL vs NoSQL, your familiarity level with those DBs, etc
+Questions always revolves around the type of DB, why this DB, why not that DB, how to scale, [SQL vs NoSQL](https://www.interviewbit.com/blog/sql-vs-mysql/), your familiarity level with those DBs, etc
 
 <details>
   <summary style="font-size:1.15rem;">Resources</summary>
