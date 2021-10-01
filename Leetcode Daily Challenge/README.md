@@ -17,3 +17,4 @@
 - [July](./July-2021)
 - [August](./August-2021)
 - [September](./September-2021)
+- [October](./October-2021)
