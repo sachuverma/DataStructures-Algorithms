@@ -58,6 +58,7 @@ My social media handles:
 ### 1️⃣ 100+ Top Product Based Companies
 
 People only chase after **FAANG**, because that's what is hyped up but now there are a lot of companies which:  
+`Good opportunities to enhance oneself`
 `Pay Exceptionally Well`  
 `Good Work Life`  
 `Great Projects/Learning`  
