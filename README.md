@@ -14,7 +14,7 @@
 an aspiring **Web Developer** and **Competitive Programmer**. -->
 
 I have compiled many useful links for **Data Structures and Algorithms** questions and their solutions.  
-I have also listed the **Theory Subjects**, which are often ignored by students but must have vast knowledge of it to help them in their interviews.  
+I have also listed the **Theory Subjects**, which are often ignored by students but must have a vast knowledge of it to help them in their interviews.  
 I have also included the **Placement Ready Roadmap**, from `beginner level -> interview ready candidate`
 
 <!-- My coding handles:
@@ -66,8 +66,8 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
 ### 2️⃣ Language, Data Structures, CP
 
 - Guide to how to start coding if you have zero knowledge about this field
-- Only way to become good at something is practice, an expert was once a nubie too
-- Only consistency matter, coding once a week for 10 hours is not benificial, rather coding 1 hour each day will benifit you more.
+- Only way to become good at something is to practice, an expert was once a newbie too ;)
+- Only consistency matters, coding once a week for 10 hours is not beneficial, rather coding 1 hour each day will benefit you more.
 - Reading/Learning/Practice resources are also listed below
 
 <details open>
@@ -118,8 +118,8 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
     * Choices:   
       - Mobile Development   
       - Web Development    
-      - Machine Leraning    
-      - Some other stuff (like, Blockchain, IOT, etc)   
+      - Machine Learning    
+      - Some other stuff (like Blockchain, IoT, etc.)   
     * Time Required: 3 months (doing on weekends 6-8 hours)
 
 </details>
@@ -138,13 +138,13 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
 <details>
   <summary style="font-size:1.15rem;">Competitive Programming</summary>
 
-- CP needs time, it's not somthing thant you can master in 2 months, We will get comfortable with online platorms and get a taste of competitive programming
+- CP needs time, it's not something that you can master in 2 months, We will get comfortable with online platforms and get a taste of competitive programming
 - Leetcode questions nearly 150-200 questions
   - Category:
     - Easy: 30%
     - Medium: 50%
     - Hard: 20%
-- If time allows then go for Codeforces div2 Level A,B and C question
+- If time allows then go for Codeforces div2 Level A, B and C question
 - Time Required:
   - 150-200 Questions
   - 2 months
