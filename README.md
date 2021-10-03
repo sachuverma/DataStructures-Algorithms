@@ -14,8 +14,8 @@
 an aspiring **Web Developer** and **Competitive Programmer**. -->
 
 I have compiled many useful links for **Data Structures and Algorithms** questions and their solutions.  
-I have also listed the **Theory Subjects**, which are often ignored by students but must have a vast knowledge of it to help them in their interviews.  
-I have also included the **Placement Ready Roadmap**, from `beginner level -> interview ready candidate`
+I have also listed the **Theory Subjects**, which are often ignored by students but one must have a vast knowledge of them to help them in their interviews.  
+I have also included the **Placement Ready Roadmap**, from `beginner level -> interview-ready candidate`
 
 <!-- My coding handles:
 `codeforces` [specialist](https://codeforces.com/profile/sachuverma)
@@ -157,13 +157,13 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
   <summary style="font-size:1.15rem;">System Design</summary>
 
 - Tech Level:
-  - System's overview like we will use this queue with DynamoDB and a acheduler with justification of why we are using this DB, SQS, SNS, multithreading, etc.
+  - System's overview like we will use this queue with DynamoDB and a scheduler with a justification of why we are using this DB, SQS, SNS, multithreading, etc.
   - for SDE-1 equivalent positions, this level is somewhat rare
 - Normal Understanding:
   - knowledge of dividing system & creating a rough DFD of system
   - knowledge of DB Schema creation
   - able to create problem-solving logic or not
-  - Time Required: Just need some reading of artiles/notes, can be pursued parallely
+  - Time Required: Just need some reading of articles/notes, can be pursued parallelly
 - Great Resources:
   - [Grokking](https://github.com/lei-hsia/grokking-system-design/blob/master/README.md)
   - [Primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md)
@@ -188,20 +188,20 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
 ## 🏆 DSA Practice Resources
 
 <p>
-Remember: Deliberate practice does not mean looking for answers and memorizing it. You won't go very far with that approach. The more you are able to solve a problem yourself without any reference to answers, the more you will improve.
+Remember: Deliberate practice does not mean looking for answers and memorizing them. You won't go very far with that approach. The more you are able to solve a problem yourself without any reference to answers, the more you will improve.
 </p>
 
 ### [🔰Leetcode Study Plan](./Leetcode%20Study%20Plan)
 
 ### [🔰DSA Crack Sheet](./DSA%20Crack%20Sheet)
 
-Data Structures and Algorithms Cracks Sheet (created by @lovebabbar) contains most necessary questions to learn and grasp about most common and important DS and Algos
+Data Structures and Algorithms Cracks Sheet (created by @lovebabbar) contains the most necessary questions to learn and grasp about most common and important DS and Algos
 
 ### [🔰Striver SDE Sheet](./Striver%20Sheet)
 
-Software Developer Engineer Sheet (created by @striver) contains asked during interwies by good product based companies.
+Software Developer Engineer Sheet (created by @striver) contains asked during interviews by good product based companies.
 
-The sheet is divided in 30 parts to be completed in a month to get ready for interview at a good company
+The sheet is divided in 30 parts to be completed in a month to get ready for an interview at a good company
 
 ### [🔰Top Interview Preparation Questions](./Leetcode%20Top%20Interview%20Questions)
 
@@ -284,7 +284,7 @@ If you don't have much time left for interviews, then you can directly look at t
 - What is DML (Data Manipulation Language)
 - What is normalization ? Types of them ..
 - What is denormalization ?
-- What is functional dependency ?
+- What is a functional dependency ?
 - E-R Model ?
 - Conflict Serializability in DBMS ..
 - Explain Normal forms in DBMS
@@ -294,9 +294,9 @@ If you don't have much time left for interviews, then you can directly look at t
 - Nested Queries in SQL ?
 - What is JOIN .. Explain types of JOINs
 - Inner and Outer Join
-- Practice sql queries from leetcode
+- Practice SQL queries from LeetCode
 - Diff between 2 tier and 3 tier architecture
-- Diff between TRUNCATE and DELETE command ..
+- Diff between TRUNCATE and DELETE command
 - Difference between Intension and Extension in a DataBase
 - Difference between share lock and exclusive lock, definition of lock
 
