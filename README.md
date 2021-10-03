@@ -1203,14 +1203,14 @@ Urls for other Notes, and Reading Resources picked from different editorials.
 
 ## 🏆 Sources
 
-Other coding websites, `hackerearth`, `gfg`, `leetcode`, `codechef`, `codeforces`  
-Youtube channels, `love babbar`, `take you forward`,
+Other coding websites, [hackerearth](https://www.hackerearth.com/), [gfg](https://www.geeksforgeeks.org/), [leetcode](https://leetcode.com/), [codechef](https://www.codechef.com/), [codeforces](https://codeforces.com/)  
+Youtube channels, [love babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw), [take you forward](https://www.youtube.com/c/takeUforward),
 
 <!-- CONTRIBUTING -->
 
-## 🏆 Contributing
+##[🏆 Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+](https://www.youtube.com/c/takeUforward)ontributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
