@@ -160,7 +160,7 @@
 ### 1. Array
 
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - [Cpp Solution](./Product%20of%20Array%20Except%20Self.cpp)
-- []() - [Cpp Solution](./.cpp)
+- [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) - [Cpp Solution](./Minimum%20Number%20of%20Days%20to%20Eat%20N%20Oranges.cpp)
 - []() - [Cpp Solution](./.cpp)
 - []() - [Cpp Solution](./.cpp)
 - []() - [Cpp Solution](./.cpp)
