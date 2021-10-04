@@ -97,7 +97,7 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
          - [Tutorialspoint](https://www.tutorialspoint.com/python/index.htm)   
          - [w3schools](https://www.w3schools.com/python/)   
        * Time Required: same as above
-       * **Important Callout:** Some companies don't allow python as a coice in their online coding test, so prepare accordingly
+       * **Important Callout:** Some companies don't allow python as a choice in their online coding test, so prepare accordingly
 </details>
 
 <details>
@@ -1204,7 +1204,7 @@ Urls for other Notes, and Reading Resources picked from different editorials.
 
 ## 🏆 Sources
 
-Other coding websites, [hackerearth](https://www.hackerearth.com/), [gfg](https://www.geeksforgeeks.org/), [leetcode](https://leetcode.com/), [codechef](https://www.codechef.com/), [codeforces](https://codeforces.com/)  
+Other coding websites, [hackerearth](https://www.hackerearth.com/), [gfg](https://www.geeksforgeeks.org/), [leetcode](https://leetcode.com/), [codechef](https://www.codechef.com/), [codeforces](https://codeforces.com/), [CSES Problem Set](https://cses.fi/problemset/)  
 Youtube channels, [love babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw), [take you forward](https://www.youtube.com/c/takeUforward),
 
 <!-- CONTRIBUTING -->
