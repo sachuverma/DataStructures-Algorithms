@@ -6,3 +6,4 @@
 | 2.  | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [cpp](./2.%20Dungeon%20Game.cpp) |
 | 3.  | [Jump Game](https://leetcode.com/problems/jump-game/) | [cpp](./3.%20Jump%20Game.cpp) |
 | 4.  | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [cpp](./4.%20Island%20Perimeter.cpp) |
+| 5.  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [cpp](./5.%20Climbing%20Stairs.cpp) |
