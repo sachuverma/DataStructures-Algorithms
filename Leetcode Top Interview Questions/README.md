@@ -131,6 +131,7 @@
 - [Unique Paths](https://leetcode.com/problems/unique-paths/) - [Cpp Solution](./solutions/Unique%20Paths.cpp)
 - [Coin Change](https://leetcode.com/problems/coin-change/) - [Cpp Solution](./solutions/Coin%20Change.cpp)
 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - [Cpp Solution](./solutions/Longest%20Increasing%20Subsequence.cpp)
+- [Word Break](https://leetcode.com/problems/word-break/) - [Cpp Solution](./solutions/Word%20Break.cpp)
 
 ### 7. Design
 
