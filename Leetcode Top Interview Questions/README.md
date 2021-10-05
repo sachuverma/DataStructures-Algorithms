@@ -56,7 +56,7 @@
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - [Cpp Solution](./solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - [Cpp Solution](./solutions/Maximum%20Subarray.cpp)
 - [House Robber](https://leetcode.com/problems/house-robber/) - [Cpp Solution](./solutions/House%20Robber.cpp)
-- [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) - [Cpp Solution](./solutions/LongestCommonSubsequnce.cpp)
+- [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) - [Cpp Solution](./solutions/Longest%20Common%20Subsequnce.cpp)
 
 ### 7. Design
 
