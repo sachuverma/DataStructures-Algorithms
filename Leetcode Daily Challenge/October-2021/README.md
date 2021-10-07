@@ -8,3 +8,4 @@
 | 4.  | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [cpp](./4.%20Island%20Perimeter.cpp) |
 | 5.  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [cpp](./5.%20Climbing%20Stairs.cpp) |
 | 6.  | [Finding Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [cpp](./6.%20Duplicates%20In%20Array.cpp) |
+| 7.  | [Word Search](https://leetcode.com/problems/word-search/) | []() |
