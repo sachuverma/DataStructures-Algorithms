@@ -155,6 +155,7 @@
 - [Majority Element](https://leetcode.com/problems/majority-element/) - [Cpp Solution](./solutions/Majority%20Element.cpp)
 - [Majority Element II](https://leetcode.com/problems/majority-element-ii/) - [Cpp Solution](./solutions/Majority%20Element%20II.cpp)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/) - [Cpp Solution](./solutions/Task%20Scheduler.cpp)
+- [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) - [Cpp Solution](./solutions/Zig%20Zag%20Conversion.cpp)
 
 ## Hard Level Collection
 
