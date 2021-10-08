@@ -125,7 +125,7 @@
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/) - [Cpp Solution](./solutions/Merge%20Intervals.cpp)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - [Cpp Solution](./solutions/Search%20in%20Rotated%20Sorted%20Array.cpp)
 - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) - [Cpp Solution](./solutions/Search%20a%202D%20Matrix%20II.cpp)
-- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - [Cpp Solution](./solutions/Create%20 Find%20First%20and%20Last%20Postion%20of%20Element%20in%20Sorted%20Array.cpp)
+- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - [Cpp  Solution (./solutions/Find%20First%20and%20Last%20Postion%20of%20Element%20in%20Sorted%20Array.cpp)
 
 ### 6. Dynamic Programming
 
