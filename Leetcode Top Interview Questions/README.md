@@ -133,6 +133,7 @@
 - [Coin Change](https://leetcode.com/problems/coin-change/) - [Cpp Solution](./solutions/Coin%20Change.cpp)
 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - [Cpp Solution](./solutions/Longest%20Increasing%20Subsequence.cpp)
 - [Word Break](https://leetcode.com/problems/word-break/) - [Cpp Solution](./solutions/Word%20Break.cpp)
+- [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) - [Cpp Solution](./solutions/Super%20Egg%20Drop.cpp)
 
 ### 7. Design
 
