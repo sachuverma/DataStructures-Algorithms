@@ -1,0 +1,20 @@
+class Solution {
+public:
+    int getXORSum(vector<int>& arr1, vector<int>& arr2) {
+        
+        
+        int xorval_arr2 = 0;
+        for(int i=0; i<arr2.size(); i++){
+            xorval_arr2^=arr2[i];
+        }
+        
+        int ans=0;
+        
+        for(int i=0; i<arr1.size(); i++){
+            int temp = arr1[i]&xorval_arr2;
+            ans = ans^temp;
+        }
+        
+        return ans;
+    }
+};
