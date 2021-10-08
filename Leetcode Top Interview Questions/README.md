@@ -156,14 +156,15 @@
 - [Majority Element](https://leetcode.com/problems/majority-element/) - [Cpp Solution](./solutions/Majority%20Element.cpp)
 - [Majority Element II](https://leetcode.com/problems/majority-element-ii/) - [Cpp Solution](./solutions/Majority%20Element%20II.cpp)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/) - [Cpp Solution](./solutions/Task%20Scheduler.cpp)
+- [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) - [Cpp Solution](./solutions/Zig%20Zag%20Conversion.cpp)
 
 ## Hard Level Collection
 
 ### 1. Array
 
-- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - [Cpp Solution](./Product%20of%20Array%20Except%20Self.cpp)
-- [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) - [Cpp Solution](./Minimum%20Number%20of%20Days%20to%20Eat%20N%20Oranges.cpp)
-- [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) - [Cpp Solution](.solutions/First%20Missing%20Positive.cpp)
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - [Cpp Solution](./solutions/Product%20of%20Array%20Except%20Self.cpp)
+- [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) - [Cpp Solution](./solutions/Minimum%20Number%20of%20Days%20to%20Eat%20N%20Oranges.cpp)
+- [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) - [Cpp Solution](./solutions/First%20Missing%20Positive.cpp)
 - []() - [Cpp Solution](./.cpp)
 - []() - [Cpp Solution](./.cpp)
 - []() - [Cpp Solution](./.cpp)
