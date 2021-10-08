@@ -9,7 +9,7 @@ As a coder, at some point in time, you will need Git, and once you start using i
 Before we dive in, let me explain the structure of Git so that you can understand the commands better.
 
 
-[Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories):They are a collection of files of various versions of a Project.
+[Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories): They are a collection of files of various versions of a Project.
 
 [Remote repository](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories): The current repo that is stored remotely/online. So the repos we see on Github or Gitlab website are the remote repos for those projects. They contain the changes made and pushed by everyone.
 
@@ -31,9 +31,9 @@ $ git config --global user.email "johndoe@email.com"
 Next, we need to initialize a folder as a git repository. This command actually creates a .git hidden folder inside your folder. This folder signifies that it is a git repo and stores the metadata required by Git.
 
 ```bash
-//Run the following command inside the folder
+# Run the following command inside the folder
 $ git init
-//Run the following command to create a new directory that is a git repo
+# Run the following command to create a new directory that is a git repo
 $ git init DIRECTORY_PATH/DIRECTORY_NAME
 ```
 **3) git clone**
@@ -49,11 +49,11 @@ $ git clone https://github.com/sachuverma/DataStructures-Algorithms
 The command git fetch downloads the remote repository details and changes on your device
 ```bash
 $ git fetch 
-//fetch for just one branch
+# fetch for just one branch
 $ git fetch <remote> <local> 
-//<remote> is the name of the remote branch
-//<local> is the name of the local branch
-//an example of it is 
+# <remote> is the name of the remote branch
+# <local> is the name of the local branch
+# an example of it is 
 $ git fetch origin master
 ```
 **5) git pull**
@@ -68,7 +68,8 @@ $ git pull <option> [<repository URL><refspec>...]
 
 The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.
 ```bash
-$ git status //a sample output of this command is as follows
+$ git status 
+# a sample output of this command is as follows
 On branch master
 Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
@@ -100,9 +101,9 @@ $ git commit -m "The message you want to write to describe this commit"
 Till now, whatever we were doing was happening to our local repository, but at some point, we needed to push it to the remote repository as well so that others could see and use our code. The git push command does this.
 ```bash
 $ git push <remote> <local> 
-//<remote> is the name of the remote branch
-//<local> is the name of the local branch
-//Example
+# <remote> is the name of the remote branch
+# <local> is the name of the local branch
+# Example
 $ git push origin master
 ```
 
@@ -111,7 +112,7 @@ $ git push origin master
 After performing multiple commits, we will actually want to look at how the code has evolved. As we will learn ahead, there are also chances that many people make commits to their branch and at some point might want to merge their branch with a different branch. All such actions that have been done in our repo can be accessed using the git log command
 ```bash
 $ git log --graph --oneline --decorate
-//a sample output
+# a sample output
 *   0e25143 (HEAD, main) Merge branch 'feature'
 |\  
 | * 16b36c6 Fix a bug in the new feature
@@ -133,19 +134,19 @@ $ git log --oneline
 3602d88 add new content to demo file
 299b15f initial commit
 $ git reset --hard c14809fa
-//this command will not changes files that you have not git added 
+# this command will not changes files that you have not git added 
 ```
 
 **12) git branch**
 
 This command lets us create, list, rename, and delete branches. Let's look at a few examples.
 ```bash
-//this lists the name of the branches present
+# this lists the name of the branches present
 $ git branch 
 main 
 another_branch 
 feature_inprogress_branch
-//delete a branch safely
+# delete a branch safely
 $ git branch -d <branch>
 $ git branch -d another_branch
 ```
@@ -156,7 +157,7 @@ The git checkout command lets you navigate between the branches created by git b
 ```bash
 $ git checkout <branch_name>
 $ git checkout another_branch
-//create a new branch
+# create a new branch
 $ git checkout -b <new_branch_name>
 $ git checkout -b new_feature_branch
 ```
@@ -166,11 +167,11 @@ $ git checkout -b new_feature_branch
 
 There are times when we will need to compare the code between versions or between branches; that is when we use git diff.
 ```bash
-//print any uncommitted changes since the last commit.
+# print any uncommitted changes since the last commit.
 $ git diff
-//compare code between two branches
+# compare code between two branches
 $ git diff branch1 branch2
-//print the uncommitted changes made in one file
+# print the uncommitted changes made in one file
 $ git diff /filepath/filename
 ```
 
