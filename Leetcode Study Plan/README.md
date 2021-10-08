@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithm
 
 ### Day 1 (Binary Search)
 
