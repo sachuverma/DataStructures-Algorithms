@@ -175,4 +175,4 @@
 - []() - [Cpp Solution](./.cpp)
 - []() - [Cpp Solution](./.cpp)
 - []() - [Cpp Solution](./.cpp)
-- [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) - [Cpp Solution](./Find_XOR_Sum_of_All_Pairs_Bitwise_AND.cpp)
+- [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) - [Cpp Solution](https://github.com/waytoashutosh/DataStructures-Algorithms/blob/f84c18b132026d4ad4e82284a54b4a0eb72615ca/Leetcode%20Top%20Interview%20Questions/solutions/Find_XOR_Sum_of_All_Pairs_Bitwise_AND)
