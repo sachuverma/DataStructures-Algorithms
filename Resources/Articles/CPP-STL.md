@@ -1,4 +1,4 @@
-# C++ Data Structures and Algorithms Cheat Sheet
+# C++ Data Structures and Algorithms Cheat Sheets
 
 ## Table of Contents
 
