@@ -1188,6 +1188,7 @@ Urls for other Notes, and Reading Resources picked from different editorials.
 - [📙 Last Minute Notes – DBMS](https://www.geeksforgeeks.org/last-minute-notes-dbms/)
 - [📙 Last Minute Notes – Algorithms](https://www.geeksforgeeks.org/lmns-algorithms-gq/)
 - [📙 Last Minute Notes – Data Structure](https://www.geeksforgeeks.org/lmns-gq/lmns-data-structure-gq/)
+- [📙 Last Minute Notes – Git](https://towardsdatascience.com/a-git-cheatsheet-that-all-coders-need-bf8ad4d91576)
 </details>
 
 <details>
