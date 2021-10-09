@@ -112,6 +112,7 @@
 - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - [Cpp Solution](./solutions/Letter%20Combinations%20of%20a%20Phone%20Number.cpp)
 - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) - [Cpp Solution](./solutions/Generate%20Parentheses.cpp)
 - [Permutations](https://leetcode.com/problems/permutations/) - [Cpp Solution](./solutions/Permutations.cpp)
+- [Permutations II](https://leetcode.com/problems/permutations-ii/) - [Cpp Solution](./solutions/Permutations%20II.cpp)
 - [Subsets](https://leetcode.com/problems/subsets/) - [Cpp Solution](./solutions/Subsets.cpp)
 - [Word Search](https://leetcode.com/problems/word-search/) - [Cpp Solution](./solutions/Word%20Search.cpp)
 
