@@ -8,4 +8,8 @@
 | 4.  | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [cpp](./4.%20Island%20Perimeter.cpp) |
 | 5.  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [cpp](./5.%20Climbing%20Stairs.cpp) |
 | 6.  | [Finding Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [cpp](./6.%20Finding%20Duplicates.cpp) |
-| 10.  | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [cpp](./10.%20Bitwise%20AND%20of%20Numbers%20Range.cpp) |
+| 6.  | [Finding Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [cpp](./6.%20Duplicates%20In%20Array.cpp) |
+| 7.  | [Word Search](https://leetcode.com/problems/word-search/) | [cpp](./7.%20Word%20Search.cpp) |
+| 8.  | [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | []() |
+| 9.  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | []() |
+| 10. | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [cpp](./10.%20Bitwise%20AND%20of%20Numbers%20Range.cpp) |

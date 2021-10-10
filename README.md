@@ -1177,6 +1177,7 @@ Urls for other Notes, and Reading Resources picked from different editorials.
 
 - [📘 CPP Data Structures, Algorithms, and STL Sheet](./Resources/Articles/CPP-STL.md)
 - [📘 CPP Syntax Cheet Sheet](./Resources/Articles/CPP-SYNTAX.md)
+- [📘 GitHub Sheet](./Resources/Articles/GitCheatsheet.md)
 </details>
 
 <details>
@@ -1188,6 +1189,7 @@ Urls for other Notes, and Reading Resources picked from different editorials.
 - [📙 Last Minute Notes – DBMS](https://www.geeksforgeeks.org/last-minute-notes-dbms/)
 - [📙 Last Minute Notes – Algorithms](https://www.geeksforgeeks.org/lmns-algorithms-gq/)
 - [📙 Last Minute Notes – Data Structure](https://www.geeksforgeeks.org/lmns-gq/lmns-data-structure-gq/)
+- [📙 Last Minute Notes – Git](https://towardsdatascience.com/a-git-cheatsheet-that-all-coders-need-bf8ad4d91576)
 </details>
 
 <details>
@@ -1218,6 +1220,14 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+### :handshake: Our Contributors
+<details>
+  <summary>Click to view!</summary>
+  <a href="https://github.com/sachuverma/DataStructures-Algorithms/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=sachuverma/DataStructures-Algorithms" />
+  </a>
+</details>
 
 <!-- LICENSE -->
 

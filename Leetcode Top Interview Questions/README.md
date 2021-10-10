@@ -112,6 +112,7 @@
 - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - [Cpp Solution](./solutions/Letter%20Combinations%20of%20a%20Phone%20Number.cpp)
 - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) - [Cpp Solution](./solutions/Generate%20Parentheses.cpp)
 - [Permutations](https://leetcode.com/problems/permutations/) - [Cpp Solution](./solutions/Permutations.cpp)
+- [Permutations II](https://leetcode.com/problems/permutations-ii/) - [Cpp Solution](./solutions/Permutations%20II.cpp)
 - [Subsets](https://leetcode.com/problems/subsets/) - [Cpp Solution](./solutions/Subsets.cpp)
 - [Word Search](https://leetcode.com/problems/word-search/) - [Cpp Solution](./solutions/Word%20Search.cpp)
 
@@ -125,6 +126,7 @@
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/) - [Cpp Solution](./solutions/Merge%20Intervals.cpp)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - [Cpp Solution](./solutions/Search%20in%20Rotated%20Sorted%20Array.cpp)
 - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) - [Cpp Solution](./solutions/Search%20a%202D%20Matrix%20II.cpp)
+- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - [Cpp Solution](./solutions/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)
 
 ### 6. Dynamic Programming
 
@@ -133,6 +135,7 @@
 - [Coin Change](https://leetcode.com/problems/coin-change/) - [Cpp Solution](./solutions/Coin%20Change.cpp)
 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - [Cpp Solution](./solutions/Longest%20Increasing%20Subsequence.cpp)
 - [Word Break](https://leetcode.com/problems/word-break/) - [Cpp Solution](./solutions/Word%20Break.cpp)
+- [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) - [Cpp Solution](./solutions/Super%20Egg%20Drop.cpp)
 
 ### 7. Design
 
@@ -156,6 +159,8 @@
 - [Majority Element](https://leetcode.com/problems/majority-element/) - [Cpp Solution](./solutions/Majority%20Element.cpp)
 - [Majority Element II](https://leetcode.com/problems/majority-element-ii/) - [Cpp Solution](./solutions/Majority%20Element%20II.cpp)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/) - [Cpp Solution](./solutions/Task%20Scheduler.cpp)
+- [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) - [Cpp Solution](./solutions/Zig%20Zag%20Conversion.cpp)
+- [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) - [Cpp Solution](./solutions/Repeated%20DNA%20Sequences.cpp)
 
 ## Hard Level Collection
 
