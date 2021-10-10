@@ -1,0 +1,48 @@
+Given a linked list, reverse the nodes of a linked list k at a time and return its modified list.
+You may not alter the values in the list's nodes, only nodes themselves may be changed.
+
+ Example 1:
+ Input: head = [1,2,3,4,5], k = 2
+Output: [2,1,4,3,5]
+
+Solution:
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        int c =0;
+      ListNode* temp = head;
+  // If the number of nodes is less than k then don't reverse just return the head
+  while(c<k){
+  if(temp == NULL)
+    return head;
+  temp = temp->next;
+  c++;
+}
+      ListNode* prev = NULL;
+      ListNode* curr= head;
+      ListNode* next;
+      
+      while(k-- > 0){
+        next = curr->next;
+        curr->next = prev;
+        prev = curr;
+        curr = next;
+      }
+      if(curr!=NULL)
+      //append each reversed group
+      head->next = reverseKGroup(curr, c);
+        //prev node points to reversed head
+        return prev;
+      
+    }
+};
