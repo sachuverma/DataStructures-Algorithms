@@ -11,3 +11,4 @@
 | 7.  | [Word Search](https://leetcode.com/problems/word-search/) | [cpp](./7.%20Word%20Search.cpp) |
 | 8.  | [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | []() |
 | 9.  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | []() |
+| 10.  | [Bitwise And of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | []() |
