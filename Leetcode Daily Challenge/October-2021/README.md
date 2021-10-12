@@ -13,3 +13,5 @@
 | 8.  | [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | []() |
 | 9.  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | []() |
 | 10. | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [cpp](./10.%20Bitwise%20AND%20of%20Numbers%20Range.cpp) |
+| 12. | [Guess Number Higher or Lower
+](https://leetcode.com/problems/guess-number-higher-or-lower/) | [cpp](./12.%20Guess%20Number%20Higher%20or%20Lower.cpp) |
