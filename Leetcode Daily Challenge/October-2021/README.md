@@ -13,3 +13,4 @@
 | 9.  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [cpp](./9.%20Word%20Search%20II.cpp) |
 | 10.  | [Bitwise And of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [cpp](./10.%20Bitwise%20AND%20of%20Numbers%20Range.cpp) |
 | 11.  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [cpp](./11.%20Diameter%20of%20Binary%20Tree.cpp) |
+| 14.  | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [cpp](./14.%20Perfect%20Squares.cpp) |
