@@ -16,6 +16,7 @@
 - [Two Sum](https://leetcode.com/problems/two-sum/) - [Cpp Solution](./solutions/Two%20Sum.cpp)
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - [Cpp Solution](./solutions/Valid%20Sudoku.cpp)
 - [Rotate Image](https://leetcode.com/problems/rotate-image/) - [Cpp Solution](./solutions/Rotate%20Image.cpp)
+- [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) - [C++ Solutoin](.solutions/SubrectangleQueries.cpp)
 
 ### 2. Strings
 
