@@ -17,6 +17,7 @@
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - [Cpp Solution](./solutions/Valid%20Sudoku.cpp)
 - [Rotate Image](https://leetcode.com/problems/rotate-image/) - [Cpp Solution](./solutions/Rotate%20Image.cpp)
 - [Minimum Number Of Operations to Move Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/submissions/) - [C++ Solution](Minimum%20Number%20Of%20Operations%20To%20Move%20All%20Balls%20To%20Each%20Box.cpp)
+- [Group People By Group Size](//https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) - [C++ Solution](.solutions/Group%20The%20People%20Given%20By%20Group%20Size.cpp)
 
 ### 2. Strings
 
