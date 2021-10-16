@@ -16,7 +16,7 @@
 - [Two Sum](https://leetcode.com/problems/two-sum/) - [Cpp Solution](./solutions/Two%20Sum.cpp)
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - [Cpp Solution](./solutions/Valid%20Sudoku.cpp)
 - [Rotate Image](https://leetcode.com/problems/rotate-image/) - [Cpp Solution](./solutions/Rotate%20Image.cpp)
-- [Max-Increase-to-keep-city-skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) - [C++ Solution](.solutions/Max-increase-to-keep-city-skyline.cpp)
+- [Max-Increase-to-keep-city-skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) - [C++ Solution](./solutions/Max%20Increase%20To%20Keep%20City%20Skyline.cpp)
 
 ### 2. Strings
 
