@@ -42,21 +42,19 @@ Constraints:
 
 vector<vector<int>> sortedMatrix(int N, vector<vector<int>> Mat)
 {
-  vector<int> sorted;
-  for (auto &row : Mat)
-  {
-    for (auto &i : row)
-      sorted.push_back(i);
-  }
-  sort(sorted.begin(), sorted.end());
-  int i = 0;
-  for (auto &row : Mat)
-  {
-    for (auto &e : row)
-    {
-      e = sorted[i];
-      i++;
-    }
-  }
-  return Mat;
+  int temp[n * n];
+  int aux = 0;
+  int i;
+  int j;
+
+  for(i = 0; i < n; i++)
+    for(j = 0; j < n; j++)
+       aux[k++] = Mat[i][j];
+
+    sort(temp, temp + aux);
+
+    aux = 0;
+    for(i = 0; i < n; i++)
+        for (j = 0; j < n; j++)
+            mat[i][j] = temp[aux++];
 }
