@@ -15,4 +15,4 @@
 | 11.  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [cpp](./11.%20Diameter%20of%20Binary%20Tree.cpp) |
 | 14.  | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [cpp](./14.%20Perfect%20Squares.cpp) |
 | 15.  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [cpp](./15.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.cpp) |
-| 16.  | [ Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [cpp](./16.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.cpp) |
+| 16.  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [cpp](./16.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.cpp) |
