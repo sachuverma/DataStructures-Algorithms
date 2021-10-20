@@ -181,3 +181,8 @@
 - []() - [Cpp Solution](./.cpp)
 - []() - [Cpp Solution](./.cpp)
 - []() - [Cpp Solution](./.cpp)
+
+
+### 2. Dynamic Programming
+
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - [Cpp Solution](./solutions/Trapping%20Rain%20Water.cpp)
