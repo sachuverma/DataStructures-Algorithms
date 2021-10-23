@@ -20,6 +20,7 @@
 - [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) - [C++ Solutoin](./solutions/Subrectangle%20Queries.cpp)
 - [Minimum Number Of Operations to Move Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/submissions/) - [C++ Solution](./solutions/Minimum%20Number%20Of%20Operations%20To%20Move%20All%20Balls%20To%20Each%20Box.cpp)
 - [Group People By Group Size](//https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) - [C++ Solution](./solutions/Group%20The%20People%20Given%20By%20Group%20Size.cpp)
+- [Summary Ranges](//https://leetcode.com/problems/summary-ranges/) - [C++ Solution](./solutions/Summary%20Ranges.cpp)
 
 ### 2. Strings
 
