@@ -1,5 +1,5 @@
 # STRIVER DSA SHEET
-[Takeuforward](https://takeuforward.org/)
+[Takeuforward Website](https://takeuforward.org/)      
 [Sheet Link](https://docs.google.com/document/d/1JLKCaz4n4YtYdQ1bJF1X46BKbxldedb6N1OMiXh9Dmo/edit?usp=sharing)
 
 ### Day 1 (Arrays)
