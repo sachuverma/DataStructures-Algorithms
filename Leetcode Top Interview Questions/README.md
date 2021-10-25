@@ -88,6 +88,7 @@
 
 ### 1. Array
 
+- [4Sum](https://leetcode.com/problems/4sum/) - [Cpp Solution](./solutions/4Sum.cpp)
 - [3Sum](https://leetcode.com/problems/3sum/) - [Cpp Solution](./solutions/3Sum.cpp)
 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - [Cpp Solution](./solutions/Set%20Matrix%20Zeroes.cpp)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/) - [Cpp Solution](./solutions/Group%20Anagrams.cpp)
