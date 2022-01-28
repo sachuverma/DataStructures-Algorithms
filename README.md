@@ -658,7 +658,7 @@ Questions always revolves around the type of DB, why this DB, why not that DB, h
   - Foreign Key
   - Candidate Key
   - Alternate Key
-  - Super Key
+  - Super Key(https://www.scaler.com/topics/super-key-in-dbms/)
   - Secondary Key
 - [Databse Schema](https://www.tutorialspoint.com/dbms/dbms_data_schemas.htm)
   - Physical Databse Schema
