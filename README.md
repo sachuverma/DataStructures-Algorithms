@@ -487,7 +487,7 @@ If you don't have much time left for interviews, then you can directly look at t
   - Hold & Wait
   - No Pre-emption
   - Circular Wait
-- Methods for Deadlock handling
+- [Methods for Deadlock handling](https://www.scaler.com/topics/dbms/deadlock-in-dbms/)
   - Prevention or Avoidance
   - Detection or Recovery
     - Banker's Algo
