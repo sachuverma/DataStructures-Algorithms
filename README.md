@@ -664,7 +664,7 @@ Questions always revolves around the type of DB, why this DB, why not that DB, h
   - Physical Databse Schema
   - Logical Databse Schema
 - [Schema Diagrams](https://www.geeksforgeeks.org/mapping-from-er-model-to-relational-model/)
-  - Relational Model
+  - [Relational Model](https://www.scaler.com/topics/dbms/relational-model-in-dbms/)
   - ER Diagram
 - [Relational Operations](https://www.guru99.com/relational-algebra-dbms.html)
   - Select
