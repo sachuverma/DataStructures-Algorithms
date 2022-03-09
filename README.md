@@ -90,12 +90,14 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
      * Java
        * Refrences:   
          - [Tutorialpoint](https://www.tutorialspoint.com/java/index.htm)   
-         - [GFG](https://www.geeksforgeeks.org/java/)   
+         - [GFG](https://www.geeksforgeeks.org/java/)
+         - [Scaler](https://www.scaler.com/topics/java/)
        * Time Required: same as above    
      * Python
        * Refrences:    
          - [Tutorialspoint](https://www.tutorialspoint.com/python/index.htm)   
-         - [w3schools](https://www.w3schools.com/python/)   
+         - [w3schools](https://www.w3schools.com/python/)
+         - [Scaler Topics](https://www.w3schools.com/python/)
        * Time Required: same as above
        * **Important Callout:** Some companies don't allow python as a choice in their online coding test, so prepare accordingly
 </details>
@@ -993,7 +995,7 @@ What to expect from these resources,
 - [What is a final variable?](https://www.educative.io/edpresso/what-is-the-final-keyword-in-java)
 - [What is meant by an exception?](http://www.iitk.ac.in/esc101/05Aug/tutorial/essential/exceptions/definition.html)
 - [Is an error basically the same as an exception?](https://www.quora.com/What-is-the-difference-between-error-and-an-exception)
-- Exception handling?
+- [Exception handling?](https://www.scaler.com/topics/java/exception-handling-in-java/)
   - [try catch](https://beginnersbook.com/2013/04/try-catch-in-java/)
 - [What is the method 'finalize' used for?](https://www.javatpoint.com/java-object-finalize-method)
 - [What is a token?](https://www.geeksforgeeks.org/cc-tokens/)
