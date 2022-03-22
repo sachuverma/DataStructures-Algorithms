@@ -269,7 +269,7 @@ If you don't have much time left for interviews, then you can directly look at t
 <summary style="font-size:1.15rem;">DBMS: </summary>
 
 - What is DBMS ? Mention advantages..
-- What is Database?
+- [What is Database?](https://www.scaler.com/topics/dbms/what-is-database/)
 - What is a database system?
 - What is RDBMS ? Properties..
 - Types of database languages
@@ -341,7 +341,7 @@ If you don't have much time left for interviews, then you can directly look at t
   <summary style="font-size:1.15rem;">Overview</summary>
 
 - [Quick Notes to Follow](https://mega.nz/file/pEpRUIQQ#ArZTGmmvMpygGuoOL6rokFesY7IJVTDJCPUQ_VsLR4U)
-- What is an Operating System
+- [What is an Operating System](https://www.scaler.com/topics/operating-system/what-is-operating-system/)
 - Services provided by an Operating System
 - [Types of Os](https://www.geeksforgeeks.org/types-of-operating-systems/)
   - Batched OS
@@ -365,7 +365,7 @@ If you don't have much time left for interviews, then you can directly look at t
   - Kernel
   - Shell
   - JVM
-  - Booting
+  - [Booting](https://www.scaler.com/topics/operating-system/what-is-booting/)
 - [Multi-programming, Multi-processing, Multi-tasking & Multi-threading](https://www.geeksforgeeks.org/difference-between-multitasking-multithreading-and-multiprocessing/)
 - [Monolothic architecture vs MicroKernel arch](https://stackoverflow.com/questions/4537850/what-is-difference-between-monolithic-and-micro-kernel)
 - [Why Windows kernel is more monolithic & not microkernel?](https://micksmix.wordpress.com/2011/02/20/does-windows-have-a-microkernel-or-monolithic-kernel/)
