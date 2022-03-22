@@ -120,8 +120,8 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
   * You need some projects to showcase your skills to your interviewer
     * Choices:   
       - Mobile Development   
-      - Web Development    
-      - Machine Learning    
+      - [Web Development](https://www.scaler.com/courses/web-development/)    
+      - [Machine Learning](https://www.scaler.com/courses/machine-learning-course-training/)    
       - Some other stuff (like Blockchain, IoT, etc.)   
     * Time Required: 3 months (doing on weekends 6-8 hours)
 
