@@ -276,7 +276,7 @@ If you don't have much time left for interviews, then you can directly look at t
 - ACID properties (VVVVV IMP)
 - Difference between vertical and horizontal scaling
 - What is sharding
-- Keys in DBMS
+- [Keys in DBMS](https://www.scaler.com/topics/dbms/keys-in-dbms/)
 - Types of relationship
 - Data abstraction in DBMS, three levels of it
 - Indexing in DBMS
