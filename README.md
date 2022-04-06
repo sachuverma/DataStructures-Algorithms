@@ -513,7 +513,7 @@ If you don't have much time left for interviews, then you can directly look at t
   - What is Swapping
     - Ex-Priority based Scheduling
     - Done by Dispatcher
-    - Context Switch time in swapping is very high
+    - [Context Switch](https://www.scaler.com/topics/operating-system/context-switching-in-os/) time in swapping is very high
     - OS can't swap process that has pending input/output
   - Imp topics to cover
     - [Follow youtube videos](https://www.youtube.com/watch?v=YwqexcfbucE&list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
