@@ -385,6 +385,7 @@ If you don't have much time left for interviews, then you can directly look at t
 - [Process vs Threads](https://www.geeksforgeeks.org/difference-between-process-and-thread/)
 - Process Scheduling
   - [Introduction](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
+  - [Inter Process Communication (IPS) in OS](https://www.scaler.com/topics/operating-system/inter-process-communication-in-os/)
   - Scheduling Queue
     - Job Queue
     - Ready Queue
