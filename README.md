@@ -83,7 +83,8 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
        * Refrences:    
          - [cpprefrences](https://en.cppreference.com/w/cpp)   
          - [tutorialspoint](https://www.tutorialspoint.com/cplusplus/index.htm)   
-         - [cplusplus](http://www.cplusplus.com/reference/)     
+         - [cplusplus](http://www.cplusplus.com/reference/)
+         - [Scaler Topics](https://www.scaler.com/topics/cpp/)
        * Time Required:    
          - 1-2 weeks   
          - 1-2 hrs/day   
@@ -275,18 +276,18 @@ If you don't have much time left for interviews, then you can directly look at t
 - What is a database system?
 - What is RDBMS ? Properties..
 - Types of database languages
-- ACID properties (VVVVV IMP)
+- [ACID properties](https://www.scaler.com/topics/dbms/acid-properties-in-dbms/) (VVVVV IMP)
 - Difference between vertical and horizontal scaling
 - What is sharding
 - [Keys in DBMS](https://www.scaler.com/topics/dbms/keys-in-dbms/)
 - Types of relationship
 - Data abstraction in DBMS, three levels of it
-- Indexing in DBMS
+- [Indexing in DBMS](https://www.scaler.com/topics/dbms/indexing-in-dbms/)
 - What is DDL (Data Definition Language)
 - What is DML (Data Manipulation Language)
-- What is normalization ? Types of them ..
-- What is denormalization ?
-- What is a functional dependency ?
+- [What is normalization](https://www.scaler.com/topics/dbms/normalization-in-dbms/) ? Types of them ..
+- [What is denormalization](https://www.scaler.com/topics/denormalization-in-dbms/) ?
+- [What is a functional dependency](https://www.scaler.com/topics/dbms/functional-dependency-in-dbms/) ?
 - E-R Model ?
 - Conflict Serializability in DBMS ..
 - Explain Normal forms in DBMS
@@ -782,7 +783,7 @@ Questions always revolves around the type of DB, why this DB, why not that DB, h
 - [What is Deadlock?](https://www.geeksforgeeks.org/deadlock-in-dbms/)
   - Examples?
 - Deadlock Detection
-- How to prevent Deadlock (already in OS Topics)
+- [How to prevent Deadlock](https://www.scaler.com/topics/operating-system/deadlock-prevention-in-operating-system/) (already in OS Topics)
   - Mutual Exclusion
   - Hold and Wait
   - No PreEmption
@@ -833,6 +834,8 @@ What to expect from these resources,
 
 - [C++](https://www.javatpoint.com/cpp-oops-concepts)
 - [Java](https://www.javatpoint.com/java-oops-concepts)
+- [Python](https://www.scaler.com/topics/oops-concepts-in-python/)
+- [OOPs Concepts](https://www.scaler.com/topics/what-is-object-oriented-programming-oop/)
 
 </details>
 
@@ -876,7 +879,7 @@ What to expect from these resources,
     - [Virtual Copy Constructor](https://www.tutorialspoint.com/virtual-copy-constructor-in-cplusplus)
     - [How constructors are different from a normal member function?](https://iq.opengenus.org/constructor-cpp/)
     - [Can we have more than one constructor in a class?](https://stackoverflow.com/questions/37517522/why-would-you-need-to-use-more-than-one-constructor)
-      - Constructor Overloading
+      - [Constructor Overloading](https://www.scaler.com/topics/constructor-overloading-in-java/)
   - [Destructor](https://www.geeksforgeeks.org/destructors-c/)
     - [Private Destructor](https://www.geeksforgeeks.org/private-destructor/)
     - [Virtual Destructor](https://www.geeksforgeeks.org/virtual-destructor/)
@@ -900,7 +903,7 @@ What to expect from these resources,
   - [const](https://stackoverflow.com/questions/7428358/why-const-keyword-is-not-used-in-java)
   - [super](https://www.javatpoint.com/super-keyword)
 - Features of OOPS
-  - Polymorphism
+  - [Polymorphism](https://www.scaler.com/topics/java/polymorphism-in-java/)
     - [What?](https://www.javatpoint.com/runtime-polymorphism-in-java)
     - [Need?](https://stackoverflow.com/questions/11064409/why-to-use-polymorphism)
     - Categorisation
@@ -918,7 +921,7 @@ What to expect from these resources,
     - [Abstract Class](https://www.javatpoint.com/abstract-class-in-java)
     - [Pure Virtual Function](https://www.geeksforgeeks.org/pure-virtual-functions-and-abstract-classes/)
     - [Pure Virtual Destructor](https://stackoverflow.com/questions/1219607/why-do-we-need-a-pure-virtual-destructor-in-c)
-  - Inheritance
+  - [Inheritance](https://www.scaler.com/topics/java/inheritance-in-java/)
     - [What is Inheritance?](https://www.javatpoint.com/inheritance-in-java)
       - Sub Class
       - Super Class
@@ -947,24 +950,25 @@ What to expect from these resources,
     - [Does Overloading works with Inheritance?](https://www.geeksforgeeks.org/does-overloading-work-with-inheritance/)
     - [Difference between polymorphism and inheritance?](https://www.geeksforgeeks.org/difference-between-inheritance-and-polymorphism/)
     - [Generalisation vs Aggregation vs Composition](https://javapapers.com/oops/association-aggregation-composition-abstraction-generalization-realization-dependency/)
-  - Encapsulation
+  - [Encapsulation](https://www.scaler.com/topics/java/encapsulation-in-java/)
     - [What?](https://www.javatpoint.com/encapsulation)
       - Combo of Data-hiding & Abstraction
     - [Advantages/Needs?](https://www.javatpoint.com/q/7216/use-of-encapsulation-in-java)
     - [How to achieve?](https://www.quora.com/How-do-we-achieve-encapsulation-in-java)
     - [Code/implementation Example](https://beginnersbook.com/2013/05/encapsulation-in-java/)
     - [Real World Example](https://www.sitesbay.com/java/java-encapsulation)
+    - [Difference Between Abstraction and Encapsulation](https://www.scaler.com/topics/difference-between-encapsulation-and-abstraction/)
   - Abstraction
-    - [What?](https://www.javatpoint.com/javascript-oops-abstraction)
+    - [What?](https://www.scaler.com/topics/java/abstraction-in-java/)
       - Implementation hiding
     - When to use?
     - [How to achieve?](https://www.javatpoint.com/how-to-achieve-abstraction-in-java)
       - C++
         - Access Specifiers
-        - header Files
+        - [header Files](https://www.scaler.com/topics/cpp/cpp-header-files/)
       - Java
-        - Interfaces
-        - Abstract Classes
+        - [Interfaces](https://www.scaler.com/topics/java/interface-in-java/)
+        - [Abstract Classes](https://www.scaler.com/topics/java/abstract-class-in-java/)
     - [Encapsulation vs Abstraction](https://stackoverflow.com/questions/12072980/encapsulation-vs-abstraction-real-world-example)
       - Example
     - [What are the differences between interfaces and abstract classes?](https://www.javatpoint.com/difference-between-abstract-class-and-interface)
