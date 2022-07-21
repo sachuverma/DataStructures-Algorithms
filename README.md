@@ -345,6 +345,7 @@ If you don't have much time left for interviews, then you can directly look at t
 
 - [Quick Notes to Follow](https://mega.nz/file/pEpRUIQQ#ArZTGmmvMpygGuoOL6rokFesY7IJVTDJCPUQ_VsLR4U)
 - [What is an Operating System](https://www.scaler.com/topics/operating-system/what-is-operating-system/)
+- [Features of Operating System](https://www.interviewbit.com/blog/features-of-operating-system/)  
 - Services provided by an Operating System
 - [Types of Os](https://www.geeksforgeeks.org/types-of-operating-systems/)
   - Batched OS
