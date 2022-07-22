@@ -1213,7 +1213,7 @@ Urls for other Notes, and Reading Resources picked from different editorials.
 
 ## 🏆 Sources
 
-Other coding websites, [hackerearth](https://www.hackerearth.com/), [gfg](https://www.geeksforgeeks.org/), [leetcode](https://leetcode.com/), [codechef](https://www.codechef.com/), [codeforces](https://codeforces.com/), [CSES Problem Set](https://cses.fi/problemset/)  
+Other coding websites, [hackerearth](https://www.hackerearth.com/), [gfg](https://www.geeksforgeeks.org/), [leetcode](https://leetcode.com/), [codechef](https://www.codechef.com/), [codeforces](https://codeforces.com/), [CSES Problem Set](https://cses.fi/problemset/), [Scaler](https://www.scaler.com/topics/)  
 Youtube channels, [love babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw), [take you forward](https://www.youtube.com/c/takeUforward),
 
 <!-- CONTRIBUTING -->
