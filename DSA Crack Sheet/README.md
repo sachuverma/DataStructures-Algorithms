@@ -197,6 +197,7 @@
 - [Kth ancestor of a node in binary tree](https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/ "view post")
 - [Duplicate Subtrees](https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1# "view question") - [Cpp Solution](./solutions/Duplicate%20Subtrees.cpp)
 - [Check if Tree is Isomorphic](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1# "view question") - [Cpp Solution](./solutions/Check%20if%20Tree%20is%20Isomorphic.cpp)
+- [Print Right View of a Binary Tree](https://www.scaler.com/topics/right-view-of-a-binary-tree/)
 
 ### Binary Search Tree
 
