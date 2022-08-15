@@ -80,8 +80,8 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
     * main focus is on, that are you comfortable in writing code with your preferred language
   - Choices
      * C++
-       * Refrences:    
-         - [cpprefrences](https://en.cppreference.com/w/cpp)   
+       * References:    
+         - [cppreferences](https://en.cppreference.com/w/cpp)   
          - [tutorialspoint](https://www.tutorialspoint.com/cplusplus/index.htm)   
          - [cplusplus](http://www.cplusplus.com/reference/)
          - [Scaler Topics](https://www.scaler.com/topics/cpp/)
@@ -89,13 +89,13 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
          - 1-2 weeks   
          - 1-2 hrs/day   
      * Java
-       * Refrences:   
+       * References:   
          - [Tutorialpoint](https://www.tutorialspoint.com/java/index.htm)   
          - [GFG](https://www.geeksforgeeks.org/java/)
          - [Scaler](https://www.scaler.com/topics/java/)
        * Time Required: same as above    
      * Python
-       * Refrences:    
+       * References:    
          - [Tutorialspoint](https://www.tutorialspoint.com/python/index.htm)   
          - [w3schools](https://www.w3schools.com/python/)
          - [Scaler Topics](https://www.scaler.com/topics/python/)
