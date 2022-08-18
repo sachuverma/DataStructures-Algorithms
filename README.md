@@ -224,6 +224,9 @@ The list of questions within each pdf is further sorted by their frequency, so t
 This Challenge is beginner-friendly. It consists of daily problems given by Leetcode.  
 A problem is added here each day.
 
+### [🔰Technical Interview Questions](https://www.interviewbit.com/technical-interview-questions)
+
+The Ultimate Guide to Acing Your Technical Interview(2022): Review these commonly asked technical job interview questions and prepare your answer. 
 <br />
 
 ## 🏆 Theory Subjects
