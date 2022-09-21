@@ -694,6 +694,7 @@ Questions always revolves around the type of DB, why this DB, why not that DB, h
     - Full Join
     - Self Join
   - [What is View](https://www.geeksforgeeks.org/sql-views/)
+    - [Updating a View](https://www.scaler.com/topics/sql/views-in-sql/)
   - [What is trigger](https://www.geeksforgeeks.org/sql-trigger-student-database/)
   - [Unique & Primary key in SQL](https://www.geeksforgeeks.org/difference-between-primary-key-and-unique-key/)
   - [What is SQL Injection?](https://www.w3schools.com/sql/sql_injection.asp)
