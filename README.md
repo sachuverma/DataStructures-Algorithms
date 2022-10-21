@@ -59,7 +59,7 @@ My social media handles:
 
 People only chase after **FAANG**, because that's what is hyped up but now there are a lot of companies which:  
  - `Good opportunities to enhance oneself`
-`Pay Exceptionally Well`  
+ - `Pay Exceptionally Well`  
 `Good Work Life`  
 `Great Projects/Learning`  
 Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9NdApRf4TW1I/view?usp=sharing), and decide where you want to land.
