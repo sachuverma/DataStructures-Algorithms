@@ -297,7 +297,7 @@ If you don't have much time left for interviews, then you can directly look at t
 - What is CCP ? (Concurrency Control Protocols)
 - Entity, Entity Type, Entity Set, Weak Entity Set..
 - What are SQL commands ? Types of them..
-- Nested Queries in SQL ?
+- [Nested Queries in SQL ?](https://www.scaler.com/topics/nested-sql-query/)
 - What is JOIN .. Explain types of JOINs
 - Inner and Outer Join
 - Practice SQL queries from LeetCode
