@@ -1190,6 +1190,7 @@ Urls for other Notes, and Reading Resources picked from different editorials.
 - [📘 CPP Data Structures, Algorithms, and STL Sheet](./Resources/Articles/CPP-STL.md)
 - [📘 CPP Syntax Cheet Sheet](./Resources/Articles/CPP-SYNTAX.md)
 - [📘 GitHub Sheet](./Resources/Articles/GitCheatsheet.md)
+- [📘 Data Structures and Algorithms](https://www.scaler.com/topics/data-structures/)
 </details>
 
 <details>
