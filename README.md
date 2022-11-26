@@ -14,7 +14,7 @@
 an aspiring **Web Developer** and **Competitive Programmer**. -->
 
 I have compiled many useful links for **Data Structures and Algorithms** questions and their solutions.  
-I have also listed the **Theory Subjects**, which are often ignored by students but one must have a vast knowledge of them to help them in their interviews.  
+I have also listed the **Theory Subjects**, which are often **ignored** by students but one must have a vast knowledge of them to help them in their interviews.  
 I have also included the **Placement Ready Roadmap**, from `beginner level -> interview-ready candidate`
 
 <!-- My coding handles:
