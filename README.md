@@ -6,7 +6,7 @@
 [![LinkedIn][linkedin-sachu]][linkedin-url]
 [![Portfolio][portfolio-sachu]][portfolio-url]
 
-# DATA STRUCTURES & ALGORITHMS
+# DATA STRUCTURES & ALGORITHM
 
 `Resources and Solutions` `^_^`
 
