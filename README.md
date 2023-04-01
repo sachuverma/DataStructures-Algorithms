@@ -80,8 +80,7 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
     * main focus is on, that are you comfortable in writing code with your preferred language
   - Choices
      * C++
-       * [C++ (basics) Free Resource](https://bit.ly/3FWk7dC):
-       * References:     
+       * References:    
          - [cppreferences](https://en.cppreference.com/w/cpp)   
          - [tutorialspoint](https://www.tutorialspoint.com/cplusplus/index.htm)   
          - [cplusplus](http://www.cplusplus.com/reference/)
@@ -90,14 +89,12 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
          - 1-2 weeks   
          - 1-2 hrs/day   
      * Java
-       * [Java (basics) Free Resource](https://bit.ly/3FWXZ2G):
-       * References:     
+       * References:   
          - [Tutorialpoint](https://www.tutorialspoint.com/java/index.htm)   
          - [GFG](https://www.geeksforgeeks.org/java/)
          - [Scaler](https://www.scaler.com/topics/java/)
        * Time Required: same as above    
      * Python
-       * [Python (basics) Free Resource](https://bit.ly/3W71Wb0):
        * References:    
          - [Tutorialspoint](https://www.tutorialspoint.com/python/index.htm)   
          - [w3schools](https://www.w3schools.com/python/)
@@ -197,28 +194,19 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
 Remember: Deliberate practice does not mean looking for answers and memorizing them. You won't go very far with that approach. The more you are able to solve a problem yourself without any reference to answers, the more you will improve.
 </p>
 
-### [🔰Code Studio | Data Structures & Algorithms](https://bit.ly/3PvVE1Q)
-
-This is a complete roadmap (by Coding Ninjas) to cover all the Data Structure Algorithm topics and make you comfortable with the most important Algorithms in Data Structure for your interviews.
-
-
 ### [🔰Leetcode Study Plan](./Leetcode%20Study%20Plan)
 
-### [🔰DSA Crack Sheet](https://bit.ly/3PtPlfv) | [Solutions](./DSA%20Crack%20Sheet)
+### [🔰DSA Crack Sheet](./DSA%20Crack%20Sheet)
 
 Data Structures and Algorithms Cracks Sheet (created by @lovebabbar) contains the most necessary questions to learn and grasp about most common and important DS and Algos
 
-### [🔰Striver SDE Sheet](https://bit.ly/3j7zxD5) | [Solutions](./Striver%20Sheet)
+### [🔰Striver SDE Sheet](./Striver%20Sheet)
 
 Software Developer Engineer Sheet (created by @striver) contains asked during interviews by good product based companies.
 
 The sheet is divided in 30 parts to be completed in a month to get ready for an interview at a good company
 
-### [🔰FAANG Interview Preparation Questions (Coding Ninjas)](https://bit.ly/3uWtt2O)
-
-Prepare yourself to be interview-ready for that coveted FAANG role or for an upcoming and buzzing product-based unicorn startup with CodeStudio’s problem lists – a curation of top interview problems hand-picked by experts.
-
-### [🔰Top Interview Preparation Questions (Leetcode)](./Leetcode%20Top%20Interview%20Questions)
+### [🔰Top Interview Preparation Questions](./Leetcode%20Top%20Interview%20Questions)
 
 This is LeetCode's official curated list of Top classic interview questions to help you land your dream job. Our top interview questions are divided into the following series:
 
@@ -243,14 +231,8 @@ The Ultimate Guide to Acing Your Technical Interview(2022): Review these commonl
 
 ## 🏆 Theory Subjects
 
-These must-do questions should be done after studying these subjects in detail.    
+These must-do questions should be done after studying these subjects  
 If you don't have much time left for interviews, then you can directly look at them
-
-#### Resources (for quick revision): 
-  - [Operating System](https://bit.ly/3YwP7Zc) 
-  - [Database Management & Design](https://bit.ly/3Fx6yjl) 
-  - [Object Oriented Programming](https://bit.ly/3HDuDHV) 
-  - [Computer Networks](https://bit.ly/3HC13mh)
 
 <h3>MUST-DO Questions for Interviews
 (DBMS, CN and OS) </h3>
@@ -1189,8 +1171,7 @@ What to expect from these resources,
 
 ## 🏆 Other Notes and Resources
 
-#### 🔖Best book for Coding Interviews - [Cracking-The-Coding-Interview](https://bit.ly/3WpR6wy)      
-[Alternate Link 1](https://mega.nz/file/JJQRXQYR#b0EeBTHvGcPnvD-j8kuItzmgCnh1kZj32DDGIVQpFv0) [Alternate Link 2](https://mega.nz/folder/KhpUBLLR#cKmpMsctk9hV_p0hUaZG_Q)
+#### 🔖Best book for Coding Interviews - [Cracking-The-Coding-Interview](https://mega.nz/folder/KhpUBLLR#cKmpMsctk9hV_p0hUaZG_Q) | [Link 2](https://mega.nz/file/JJQRXQYR#b0EeBTHvGcPnvD-j8kuItzmgCnh1kZj32DDGIVQpFv0)
 
 ##### Some other helpful books
 
