@@ -99,6 +99,7 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
          - [Tutorialspoint](https://www.tutorialspoint.com/python/index.htm)   
          - [w3schools](https://www.w3schools.com/python/)
          - [Scaler Topics](https://www.scaler.com/topics/python/)
+         - [Wiingy](https://wiingy.com/learn/python/python-tutorial/)
        * Time Required: same as above
        * **Important Callout:** Some companies don't allow python as a choice in their online coding test, so prepare accordingly
 </details>
