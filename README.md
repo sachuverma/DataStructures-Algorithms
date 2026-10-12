@@ -178,6 +178,7 @@ Check their names [here](https://drive.google.com/file/d/15rjcHqjDN7gPU5e6nxb_9N
 
 - [Aptitude/Reasoning](https://www.geeksforgeeks.org/quiz-corner-gq/)
   - Do some mock tests to gain confidence
+  - [AISEA placement starter pack](https://www.aisea.in/for-colleges/starter-pack) - 15 free aptitude, reasoning, verbal and technical questions with worked answers and printable sheets; no account required.
 - Basic Programming MCQ
   - [C/C++/Java/Python fundamentals](https://www.geeksforgeeks.org/quiz-corner-gq/)
   - Print output type questions
